@@ -22,8 +22,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 ,广东珠江
 http://219.135.208.218:8083/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,广东珠江
-http://183.238.151.202:8181/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,广东珠江
 http://mom.coms.hk:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,开平综合
 http://php.jdshipin.com:8880/chudian.php?id=kpzh
@@ -36,21 +34,19 @@ http://www.namewee.xyz/gudou.php?id=jiangmenyitao_1500
 #EXTINF:-1 ,广东新闻
 http://mom.coms.hk:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,广东新闻
-http://183.238.151.202:8181/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,广东新闻
 http://219.135.208.218:8083/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,新会综合
 http://php.jdshipin.com:8880/chudian.php?id=xhzh
 #EXTINF:-1 ,鹤山综合
 http://php.jdshipin.com:8880/chudian.php?id=hszh
 #EXTINF:-1 ,广州综合
-http://183.238.151.202:8181/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+http://www.namewee.xyz/gudou.php?id=gzhounewsHD
 #EXTINF:-1 ,广州新闻
-http://116.21.123.52:4433/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+http://116.21.122.2:4433/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 ,广州竞赛
 http://www.namewee.xyz/gudou.php?id=gzfilmsgaoqing
 #EXTINF:-1 ,广州影视
-http://183.238.151.202:8181/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+http://116.21.122.2:4433/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 ,佛山综合
 http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500
 #EXTINF:-1 ,佛山公共
@@ -267,36 +263,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 ,金牌综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,iHOT爱院线
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱科幻
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱浪漫
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱喜剧
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱悬疑
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱赛车
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱奇谈
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱玩具
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱旅行
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱幼教
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱谍战
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱历史
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱科学
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱动漫
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,上海新闻
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000005/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000005&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 ,法治天地
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 ,浙江新闻
@@ -1517,28 +1483,6 @@ http://43.138.170.29:35455/huya/11352963
 http://43.138.170.29:35455/huya/880261
 #EXTINF:-1 ,蜘蛛侠
 http://43.138.170.29:35455/huya/21059599
-#EXTINF:-1 ,贺岁片
-http://43.138.170.29:35455/huya/11601986
-#EXTINF:-1 ,功夫片
-http://43.138.170.29:35455/huya/11352941
-#EXTINF:-1 ,黑帮片
-http://43.138.170.29:35455/huya/11336719
-#EXTINF:-1 ,丧尸片
-http://43.138.170.29:35455/huya/21059578
-#EXTINF:-1 ,灾难片
-http://43.138.170.29:35455/huya/11602075
-#EXTINF:-1 ,谍战片
-http://43.138.170.29:35455/huya/21059587
-#EXTINF:-1 ,战争片
-http://43.138.170.29:35455/huya/21059574
-#EXTINF:-1 ,犯罪片
-http://43.138.170.29:35455/huya/11352974
-#EXTINF:-1 ,古装片
-http://43.138.170.29:35455/huya/11336590
-#EXTINF:-1 ,高分动作
-http://43.138.170.29:35455/huya/11352884
-#EXTINF:-1 ,搞笑喜剧
-http://43.138.170.29:35455/huya/11342423
 #EXTINF:-1 ,喜剧专场
 http://43.138.170.29:35455/huya/11602044
 #EXTINF:-1 ,欢笑影院
@@ -1943,8 +1887,6 @@ http://43.138.170.29:35455/yy/1354775242
 http://43.138.170.29:35455/yy/1394102549
 #EXTINF:-1 ,战狼6吴京首播
 http://43.138.170.29:35455/yy/1354330332
-#EXTINF:-1 ,24H欧美惊悚科幻
-http://43.138.170.29:35455/yy/1382656234
 #EXTINF:-1 ,燃爆动作片
 http://43.138.170.29:35455/yy/1382736801
 #EXTINF:-1 ,欢乐集结号
@@ -2003,8 +1945,6 @@ http://43.138.170.29:35455/yy/1355497884
 http://43.138.170.29:35455/yy/1382735573
 #EXTINF:-1 ,鸡毛飞上天
 http://43.138.170.29:35455/yy/1354806550
-#EXTINF:-1 ,国外科幻
-http://43.138.170.29:35455/yy/1382736800
 #EXTINF:-1 ,欢乐集结号
 http://43.138.170.29:35455/yy/1382735550
 #EXTINF:-1 ,热门喜剧
@@ -2169,8 +2109,6 @@ http://43.138.170.29:35455/yy/40959929
 http://43.138.170.29:35455/yy/1382736863
 #EXTINF:-1 ,国威影院 仙侠系列
 http://43.138.170.29:35455/yy/1354866665
-#EXTINF:-1 ,人生必看的科幻片
-http://43.138.170.29:35455/yy/1382745114
 #EXTINF:-1 ,国内战争大片合集
 http://43.138.170.29:35455/yy/1382749950
 #EXTINF:-1 ,正阳门下小女人
@@ -2213,8 +2151,6 @@ http://43.138.170.29:35455/yy/1382773714
 http://43.138.170.29:35455/yy/1382749903
 #EXTINF:-1 ,大汉天子S3
 http://43.138.170.29:35455/yy/1382736810
-#EXTINF:-1 ,超炫科幻大片
-http://43.138.170.29:35455/yy/1382736840
 #EXTINF:-1 ,冕加电影院 正在直播
 http://43.138.170.29:35455/yy/1339157813
 #EXTINF:-1 ,金三角大营救
@@ -2317,12 +2253,6 @@ http://43.138.170.29:35455/yy/1382736898
 http://43.138.170.29:35455/yy/1355911201
 #EXTINF:-1 ,农家小菜
 http://43.138.170.29:35455/yy/1382736894
-#EXTINF:-1 ,高分科幻动作片
-http://43.138.170.29:35455/yy/1382749948
-#EXTINF:-1 ,外国科幻大片
-http://43.138.170.29:35455/yy/1382747628
-#EXTINF:-1 ,国内科幻片
-http://43.138.170.29:35455/yy/1382745110
 #EXTINF:-1 ,神厨小福贵
 http://43.138.170.29:35455/yy/1382736860
 #EXTINF:-1 ,动作大片
@@ -2357,8 +2287,6 @@ http://43.138.170.29:35455/yy/1382749940
 http://43.138.170.29:35455/yy/1354930961
 #EXTINF:-1 ,编辑部的故事
 http://43.138.170.29:35455/yy/1354936120
-#EXTINF:-1 ,科幻电影
-http://43.138.170.29:35455/yy/1354930209
 #EXTINF:-1 ,经典二战
 http://43.138.170.29:35455/yy/1354936238
 #EXTINF:-1 ,喜剧闹翻天
@@ -3474,7 +3402,7 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244
 #EXTINF:-1 ,湖南公共
 http://124.228.160.211:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南公共
-http://223.159.8.55:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
+http://223.159.10.211:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 ,湖南国际
 http://175.10.228.184:9998/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南国际
@@ -3482,69 +3410,67 @@ http://175.10.228.184:9998/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1 ,湖南国际
 http://42.48.17.188:9901/tsfile/live/37229_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南国际
-http://222.241.154.37:9901/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.159.10.211:8099/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 ,湖南国际
-http://223.159.8.55:8099/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南娱乐
-http://124.228.160.211:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.241.154.37:9901/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南娱乐
 http://175.10.228.184:9998/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南娱乐
 http://42.48.17.188:9901/tsfile/live/37221_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南娱乐
-http://222.241.154.37:9901/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.211:9901/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南娱乐
-http://223.159.8.55:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+http://223.159.10.211:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,湖南娱乐
+http://222.241.154.37:9901/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南教育
 http://42.48.17.188:9901/tsfile/live/37223_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南教育
-http://223.159.8.55:8099/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+http://223.159.10.211:8099/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 ,湖南教育台
 http://222.241.154.37:9901/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南爱晚
 http://222.241.154.37:9901/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南电影
-http://124.228.160.211:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南电影
 http://175.10.228.184:9998/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南电影
 http://42.48.17.188:9901/tsfile/live/37220_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南电影
-http://222.241.154.37:9901/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.211:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南电影
-http://223.159.8.55:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南电视剧
-http://124.228.160.211:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.159.10.211:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,湖南电影
+http://222.241.154.37:9901/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南电视剧
 http://42.48.17.188:9901/tsfile/live/37219_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南电视剧
-http://222.241.154.37:9901/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.211:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南电视剧
-http://223.159.8.55:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南经视
-http://124.228.160.211:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.159.10.211:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,湖南电视剧
+http://222.241.154.37:9901/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南经视
 http://42.48.17.188:9901/tsfile/live/37217_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南经视
-http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
+http://124.228.160.211:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南经视
-http://223.159.8.55:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南都市
-http://124.228.160.211:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+http://223.159.10.211:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,湖南经视
+http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南都市
 http://175.10.228.184:9998/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南都市
-http://222.241.154.37:9901/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南都市
-http://113.218.218.5:8001/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南都市
 http://42.48.17.188:9901/tsfile/live/37218_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,湖南都市
-http://223.159.8.55:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+http://124.228.160.211:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 ,湖南都市
+http://223.159.10.211:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 ,湖南都市
+http://222.241.154.37:9901/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,金鹰纪实
 http://124.228.160.211:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 ,金鹰纪实
-http://223.159.8.55:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
+http://223.159.10.211:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 ,J2
 http://cdn8.jdshipin.com:8880/smt.php?id=j2_twn
 #EXTINF:-1 ,无线新闻台
@@ -3779,7 +3705,7 @@ https://fanmingming.com/fm?id=1600
 https://fanmingming.com/fm?id=2397
 #EXTINF:-1 ,年代音乐1032
 https://fanmingming.com/fm?id=2398
-#EXTINF:-1 ,====== 20:27:55,url ======
+#EXTINF:-1 ,====== 20:28:13,url ======
 http://0/0.m3u8
 #EXTINF:-1 ,CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
@@ -3857,34 +3783,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 #EXTINF:-1 ,NEWTV金牌综艺
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,iHOT爱院线
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000034/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000034&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱科幻
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000033&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱浪漫
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000035/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000035&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱喜剧
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000032/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000032&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱悬疑
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000036/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000036&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱赛车
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000055/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000055&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱奇谈
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000058/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000058&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱玩具
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000053/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000053&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱旅行
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000056/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000056&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱幼教
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱谍战
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000038/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000038&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱历史
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000046/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000046&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱科学
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000047/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000047&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,iHOT爱动漫
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 ,法治天地
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 ,浙江公共新闻
