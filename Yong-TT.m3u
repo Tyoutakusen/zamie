@@ -92,11 +92,11 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 ,海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 ,凤凰资讯
+http://yujukoo.gicp.net:8888/udp/239.93.0.118:2191
+#EXTINF:-1 ,凤凰资讯
 http://119.4.54.112:8848/udp/239.93.0.118:2191
 #EXTINF:-1 ,凤凰资讯
-http://27.156.105.83:8888/rtp/239.61.2.183:9086
-#EXTINF:-1 ,凤凰资讯
-http://222.211.227.103:2345/udp/239.93.0.118:2191
+http://yulang132.cn:58888/udp/239.93.0.118:2191
 #EXTINF:-1 ,凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,CCTV2
