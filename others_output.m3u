@@ -19,42 +19,6 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 ,Trace_Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 ,广东珠江
-http://106.52.31.219:9901http://112.89.121.24:80/PLTV/88888973/224/3221226219/10000100000000060000000001339127_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkA8XRtoLtcXa3827qxtKmF:20181110091937,END&GuardEncType=2
-#EXTINF:-1 ,广东珠江
-http://49.234.31.101:7004udp://@224.9.2.13:5000
-#EXTINF:-1 ,开平综合
-http://php.jdshipin.com:8880/chudian.php?id=kpzh
-#EXTINF:-1 ,开平生活
-http://php.jdshipin.com:8880/chudian.php?id=kpsh
-#EXTINF:-1 ,江门综合
-http://tidelive.jmtv.cn/lsdream/4x3T0dO/993/r534500.m3u8
-#EXTINF:-1 ,江门侨乡生活
-http://www.namewee.xyz/gudou.php?id=jiangmenyitao_1500
-#EXTINF:-1 ,广东新闻
-http://106.52.31.219:9901http://112.89.121.21:80/PLTV/88888973/224/3221225719/10000100000000060000000000334142_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2443,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowk/inuEY/E/H3Sdg8+Iylto:20181110091937,END&GuardEncType=2
-#EXTINF:-1 ,广东新闻
-http://49.234.31.101:7004udp://@224.9.2.14:5000
-#EXTINF:-1 ,新会综合
-http://php.jdshipin.com:8880/chudian.php?id=xhzh
-#EXTINF:-1 ,鹤山综合
-http://php.jdshipin.com:8880/chudian.php?id=hszh
-#EXTINF:-1 ,广州综合
-http://www.namewee.xyz/gudou.php?id=gzhounewsHD
-#EXTINF:-1 ,广州新闻
-http://www.namewee.xyz/gudou.php?id=gzhouzongheHD
-#EXTINF:-1 ,广州竞赛
-http://www.namewee.xyz/gudou.php?id=gzfilmsgaoqing
-#EXTINF:-1 ,广州影视
-https://justsometime.gztv.com/sec/yingshi.m3u8
-#EXTINF:-1 ,佛山综合
-http://www.namewee.xyz/gudou.php?id=foshanzongheHD_4500
-#EXTINF:-1 ,佛山公共
-http://www.namewee.xyz/gudou.php?id=foshangonggongHD_4500
-#EXTINF:-1 ,佛山影视
-http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
-#EXTINF:-1 ,顺德综合
-http://www.namewee.xyz/gudou.php?id=shundeHD_4500
 #EXTINF:-1 ,珠海
 http://113.86.204.95:9999/udp/239.77.0.155:5146
 #EXTINF:-1 ,上海
@@ -141,8 +105,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 ,乐游频道
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,金鹰纪实
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 ,茶友频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I
 #EXTINF:-1 ,快乐垂钓
@@ -181,20 +143,8 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
 #EXTINF:-1 ,法治天地
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 ,浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 ,浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 ,浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 ,浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 ,浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 ,内蒙新闻
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 #EXTINF:-1 ,内蒙经济
@@ -225,24 +175,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 ,纪实人文
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 ,金鹰纪实
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 ,湖南爱晚
-http://222.241.154.37:9901/tsfile/live/23022_1.m3u8
-#EXTINF:-1 ,湖南视剧
-http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
-#EXTINF:-1 ,湖南电影
-http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
-#EXTINF:-1 ,湖南都市
-http://222.241.154.37:9901/tsfile/live/23021_1.m3u8
-#EXTINF:-1 ,湖南国际
-http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
-#EXTINF:-1 ,湖南经视
-http://222.241.154.37:9901/tsfile/live/23020_1.m3u8
-#EXTINF:-1 ,湖南娱乐
-http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
-#EXTINF:-1 ,湖南教育
-http://222.241.154.37:9901/tsfile/live/23027_1.m3u8
 #EXTINF:-1 ,湖北综合
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLx3R3LdIBdA5q61lut1LwZcw4SC2tJubc%2Bq5t%2F61jvWCtjrJL0x%2BHncPgdmcbBW9I
 #EXTINF:-1 ,湖北影视
@@ -255,20 +187,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNKgjpyhD%2FJd6SZjkcHAKXbsjwotAY57dianC4%2ByY7artm7J7F4GFO6G99D0bYMJRxI
 #EXTINF:-1 ,湖北经视
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUUAdKgLqNB5aOAUhcp5CeNLVCQ3pDe4nBySab%2B3xPL123aTSCRugzF2ABe36IIJw2evZbYdWUo0ffUw53bflDgU
-#EXTINF:-1 ,浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 ,浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 ,浙江教科
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 ,浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 ,浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 ,浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 ,龙江文体
 http://[2409:8087:1a01:df::4025]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/1.m3u8
 #EXTINF:-1 ,龙江都市
@@ -2541,8 +2461,6 @@ http://159.75.85.63:5680/d/ad/playad.m3u8
 https://live.goodiptv.club/api/bestv.php?id=hxjc8m/8000000
 #EXTINF:-1 ,快乐垂钓
 https://live.goodiptv.club/api/bestv.php?id=klcd8m/8000000
-#EXTINF:-1 ,金鹰纪实
-https://live.goodiptv.club/api/bestv.php?id=jyjs8m/8000000
 #EXTINF:-1 ,全纪实
 https://live.goodiptv.club/api/bestv.php?id=qjshd8m/8000000
 #EXTINF:-1 ,新视觉
@@ -2769,44 +2687,6 @@ http://stream1.jlntv.cn/xcpd/sd/live.m3u8
 http://jzlive.jztvnews.com:90/live/jzgg.m3u8
 #EXTINF:-1 ,晋中综合
 http://jzlive.jztvnews.com:90/live/jzzh.m3u8
-#EXTINF:-1 ,浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 ,浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8
-#EXTINF:-1 ,浙江教育台
-http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,浙江教育台
-http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
-#EXTINF:-1 ,浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 ,浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 ,浙江留学
-http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-#EXTINF:-1 ,浙江龙泉
-http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8
-#EXTINF:-1 ,浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 ,浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8
-#EXTINF:-1 ,浙江钱江频道
-http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 ,浙江钱江台
-http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 ,浙江青田
-http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
-#EXTINF:-1 ,浙江数码时代
-http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 ,浙江松阳
-http://l.cztvcloud.com/channels/lantian/SXsongyang1/720p.m3u8
-#EXTINF:-1 ,浙江遂昌
-http://l.cztvcloud.com/channels/lantian/SXsuichang1/720p.m3u8
-#EXTINF:-1 ,浙江新闻
-http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 ,浙江新闻
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 ,浙江休闲台
-http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 ,无线新闻台
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 ,有線新聞
@@ -2889,8 +2769,6 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3695b0bdef5e698635e
 #EXTINF:-1 ,荔枝台
 http://glive.grtn.cn/live/lizhi.m3u8
-#EXTINF:-1 ,广东珠江
-http://116.162.6.191/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/1300.m3u8
 #EXTINF:-1 ,面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 ,无线新闻
@@ -3129,34 +3007,6 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361367/main.m3u8
 #EXTINF:-1 ,CETV-4
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000024000000361368/main.m3u8
-#EXTINF:-1 ,湖南经视
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000002000000113182/main.m3u8
-#EXTINF:-1 ,湖南都市
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001249/main.m3u8
-#EXTINF:-1 ,湖南电视剧
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001245/main.m3u8
-#EXTINF:-1 ,湖南电影
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001246/main.m3u8
-#EXTINF:-1 ,湖南娱乐
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001248/main.m3u8
-#EXTINF:-1 ,金鹰纪实
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007228/main.m3u8
-#EXTINF:-1 ,湖南爱晚
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047425/main.m3u8
-#EXTINF:-1 ,湖南国际
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047426/main.m3u8
-#EXTINF:-1 ,湖南教育
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000023000000196697/main.m3u8
-#EXTINF:-1 ,长沙新闻
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047429/main.m3u8
-#EXTINF:-1 ,长沙政法
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047430/main.m3u8
-#EXTINF:-1 ,长沙政法
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182540/main.m3u8
-#EXTINF:-1 ,长沙女性
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182541/main.m3u8
-#EXTINF:-1 ,长沙影视
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182542/main.m3u8
 #EXTINF:-1 ,老故事
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000448839/main.m3u8
 #EXTINF:-1 ,怀旧剧场
@@ -3201,48 +3051,6 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244796/main.m3u8
 #EXTINF:-1 ,电视指南
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000091000000244797/main.m3u8
-#EXTINF:-1 ,湖南公共
-http://223.159.11.136:8099/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南国际
-http://175.10.228.227:8081/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南国际
-http://223.159.11.136:8099/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南国际
-http://222.241.154.37:9901/tsfile/live/23024_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南娱乐
-http://42.48.17.188:9901/tsfile/live/37221_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南娱乐
-http://175.10.228.227:8081/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南娱乐
-http://223.159.11.136:8099/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南娱乐
-http://222.241.154.37:9901/tsfile/live/23023_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南教育
-http://223.159.11.136:8099/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南教育台
-http://222.241.154.37:9901/tsfile/live/23027_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南爱晚
-http://222.241.154.37:9901/tsfile/live/23022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南电影
-http://42.48.17.188:9901/tsfile/live/37220_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南电影
-http://223.159.11.136:8099/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南电影
-http://222.241.154.37:9901/tsfile/live/23025_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南电视剧
-http://223.159.11.136:8099/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南电视剧
-http://222.241.154.37:9901/tsfile/live/23026_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南经视
-http://223.159.11.136:8099/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南经视
-http://222.241.154.37:9901/tsfile/live/23020_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,湖南都市
-http://223.159.11.136:8099/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 ,湖南都市
-http://222.241.154.37:9901/tsfile/live/23021_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 ,金鹰纪实
-http://223.159.11.136:8099/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 ,J2
 http://cdn8.jdshipin.com:8880/smt.php?id=j2_twn
 #EXTINF:-1 ,无线新闻台
@@ -3413,8 +3221,6 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 ,全纪实
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,金鹰纪实
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4766929BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 ,茶
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSBx06ZL9Bo6JOM%2BSTjxZRIdUCZxTtaM%2Bza0L7mJjkPMmnEhAf%2Bi68sKjzRCbPoTU0E%2B6Pia2CkRtxgPs8Tmw7I
 #EXTINF:-1 ,快乐垂钓
@@ -3461,20 +3267,6 @@ http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 #EXTINF:-1 ,法治天地
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000014&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 ,浙江公共新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 ,浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 ,浙江教科影视
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 ,浙江民生休闲
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 ,浙江经视
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 ,浙江钱江都市
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 ,内蒙古综合
 https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 #EXTINF:-1 ,内蒙古经济生活
@@ -3489,20 +3281,8 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 #EXTINF:-1 ,义乌新闻综合
 https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
-#EXTINF:-1 ,浙江钱江都市
-http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 ,浙江经济生活
-http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 ,浙江教科影院
 http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,浙江民生休闲
-http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 ,浙江新闻
-http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 ,中国蓝新闻
-http://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8
-#EXTINF:-1 ,浙江国际
-http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 ,数码时代
 http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 ,武义新闻综合
@@ -3865,14 +3645,6 @@ https://vip.ffzy-play7.com/20221209/9048_80e2a1cb/index.m3u8
 https://vip.ffzy-play7.com/20221206/8232_7462fce8/index.m3u8
 #EXTINF:-1 ,肝胆相照
 https://vip.ffzy-play7.com/20221115/4468_44f459bb/index.m3u8
-#EXTINF:-1 ,人在囧途
-https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
-#EXTINF:-1 ,人在囧途之泰囧
-https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
-#EXTINF:-1 ,人在囧途之港囧
-https://vip.ffzy-play7.com/20230112/11082_fde1a94d/index.m3u8
-#EXTINF:-1 ,人在囧途之囧妈
-https://vip.ffzy-online.com/20230122/54089_b5925cb9/index.m3u8
 #EXTINF:-1 ,美人鱼
 https://free-adsmind.ugdtimg.com/0b2etuaamaaaeuanvs4p4nqvbhoda2oqabqa.f10002.mp4
 #EXTINF:-1 ,搞定岳父大人
@@ -3897,10 +3669,6 @@ https://vip.ffzy-play7.com/20221115/4476_05997c13/index.m3u8
 https://vip.ffzy-play6.com/20221112/6296_32b14901/index.m3u8
 #EXTINF:-1 ,过年
 https://vip.ffzy-play6.com/20221112/6307_79a4bfc2/index.m3u8
-#EXTINF:-1 ,寒战1
-https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
-#EXTINF:-1 ,寒战2
-https://vip.lz-cdn3.com/20220907/12892_5eb849b0/index.m3u8
 #EXTINF:-1 ,行运一条龙
 https://vip.ffzy-play6.com/20221112/6024_432f2afd/index.m3u8
 #EXTINF:-1 ,豪门夜宴
@@ -4239,12 +4007,6 @@ https://vip.ffzy-play1.com/20221018/512_4544d0ed/index.m3u8
 https://vip.ffzy-play6.com/20221019/118_1367b8f6/index.m3u8
 #EXTINF:-1 ,无敌幸运星
 https://free-adsmind.ugdtimg.com/0b2egyabqaaaxyaio6pe35rvanwdda3aagaa.f10004.mp4
-#EXTINF:-1 ,无间道1
-https://vip.ffzy-play6.com/20221017/13_ddfc1740/index.m3u8
-#EXTINF:-1 ,无间道2
-https://vip.lzcdn2.com/20220323/300_8be28e1c/index.m3u8
-#EXTINF:-1 ,无间道3:终极无间
-https://vip.ffzy-play2.com/20221127/1567_f1965b4b/index.m3u8
 #EXTINF:-1 ,无人区
 https://vip.ffzy-play6.com/20221019/203_ce8ad9b0/index.m3u8
 #EXTINF:-1 ,无双
