@@ -17,8 +17,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1 ,Wild_Earth
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 ,Trace_Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 ,珠海
 http://113.86.204.95:9999/udp/239.77.0.155:5146
 #EXTINF:-1 ,上海
@@ -311,8 +309,6 @@ https://i.mjh.nz/SamsungTVPlus/GBBB5000002PL.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 #EXTINF:-1 ,Stadium
 https://i.mjh.nz/SamsungTVPlus/USAJ3504705A.m3u8
-#EXTINF:-1 ,Trace_Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 ,Pop
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/226
 #EXTINF:-1 ,Tastemade
@@ -453,6 +449,10 @@ http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
 http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 #EXTINF:-1 ,咪咕直播_𝟛𝟞「IPV6」
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
+#EXTINF:-1 ,「B站」CS_2
+http://live.iill.top/bilibili.php?id=21622811
+#EXTINF:-1 ,「B站」英雄联盟
+http://live.iill.top/bilibili.php?id=6
 #EXTINF:-1 ,「虎牙」英雄联盟_𝟙
 http://live.iill.top/huya.php?id=660000
 #EXTINF:-1 ,「虎牙」英雄联盟_𝟚
@@ -460,7 +460,13 @@ http://live.iill.top/huya.php?id=660001
 #EXTINF:-1 ,「斗鱼」英雄联盟_𝟙
 http://live.iill.top/douyu.php?id=288016
 #EXTINF:-1 ,「斗鱼」英雄联盟_𝟚
-http://live.iill.top/douyu.php?id=998
+http://live.iill.top/douyu.php?id=424559
+#EXTINF:-1 ,「B站」英雄联盟•手游
+http://live.iill.top/bilibili.php?id=23138275
+#EXTINF:-1 ,「B站」王者荣耀_𝟙
+http://live.iill.top/bilibili.php?id=55
+#EXTINF:-1 ,「B站」王者荣耀_𝟚
+http://live.iill.top/bilibili.php?id=21654762
 #EXTINF:-1 ,「虎牙」王者荣耀_𝟙
 http://live.iill.top/huya.php?id=660002
 #EXTINF:-1 ,「虎牙」王者荣耀_𝟚
@@ -469,6 +475,8 @@ http://live.iill.top/huya.php?id=660164
 http://live.iill.top/douyu.php?id=1863767
 #EXTINF:-1 ,「斗鱼」王者荣耀_𝟚
 http://live.iill.top/douyu.php?id=1984839
+#EXTINF:-1 ,「B站」绝地求生
+http://live.iill.top/bilibili.php?id=98
 #EXTINF:-1 ,「虎牙」绝地求生_𝟙
 http://live.iill.top/huya.php?id=660004
 #EXTINF:-1 ,「虎牙」绝地求生_𝟚
@@ -483,8 +491,6 @@ http://live.iill.top/douyu.php?id=999
 http://live.iill.top/huya.php?id=660579
 #EXTINF:-1 ,「斗鱼」金铲铲之战
 http://live.iill.top/douyu.php?id=9715241
-#EXTINF:-1 ,「斗鱼」CSGO
-http://live.iill.top/douyu.php?id=601514
 #EXTINF:-1 ,「虎牙」DOTA2
 http://live.iill.top/huya.php?id=660118
 #EXTINF:-1 ,「斗鱼」DOTA2
@@ -493,6 +499,10 @@ http://live.iill.top/douyu.php?id=3811559
 http://live.iill.top/douyu.php?id=522423
 #EXTINF:-1 ,「虎牙」永劫无间
 http://live.iill.top/huya.php?id=660115
+#EXTINF:-1 ,「斗鱼」永劫无间
+http://live.iill.top/huya.php?id=9662891
+#EXTINF:-1 ,「B站」使命召唤•手游
+http://live.iill.top/bilibili.php?id=22741849
 #EXTINF:-1 ,「虎牙」使命召唤•手游
 http://live.iill.top/huya.php?id=11718629
 #EXTINF:-1 ,「斗鱼」使命召唤•手游
@@ -505,22 +515,32 @@ http://live.iill.top/douyu.php?id=605964
 http://live.iill.top/douyu.php?id=5388537
 #EXTINF:-1 ,「虎牙」穿越火线•手游
 http://live.iill.top/huya.php?id=660102
+#EXTINF:-1 ,「B站」第五人格
+http://live.iill.top/bilibili.php?id=5555
 #EXTINF:-1 ,「虎牙」第五人格
 http://live.iill.top/huya.php?id=idvesports
-#EXTINF:-1 ,「斗鱼」第五人格_𝟙
+#EXTINF:-1 ,「斗鱼」第五人格
 http://live.iill.top/douyu.php?id=3226194
-#EXTINF:-1 ,「斗鱼」第五人格_𝟚
-http://live.iill.top/douyu.php?id=11030737
 #EXTINF:-1 ,「虎牙」逆战
 http://live.iill.top/huya.php?id=nsl2021
+#EXTINF:-1 ,「B站」无畏契约
+http://live.iill.top/bilibili.php?id=22908869
+#EXTINF:-1 ,「虎牙」无畏契约
+http://live.iill.top/huya.php?id=660679
+#EXTINF:-1 ,「斗鱼」无畏契约
+http://live.iill.top/douyu.php?id=4585645
 #EXTINF:-1 ,「斗鱼」原神
 http://live.iill.top/douyu.php?id=10853239
+#EXTINF:-1 ,「B站」QQ飞车•手游
+http://live.iill.top/bilibili.php?id=21743919
 #EXTINF:-1 ,「斗鱼」QQ飞车•手游
 http://live.iill.top/douyu.php?id=5040227
-#EXTINF:-1 ,「虎牙」无畏契约_𝟙
-http://live.iill.top/huya.php?id=660679
-#EXTINF:-1 ,「斗鱼」无畏契约_𝟚
-http://live.iill.top/douyu.php?id=4585645
+#EXTINF:-1 ,「斗鱼」梦幻西游·手游
+http://live.iill.top/huya.php?id=9163712
+#EXTINF:-1 ,「斗鱼」街霸
+http://live.iill.top/huya.php?id=11437
+#EXTINF:-1 ,「B站」JJ斗地主
+http://live.iill.top/bilibili.php?id=22021983
 #EXTINF:-1 ,「斗鱼」JJ斗地主
 http://live.iill.top/douyu.php?id=488743
 #EXTINF:-1 ,「斗鱼」我的世界
@@ -2917,14 +2937,10 @@ http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040367/main.m3u8
 #EXTINF:-1 ,快乐垂钓
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040368/main.m3u8
-#EXTINF:-1 ,梨园
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308847/main.m3u8
 #EXTINF:-1 ,优优宝贝
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040377/main.m3u8
 #EXTINF:-1 ,山东教育
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000016000000007227/main.m3u8
-#EXTINF:-1 ,天元围棋
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000010000000040365/main.m3u8
 #EXTINF:-1 ,文物宝库
 http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000064000000308848/main.m3u8
 #EXTINF:-1 ,武术世界
@@ -3225,8 +3241,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
 #EXTINF:-1 ,哒啵赛事
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-#EXTINF:-1 ,梨园
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 #EXTINF:-1 ,NEWTV超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 ,NEWTV超级电视剧
@@ -3277,8 +3291,6 @@ https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=b5e44fcd9473993661f
 https://livestream-bt.nmtv.cn/nmtv/2321general.m3u8?txSecret=2250268a1d326dbbc4cbf0ba32649ca5&txTime=771E8800
 #EXTINF:-1 ,北京冬奥纪实
 http://39.134.66.66/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,北京卡酷少儿
-http://39.134.66.66/PLTV/88888888/224/3221225562/index.m3u8
 #EXTINF:-1 ,大庆公共
 http://39.134.66.66/PLTV/88888888/224/3221225734/index.m3u8
 #EXTINF:-1 ,大庆新闻综合
@@ -3509,10 +3521,6 @@ https://vip.ffzy-play2.com/20221021/73_d5c05ae2/index.m3u8
 https://cdn2.yzzy-tv-cdn.com/20220330/4069_8714f6bb/index.m3u8
 #EXTINF:-1 ,不见不散
 https://vip.ffzy-play7.com/20221112/3752_596da0f3/index.m3u8
-#EXTINF:-1 ,拆弹专家1
-https://vip.ffzy-online.com/20221015/719_80ff87c2/index.m3u8
-#EXTINF:-1 ,拆弹专家2
-https://vip.ffzy-online.com/20221015/722_e32c42bc/index.m3u8
 #EXTINF:-1 ,超级计划
 https://vip.ffzy-play7.com/20221112/3764_fd2b007a/index.m3u8
 #EXTINF:-1 ,超时空同居
