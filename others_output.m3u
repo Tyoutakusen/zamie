@@ -449,108 +449,6 @@ http://[2409:8087:1a01:df::4027]/PLTV/88888888/224/3221225914/index.m3u8
 http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 #EXTINF:-1 ,咪咕直播_𝟛𝟞「IPV6」
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-#EXTINF:-1 ,「B站」CS_2
-http://live.iill.top/bilibili.php?id=21622811
-#EXTINF:-1 ,「B站」英雄联盟
-http://live.iill.top/bilibili.php?id=6
-#EXTINF:-1 ,「虎牙」英雄联盟_𝟙
-http://live.iill.top/huya.php?id=660000
-#EXTINF:-1 ,「虎牙」英雄联盟_𝟚
-http://live.iill.top/huya.php?id=660001
-#EXTINF:-1 ,「斗鱼」英雄联盟_𝟙
-http://live.iill.top/douyu.php?id=288016
-#EXTINF:-1 ,「斗鱼」英雄联盟_𝟚
-http://live.iill.top/douyu.php?id=424559
-#EXTINF:-1 ,「B站」英雄联盟•手游
-http://live.iill.top/bilibili.php?id=23138275
-#EXTINF:-1 ,「B站」王者荣耀_𝟙
-http://live.iill.top/bilibili.php?id=55
-#EXTINF:-1 ,「B站」王者荣耀_𝟚
-http://live.iill.top/bilibili.php?id=21654762
-#EXTINF:-1 ,「虎牙」王者荣耀_𝟙
-http://live.iill.top/huya.php?id=660002
-#EXTINF:-1 ,「虎牙」王者荣耀_𝟚
-http://live.iill.top/huya.php?id=660164
-#EXTINF:-1 ,「斗鱼」王者荣耀_𝟙
-http://live.iill.top/douyu.php?id=1863767
-#EXTINF:-1 ,「斗鱼」王者荣耀_𝟚
-http://live.iill.top/douyu.php?id=1984839
-#EXTINF:-1 ,「B站」绝地求生
-http://live.iill.top/bilibili.php?id=98
-#EXTINF:-1 ,「虎牙」绝地求生_𝟙
-http://live.iill.top/huya.php?id=660004
-#EXTINF:-1 ,「虎牙」绝地求生_𝟚
-http://live.iill.top/huya.php?id=660005
-#EXTINF:-1 ,「斗鱼」绝地求生
-http://live.iill.top/douyu.php?id=100
-#EXTINF:-1 ,「虎牙」和平精英
-http://live.iill.top/huya.php?id=660006
-#EXTINF:-1 ,「斗鱼」和平精英
-http://live.iill.top/douyu.php?id=999
-#EXTINF:-1 ,「虎牙」金铲铲之战
-http://live.iill.top/huya.php?id=660579
-#EXTINF:-1 ,「斗鱼」金铲铲之战
-http://live.iill.top/douyu.php?id=9715241
-#EXTINF:-1 ,「虎牙」DOTA2
-http://live.iill.top/huya.php?id=660118
-#EXTINF:-1 ,「斗鱼」DOTA2
-http://live.iill.top/douyu.php?id=3811559
-#EXTINF:-1 ,「斗鱼」云顶之弈
-http://live.iill.top/douyu.php?id=522423
-#EXTINF:-1 ,「虎牙」永劫无间
-http://live.iill.top/huya.php?id=660115
-#EXTINF:-1 ,「斗鱼」永劫无间
-http://live.iill.top/huya.php?id=9662891
-#EXTINF:-1 ,「B站」使命召唤•手游
-http://live.iill.top/bilibili.php?id=22741849
-#EXTINF:-1 ,「虎牙」使命召唤•手游
-http://live.iill.top/huya.php?id=11718629
-#EXTINF:-1 ,「斗鱼」使命召唤•手游
-http://live.iill.top/douyu.php?id=9223245
-#EXTINF:-1 ,「虎牙」穿越火线
-http://live.iill.top/huya.php?id=660101
-#EXTINF:-1 ,「斗鱼」穿越火线_𝟙
-http://live.iill.top/douyu.php?id=605964
-#EXTINF:-1 ,「斗鱼」穿越火线_𝟚
-http://live.iill.top/douyu.php?id=5388537
-#EXTINF:-1 ,「虎牙」穿越火线•手游
-http://live.iill.top/huya.php?id=660102
-#EXTINF:-1 ,「B站」第五人格
-http://live.iill.top/bilibili.php?id=5555
-#EXTINF:-1 ,「虎牙」第五人格
-http://live.iill.top/huya.php?id=idvesports
-#EXTINF:-1 ,「斗鱼」第五人格
-http://live.iill.top/douyu.php?id=3226194
-#EXTINF:-1 ,「虎牙」逆战
-http://live.iill.top/huya.php?id=nsl2021
-#EXTINF:-1 ,「B站」无畏契约
-http://live.iill.top/bilibili.php?id=22908869
-#EXTINF:-1 ,「虎牙」无畏契约
-http://live.iill.top/huya.php?id=660679
-#EXTINF:-1 ,「斗鱼」无畏契约
-http://live.iill.top/douyu.php?id=4585645
-#EXTINF:-1 ,「斗鱼」原神
-http://live.iill.top/douyu.php?id=10853239
-#EXTINF:-1 ,「B站」QQ飞车•手游
-http://live.iill.top/bilibili.php?id=21743919
-#EXTINF:-1 ,「斗鱼」QQ飞车•手游
-http://live.iill.top/douyu.php?id=5040227
-#EXTINF:-1 ,「斗鱼」梦幻西游·手游
-http://live.iill.top/huya.php?id=9163712
-#EXTINF:-1 ,「斗鱼」街霸
-http://live.iill.top/huya.php?id=11437
-#EXTINF:-1 ,「B站」JJ斗地主
-http://live.iill.top/bilibili.php?id=22021983
-#EXTINF:-1 ,「斗鱼」JJ斗地主
-http://live.iill.top/douyu.php?id=488743
-#EXTINF:-1 ,「斗鱼」我的世界
-http://live.iill.top/douyu.php?id=738878
-#EXTINF:-1 ,「斗鱼」FIFA
-http://live.iill.top/douyu.php?id=7692166
-#EXTINF:-1 ,「斗鱼」跑跑卡丁车
-http://live.iill.top/douyu.php?id=7722576
-#EXTINF:-1 ,「斗鱼」跑跑卡丁车•手游
-http://live.iill.top/douyu.php?id=6672862
 #EXTINF:-1 ,埋堆堆_𝟙
 http://live.iill.top/huya.php?id=23740156
 #EXTINF:-1 ,埋堆堆_𝟚
@@ -1597,6 +1495,8 @@ http://43.138.170.29:35455/yy/1354775242
 http://43.138.170.29:35455/yy/1394102549
 #EXTINF:-1 ,战狼6吴京首播
 http://43.138.170.29:35455/yy/1354330332
+#EXTINF:-1 ,24H欧美惊悚科幻
+http://43.138.170.29:35455/yy/1382656234
 #EXTINF:-1 ,燃爆动作片
 http://43.138.170.29:35455/yy/1382736801
 #EXTINF:-1 ,欢乐集结号
@@ -1813,6 +1713,8 @@ http://43.138.170.29:35455/yy/40959929
 http://43.138.170.29:35455/yy/1382736863
 #EXTINF:-1 ,国威影院 仙侠系列
 http://43.138.170.29:35455/yy/1354866665
+#EXTINF:-1 ,人生必看的科幻片
+http://43.138.170.29:35455/yy/1382745114
 #EXTINF:-1 ,国内战争大片合集
 http://43.138.170.29:35455/yy/1382749950
 #EXTINF:-1 ,正阳门下小女人
