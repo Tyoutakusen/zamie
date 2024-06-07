@@ -92,11 +92,9 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 ,海外剧场
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://218.88.40.202:8000/udp/239.93.0.118:2191
-#EXTINF:-1 ,凤凰资讯
 http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 #EXTINF:-1 ,凤凰资讯
-http://218.88.40.202:8000/udp/239.93.1.4:2191
+http://175.152.250.150:4022/udp/239.93.0.118:2191
 #EXTINF:-1 ,CCTV2
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000297/index.m3u8?IAS
 #EXTINF:-1 ,CCTV3
