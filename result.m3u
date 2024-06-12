@@ -1,33 +1,15 @@
 #EXTM3U
-#EXTINF:-1 ,====== 央视频道,#genre# ======
-http://1/1.m3u8
-#EXTINF:-1 ,CCTV-3
-https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
-#EXTINF:-1 ,CCTV-6
-https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
-#EXTINF:-1 ,CCTV-8
-https://live.v1.mk/api/ghyx.php?id=CCTV8HD_6000
-#EXTINF:-1 ,CCTV-17
-https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
-#EXTINF:-1 ,====== 卫视频道,#genre# ======
-http://2/2.m3u8
-#EXTINF:-1 ,北京卫视
-http://222.240.82.92:9901/tsfile/live/0122_1.m3u8
-#EXTINF:-1 ,湖北卫视
-http://115.149.139.141:10001/tsfile/live/1027_1.m3u8
-#EXTINF:-1 ,安徽卫视
-http://115.149.139.141:10001/tsfile/live/1025_1.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://222.240.82.92:9901/tsfile/live/0141_1.m3u8
-#EXTINF:-1 ,海南卫视
-https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
-#EXTINF:-1 ,江苏卫视
-http://222.240.82.92:9901/tsfile/live/0127_1.m3u8
+#EXTINF:-1 ,====== 广东频道,#genre# ======
+http://0/0.m3u8
+#EXTINF:-1 ,广东体育
+http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+#EXTINF:-1 ,佛山影视
+http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
+#EXTINF:-1 ,顺德综合
+http://www.namewee.xyz/gudou.php?id=shundeHD_4500
 #EXTINF:-1 ,====== 港·澳·台,#genre# ======
 http://3/3.m3u8
-#EXTINF:-1 ,翡翠台
-http://r.jdshipin.com/qClQf
-#EXTINF:-1 ,明珠台
-http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-#EXTINF:-1 ,明珠台
-http://r.jdshipin.com/ZQ4kN
+#EXTINF:-1 ,星河台
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 ,TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
