@@ -2545,18 +2545,14 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
 #EXTINF:-1 ,Прямий
 http://95.67.21.100/hls/prm_ua_hi/index.m3u8
-#EXTINF:-1 ,怀旧剧场
-http://ipv6.fzszyx.com:9672/cqyx.php?id=hjjc
-#EXTINF:-1 ,女性时尚
-http://ipv6.fzszyx.com:9672/cqyx.php?id=nxss
-#EXTINF:-1 ,央视文化精品
-http://ipv6.fzszyx.com:9672/cqyx.php?id=whjp
 #EXTINF:-1 ,CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 ,CGTN纪录
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 ,河北农民
 https://tv.pull.hebtv.com/jishi/nongminpindao.m3u8?t=1963555153&k=322fe32502d1e3695b0bdef5e698635e
+#EXTINF:-1 ,亚洲卫视
+http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 #EXTINF:-1 ,面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 #EXTINF:-1 ,无线新闻
@@ -2585,6 +2581,8 @@ http://zb.xzxwhcb.com:9999/hls/world.m3u8
 https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
 #EXTINF:-1 ,耀才财经
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+#EXTINF:-1 ,怀旧好电影
+https://live.metshop.top/yy/1382736910
 #EXTINF:-1 ,AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
 #EXTINF:-1 ,1905电影网1(国内电影)
@@ -2673,10 +2671,10 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000061/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000092/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000092&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 ,文物宝库
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA199v9hZiIrZ%2B5X675R6%2FGDjgcqn5UaJ6D814KM9%2FvF7QwvFfeEXMAK7LltfEC%2FKQQ
+#EXTINF:-1 ,渴望
+https://live.metshop.top/yy/1354930963
 #EXTINF:-1 ,回家的诱惑
 https://lunbo.freetv.top/yy/1382851148
-#EXTINF:-1 ,金星脱口秀
-https://live.metshop.top/yy/1354932407,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 ,杨紫琼-爱似流星
 https://vd4.bdstatic.com/mda-nei02hdtnd2c88ci/sc/cae_h264/1652920810425683641/mda-nei02hdtnd2c88ci.mp4
 #EXTINF:-1 ,李丽芬-得意的笑
