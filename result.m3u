@@ -3,10 +3,6 @@
 http://0/0.m3u8
 #EXTINF:-1 ,广东体育
 http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
-#EXTINF:-1 ,佛山影视
-http://www.namewee.xyz/gudou.php?id=foshanyingshiHD_4500
-#EXTINF:-1 ,顺德综合
-http://www.namewee.xyz/gudou.php?id=shundeHD_4500
 #EXTINF:-1 ,====== 港·澳·台,#genre# ======
 http://3/3.m3u8
 #EXTINF:-1 ,星河台
