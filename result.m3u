@@ -5,7 +5,5 @@ http://0/0.m3u8
 http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
 #EXTINF:-1 ,====== 港·澳·台,#genre# ======
 http://3/3.m3u8
-#EXTINF:-1 ,星河台
-https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 ,TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
