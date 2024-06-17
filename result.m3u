@@ -13,8 +13,6 @@ http://1/1.m3u8
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel91/index.m3u8
 #EXTINF:-1 ,CCTV-3
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel3/2300.m3u8
-#EXTINF:-1 ,CCTV-3
-https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 #EXTINF:-1 ,CCTV-4
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/2300.m3u8
 #EXTINF:-1 ,CCTV-5
@@ -52,9 +50,9 @@ http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel21/130
 #EXTINF:-1 ,湖北卫视
 http://115.149.139.141:10001/tsfile/live/1027_1.m3u8
 #EXTINF:-1 ,安徽卫视
-http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel23/2300.m3u8
-#EXTINF:-1 ,安徽卫视
 http://115.149.139.141:10001/tsfile/live/1025_1.m3u8
+#EXTINF:-1 ,安徽卫视
+http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel23/2300.m3u8
 #EXTINF:-1 ,东方卫视
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel26/1300.m3u8
 #EXTINF:-1 ,甘肃卫视
@@ -85,3 +83,5 @@ http://3/3.m3u8
 http://116.162.6.191/1301-txt.sichuan.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://116.162.6.191/1301-txt.sichuan.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+#EXTINF:-1 ,TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
