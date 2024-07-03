@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="CBN重温经典" tvg-logo="" group-title="总台",CBN重温经典
 http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 #EXTINF:-1 tvg-name="CCTV 4K" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV4K.png" group-title="总台",CCTV 4K
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
+https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV1.png" group-title="总台",CCTV1综合
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CCTV2.png" group-title="总台",CCTV2财经
@@ -69,6 +69,8 @@ http://112.25.105.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012513803.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-name="CETV2教育教学频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV2.png" group-title="总台",CETV2教育教学频道
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+#EXTINF:-1 tvg-name="CETV3北京地面频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV3.png" group-title="总台",CETV3北京地面频道
+http://hwylivehd.centv.cn/cetv3/bjdm.m3u8
 #EXTINF:-1 tvg-name="CETV4职业教育频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CETV4.png" group-title="总台",CETV4职业教育频道
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 #EXTINF:-1 tvg-name="CIBN书画频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/central/CIBN书画频道.png" group-title="总台",CIBN书画频道
@@ -112,7 +114,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/海南.png" group-title="卫视",海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8
 #EXTINF:-1 tvg-name="三沙卫视" group-title="卫视",三沙卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000208/index.m3u8?IAS
+https://live3.hnntv.cn/srs/tv/ssws.m3u8
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/河北.png" group-title="卫视",河北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/satellite/河南.png" group-title="卫视",河南卫视
@@ -297,14 +299,22 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-name="江西少儿频道" group-title="江西",江西少儿频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="江西移动" group-title="江西",江西移动
+http://yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv8.m3u8?t=t&token=t
 #EXTINF:-1 tvg-name="江西影视旅游" group-title="江西",江西影视旅游
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-name="陶瓷频道" group-title="江西",陶瓷频道
+http://yun-live.jxtvcn.com.cn/live-jxtv/tv_taoci.m3u8?t=t&token=t
+#EXTINF:-1 tvg-name="抚州.广昌综合" group-title="江西",抚州.广昌综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangchuangTV.m3u8
 #EXTINF:-1 tvg-name="赣州新闻综合" group-title="江西",赣州新闻综合
 http://wb.jxgztv.com/live/gztv1.m3u8
 #EXTINF:-1 tvg-name="赣州公共" group-title="江西",赣州公共
 http://wb.jxgztv.com/live/gztv2.m3u8
 #EXTINF:-1 tvg-name="赣州教育" group-title="江西",赣州教育
 http://wb.jxgztv.com/live/gztv3.m3u8
+#EXTINF:-1 tvg-name="赣州.宁都综合" group-title="江西",赣州.宁都综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_ningdu.m3u8
 #EXTINF:-1 tvg-name="吉安.井冈山综合" group-title="江西",吉安.井冈山综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_jgs.m3u8
 #EXTINF:-1 tvg-name="九江新闻综合频道" group-title="江西",九江新闻综合频道
@@ -323,12 +333,26 @@ http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_pengze.m3u8
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wuning.m3u8
 #EXTINF:-1 tvg-name="九江.永修一套" group-title="江西",九江.永修一套
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yongxiu.m3u8
+#EXTINF:-1 tvg-name="九江.修水新闻综合" group-title="江西",九江.修水新闻综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_xiushui01.m3u8
+#EXTINF:-1 tvg-name="萍乡新闻综合" group-title="江西",萍乡新闻综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
+#EXTINF:-1 tvg-name="萍乡公共" group-title="江西",萍乡公共
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_ggpd.m3u8
 #EXTINF:-1 tvg-name="上饶综合" group-title="江西",上饶综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao1.m3u8
 #EXTINF:-1 tvg-name="上饶经济" group-title="江西",上饶经济
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_shangrao2.m3u8
+#EXTINF:-1 tvg-name="上饶.广丰综合" group-title="江西",上饶.广丰综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_guangfeng.m3u8
+#EXTINF:-1 tvg-name="上饶.铅山电视台" group-title="江西",上饶.铅山电视台
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yanshan.m3u8
+#EXTINF:-1 tvg-name="上饶.余干综合" group-title="江西",上饶.余干综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_yugan.m3u8
 #EXTINF:-1 tvg-name="新余.分宜综合" group-title="江西",新余.分宜综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_fenyi_tv.m3u8
+#EXTINF:-1 tvg-name="宜春.铜鼓综合" group-title="江西",宜春.铜鼓综合
+http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_tonggu.m3u8
 #EXTINF:-1 tvg-name="宜春.万载综合" group-title="江西",宜春.万载综合
 http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_wanzai.m3u8
 #EXTINF:-1 tvg-name="安庆.潜山综合" group-title="安徽",安庆.潜山综合
@@ -405,6 +429,8 @@ http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 http://stream.lyxltv.com/xltv/sd/live.m3u8
 #EXTINF:-1 tvg-name="三明1台" group-title="福建",三明1台
 http://stream.smntv.cn/smtv1/playlist.m3u8
+#EXTINF:-1 tvg-name="漳州.云霄综合" group-title="福建",漳州.云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 #EXTINF:-1 tvg-name="甘肃都市" group-title="甘肃",甘肃都市
 https://hls.gstv.com.cn/49048r/l54391.m3u8
 #EXTINF:-1 tvg-name="甘肃公共应急" group-title="甘肃",甘肃公共应急
@@ -516,15 +542,15 @@ https://tvfile.qntv.net/nmip-media/channellive/channel108689/playlist.m3u8
 #EXTINF:-1 tvg-name="黔南2台" group-title="贵州",黔南2台
 https://tvfile.qntv.net/nmip-media/channellive/channel109066/playlist.m3u8
 #EXTINF:-1 tvg-name="海南新闻" group-title="海南",海南新闻
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000015/index.m3u8?IAS
+https://live3.hnntv.cn/srs/tv/xwpd.m3u8
 #EXTINF:-1 tvg-name="海南公共" group-title="海南",海南公共
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000012/index.m3u8?IAS
+https://live3.hnntv.cn/srs/tv/ggpd.m3u8
 #EXTINF:-1 tvg-name="海南少儿" group-title="海南",海南少儿
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000014/index.m3u8?IAS
+https://live3.hnntv.cn/srs/tv/sepd.m3u8
 #EXTINF:-1 tvg-name="海南文旅" group-title="海南",海南文旅
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000013/index.m3u8?IAS
+https://live3.hnntv.cn/srs/tv/wlpd.m3u8
 #EXTINF:-1 tvg-name="海南自贸" group-title="海南",海南自贸
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000011/index.m3u8?IAS
+https://live3.hnntv.cn/srs/tv/jjpd.m3u8
 #EXTINF:-1 tvg-name="石家庄新闻综合" group-title="河北",石家庄新闻综合
 http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8
 #EXTINF:-1 tvg-name="石家庄都市" group-title="河北",石家庄都市
@@ -1519,6 +1545,8 @@ https://ali-play.lezhibo.com/lezhibo/e6a8b2ecf53b4ea4b0aef1e91d20cd51.m3u8
 http://channel.qjrb.cn/nmip-media/channellive/channel124906/playlist.m3u8
 #EXTINF:-1 tvg-name="清廉曲靖" group-title="云南",清廉曲靖
 http://channel.qjrb.cn/nmip-media/channellive/channel125689/playlist.m3u8
+#EXTINF:-1 tvg-name="文山.麻栗坡" group-title="云南",文山.麻栗坡
+http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 #EXTINF:-1 tvg-name="浙江新闻" group-title="浙江",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-name="浙江国际" group-title="浙江",浙江国际
