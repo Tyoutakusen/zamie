@@ -96,7 +96,7 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 #EXTINF:-1 ,凤凰中文
 http://s.cdhongyuan.cn:4022/udp/239.93.0.162:2192
 #EXTINF:-1 ,凤凰中文
-http://112.193.1.120:8000/udp/239.93.0.162:2192
+http://112.193.61.69:4022/udp/239.93.0.162:2192
 #EXTINF:-1 ,凤凰中文
 http://125.69.137.1:4022/udp/239.93.0.162:2192
 #EXTINF:-1 ,凤凰中文
@@ -104,7 +104,7 @@ http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 ,凤凰资讯
 http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
 #EXTINF:-1 ,凤凰资讯
-http://112.193.1.120:8000/udp/239.93.0.118:2191
+http://http://112.193.61.69:4022/udp/239.93.0.118:2191
 #EXTINF:-1 ,凤凰资讯
 http://125.69.137.1:4022/udp/239.93.1.4:2191
 #EXTINF:-1 ,凤凰资讯
