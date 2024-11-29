@@ -147,22 +147,24 @@ https://stream1.freetv.fun/feng-huang-zhong-wen-2.ctv
 https://stream1.freetv.fun/feng-huang-zi-xun-13.m3u8
 #EXTINF:-1 tvg-name="鳳凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="港澳台",鳳凰香港
 https://stream1.freetv.fun/feng-huang-xiang-gang-6.ctv
-#EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://live.fanmingming.com/tv/Channel 5 HD.png" group-title="港澳台",Channel 5 HD
+#EXTINF:-1 tvg-name="Channel 5 HD" tvg-logo="https://epg.pw/media/images/channel/2023/11/05/large/20231105214953871334_68.png" group-title="港澳台",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="https://live.fanmingming.com/tv/Channel 8 HD.png" group-title="港澳台",Channel 8 HD
+#EXTINF:-1 tvg-name="Channel 8 HD" tvg-logo="https://epg.pw/media/images/channel/2023/09/22/large/20230922164216308037_71.png" group-title="港澳台",Channel 8 HD
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 tvg-name="tvN" tvg-logo="https://live.fanmingming.com/tv/tvN.png" group-title="港澳台",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://live.fanmingming.com/tv/千禧經典台.png" group-title="港澳台",千禧經典台
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723011504142807_68.png" group-title="港澳台",千禧經典台
 https://stream1.freetv.fun/tvbqian-xi-jing-dian-1.ctv
 #EXTINF:-1 tvg-name="日本全天新聞" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/worldTV/日本全天新闻.png" group-title="港澳台",日本全天新聞
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-name="龙华偶像台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170246686943_42.png" group-title="港澳台",龙华偶像台
+https://stream1.freetv.fun/long-hua-ou-xiang-1.ctv
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://live.fanmingming.com/tv/龙华日韩台.png" group-title="港澳台",龍華日韓台
 https://stream1.freetv.fun/long-hua-ri-han-4.m3u8
 #EXTINF:-1 tvg-name="龍華經典台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170642383978_17.png" group-title="港澳台",龍華經典台
 https://stream1.freetv.fun/long-hua-jing-dian-1.ctv
 #EXTINF:-1 tvg-name="龍華電影台" tvg-logo="https://epg.pw/media/images/channel/2023/07/24/large/20230724170416278600_34.png" group-title="港澳台",龍華電影台
-https://stream1.freetv.fun/long-hua-dian-ying-2.m3u8
+http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB 星河台" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png" group-title="港澳台",TVB 星河台
 https://stream1.freetv.fun/tvbxing-he--ch305-1.m3u8
 
