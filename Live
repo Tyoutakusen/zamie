@@ -5967,3 +5967,1078 @@ http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/322
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226368/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江都市频道" tvg-logo="https://live.fanmingming.cn/tv/黑龙江都市频道.png",黑龙江都市频道
 http://[2409:8087:1a0a:df::4038]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226427/index.m3u8
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png",CCTV1
+http://php.jdshipin.com:8880/smt.php?id=cctv1
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png",CCTV5+
+http://php.jdshipin.com:8880/smt.php?id=cctv5p
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png",重庆卫视
+http://php.jdshipin.com:8880/smt.php?id=cqws
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.cn/tv/重庆卫视.png",重庆卫视
+http://xn--94q.l5.ca/daili/Smartv.php?id=cqws
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://live.fanmingming.cn/tv/Cinemax.png",Cinemax
+http://xn--94q.l5.ca/daili/Smartv.php?id=cinemax_twn
+#EXTINF:-1 tvg-name="EYE戏剧" tvg-logo="https://live.fanmingming.cn/tv/EYE戏剧.png",EYE戏剧
+http://xn--94q.l5.ca/daili/Smartv.php?id=eyetvxiju_twn
+#EXTINF:-1 tvg-name="EYE旅游" tvg-logo="https://live.fanmingming.cn/tv/EYE旅游.png",EYE旅游
+http://xn--94q.l5.ca/daili/Smartv.php?id=eyetvtravel_twn
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png",HBO
+http://xn--94q.l5.ca/daili/Smartv.php?id=hbohd_twn
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://live.fanmingming.cn/tv/HBO Family.png",HBO Family
+http://xn--94q.l5.ca/daili/Smartv.php?id=fyi_twn
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://live.fanmingming.cn/tv/好莱坞电影.png",好莱坞电影
+http://xn--94q.l5.ca/daili/Smartv.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://live.fanmingming.cn/tv/MTV Live.png",MTV Live
+http://xn--94q.l5.ca/daili/Smartv.php?id=mtvhd_twn
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://live.fanmingming.cn/tv/TLC.png",TLC
+http://xn--94q.l5.ca/daili/Smartv.php?id=tlc_twn
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://live.fanmingming.cn/tv/东森新闻.png",东森新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvnews
+#EXTINF:-1 tvg-name="TVBS HD" tvg-logo="https://live.fanmingming.cn/tv/TVBS HD.png",TVBS HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=tvbs
+#EXTINF:-1 tvg-name="TVBS新闻" tvg-logo="https://live.fanmingming.cn/tv/TVBS新闻.png",TVBS新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=tvbs_n
+#EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://live.fanmingming.cn/tv/TVBS欢乐.png",TVBS欢乐
+http://xn--94q.l5.ca/daili/Smartv.php?id=tvbshuanle_twn
+#EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://live.fanmingming.cn/tv/三立台湾.png",三立台湾
+http://xn--94q.l5.ca/daili/Smartv.php?id=sanlitaiwan
+#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://live.fanmingming.cn/tv/三立戏剧.png",三立戏剧
+http://xn--94q.l5.ca/daili/Smartv.php?id=sanlixiju_twn
+#EXTINF:-1 tvg-name="三立综合" tvg-logo="https://live.fanmingming.cn/tv/三立综合.png",三立综合
+http://xn--94q.l5.ca/daili/Smartv.php?id=sanlizhonghe
+#EXTINF:-1 tvg-name="中天亚洲" tvg-logo="https://live.fanmingming.cn/tv/中天亚洲.png",中天亚洲
+http://xn--94q.l5.ca/daili/Smartv.php?id=ctiasia_twn
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐.png",中天娱乐
+http://xn--94q.l5.ca/daili/Smartv.php?id=ctient
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://live.fanmingming.cn/tv/中天新闻.png",中天新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=ctinews
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://live.fanmingming.cn/tv/中天综合.png",中天综合
+http://xn--94q.l5.ca/daili/Smartv.php?id=ctizhonghe
+#EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://live.fanmingming.cn/tv/亚洲旅游.png",亚洲旅游
+http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="亚洲美食" tvg-logo="https://live.fanmingming.cn/tv/亚洲美食.png",亚洲美食
+http://xn--94q.l5.ca/daili/Smartv.php?id=afc_twn
+#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://live.fanmingming.cn/tv/八大戏剧.png",八大戏剧
+http://xn--94q.l5.ca/daili/Smartv.php?id=badadrama
+#EXTINF:-1 tvg-name="八大第1" tvg-logo="https://live.fanmingming.cn/tv/八大第1.png",八大第1
+http://xn--94q.l5.ca/daili/Smartv.php?id=badafirst
+#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://live.fanmingming.cn/tv/八大综合.png",八大综合
+http://xn--94q.l5.ca/daili/Smartv.php?id=badazhonghe
+#EXTINF:-1 tvg-name="公视" tvg-logo="https://live.fanmingming.cn/tv/公视.png",公视
+http://xn--94q.l5.ca/daili/Smartv.php?id=ctv_taiwan
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://live.fanmingming.cn/tv/民视.png",民视
+http://xn--94q.l5.ca/daili/Smartv.php?id=ftvhd_taiwan
+#EXTINF:-1 tvg-name="民视第一" tvg-logo="https://live.fanmingming.cn/tv/民视第一.png",民视第一
+http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuajingdian_twn
+#EXTINF:-1 tvg-name="民视台湾" tvg-logo="https://live.fanmingming.cn/tv/民视台湾.png",民视台湾
+http://xn--94q.l5.ca/daili/Smartv.php?id=ftvtaiwan_twn
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://live.fanmingming.cn/tv/民视新闻.png",民视新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=ftvnew_taiwan
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.cn/tv/台视.png",台视
+http://xn--94q.l5.ca/daili/Smartv.php?id=ttv_taiwan
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://live.fanmingming.cn/tv/台视新闻.png",台视新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=ttvnews_twn
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://live.fanmingming.cn/tv/中视.png",中视
+http://xn--94q.l5.ca/daili/Smartv.php?id=zhongshihd_twn
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://live.fanmingming.cn/tv/中视新闻.png",中视新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=zhongshinews_twn
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://live.fanmingming.cn/tv/中视经典.png",中视经典
+http://xn--94q.l5.ca/daili/Smartv.php?id=zhongshi_twn
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://live.fanmingming.cn/tv/华视.png",华视
+http://xn--94q.l5.ca/daili/Smartv.php?id=ctshd_twn
+#EXTINF:-1 tvg-name="华艺综合" tvg-logo="https://live.fanmingming.cn/tv/华艺综合.png",华艺综合
+http://xn--94q.l5.ca/daili/Smartv.php?id=weishichinese_twn
+#EXTINF:-1 tvg-name="大爱1" tvg-logo="https://live.fanmingming.cn/tv/大爱1.png",大爱1
+http://xn--94q.l5.ca/daili/Smartv.php?id=daai_twn
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://live.fanmingming.cn/tv/寰宇新闻.png",寰宇新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=huanyuxinwen_twn
+#EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://live.fanmingming.cn/tv/寰宇财经.png",寰宇财经
+http://xn--94q.l5.ca/daili/Smartv.php?id=huanyutaiwan_twn
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://live.fanmingming.cn/tv/年代新闻.png",年代新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=niandainews_twn
+#EXTINF:-1 tvg-name="爱尔达影剧" tvg-logo="https://live.fanmingming.cn/tv/爱尔达影剧.png",爱尔达影剧
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltayingju_twn
+#EXTINF:-1 tvg-name="爱尔达体育1" tvg-logo="https://live.fanmingming.cn/tv/爱尔达体育1.png",爱尔达体育1
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport_twn
+#EXTINF:-1 tvg-name="爱尔达体育2" tvg-logo="https://live.fanmingming.cn/tv/爱尔达体育2.png",爱尔达体育2
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport2_twn
+#EXTINF:-1 tvg-name="爱尔达体育3" tvg-logo="https://live.fanmingming.cn/tv/爱尔达体育3.png",爱尔达体育3
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="ELEVEN1" tvg-logo="https://live.fanmingming.cn/tv/ELEVEN1.png",ELEVEN1
+http://xn--94q.l5.ca/daili/Smartv.php?id=golfchannel_twn
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://live.fanmingming.cn/tv/博斯网球.png",博斯网球
+http://xn--94q.l5.ca/daili/Smartv.php?id=bositennis_twn
+#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://live.fanmingming.cn/tv/博斯运动1.png",博斯运动1
+http://xn--94q.l5.ca/daili/Smartv.php?id=bosisport1_twn
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://live.fanmingming.cn/tv/博斯运动2.png",博斯运动2
+http://xn--94q.l5.ca/daili/Smartv.php?id=bosisport2_twn
+#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://live.fanmingming.cn/tv/博斯高球1.png",博斯高球1
+http://xn--94q.l5.ca/daili/Smartv.php?id=bosigolf1_twn
+#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://live.fanmingming.cn/tv/博斯高球2.png",博斯高球2
+http://xn--94q.l5.ca/daili/Smartv.php?id=bosigolf2_twn
+#EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://live.fanmingming.cn/tv/探索亚洲.png",探索亚洲
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-name="探索动力" tvg-logo="https://live.fanmingming.cn/tv/探索动力.png",探索动力
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryturbo_twn
+#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://live.fanmingming.cn/tv/国家地理.png",国家地理
+http://xn--94q.l5.ca/daili/Smartv.php?id=natgeohd_twn
+#EXTINF:-1 tvg-name="野生动物" tvg-logo="https://live.fanmingming.cn/tv/野生动物.png",野生动物
+http://xn--94q.l5.ca/daili/Smartv.php?id=natgeowild_twn
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://live.fanmingming.cn/tv/动物星球.png",动物星球
+http://xn--94q.l5.ca/daili/Smartv.php?id=animalplanet_twn
+#EXTINF:-1 tvg-name="时尚" tvg-logo="https://live.fanmingming.cn/tv/时尚.png",时尚
+http://xn--94q.l5.ca/daili/Smartv.php?id=fashiontv_twn
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://live.fanmingming.cn/tv/Discovery Asia.png",Discovery Asia
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-name="Discovery" tvg-logo="https://live.fanmingming.cn/tv/Discovery.png",Discovery
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryhd_twn
+#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://live.fanmingming.cn/tv/东森戏剧.png",东森戏剧
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvdrama
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://live.fanmingming.cn/tv/东森洋片.png",东森洋片
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvwestern
+#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://live.fanmingming.cn/tv/东森综合.png",东森综合
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvzhonghe
+#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.cn/tv/东森财经新闻.png",东森财经新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvcaijing_twn
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.cn/tv/东森电影.png",东森电影
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvmovie
+#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://live.fanmingming.cn/tv/纬来日本.png",纬来日本
+http://xn--94q.l5.ca/daili/Smartv.php?id=videolandjapan
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://live.fanmingming.cn/tv/纬来体育.png",纬来体育
+http://xn--94q.l5.ca/daili/Smartv.php?id=videolandsport
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://live.fanmingming.cn/tv/美亚电影.png",美亚电影
+http://xn--94q.l5.ca/daili/Smartv.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://live.fanmingming.cn/tv/BBC World News.png",BBC World News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcnews_twn
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://live.fanmingming.cn/tv/Bloomberg News.png",Bloomberg News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twn
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://live.fanmingming.cn/tv/Fox News.png",Fox News
+http://xn--94q.l5.ca/daili/Smartv.php?id=foxnews_twn
+#EXTINF:-1 tvg-name="阿里郎" tvg-logo="https://live.fanmingming.cn/tv/阿里郎.png",阿里郎
+http://xn--94q.l5.ca/daili/Smartv.php?id=arirang_twn
+#EXTINF:-1 tvg-name="CN卡通" tvg-logo="https://live.fanmingming.cn/tv/CN卡通.png",CN卡通
+http://xn--94q.l5.ca/daili/Smartv.php?id=momo1_twn
+#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://live.fanmingming.cn/tv/靖天卡通.png",靖天卡通
+http://xn--94q.l5.ca/daili/Smartv.php?id=jingtiancartoon_twn
+#EXTINF:-1 tvg-name="靖天国际" tvg-logo="https://live.fanmingming.cn/tv/靖天国际.png",靖天国际
+http://xn--94q.l5.ca/daili/Smartv.php?id=jingtianintl_twn
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://live.fanmingming.cn/tv/非凡新闻.png",非凡新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=feifannews_twn
+#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://live.fanmingming.cn/tv/龙祥时代.png",龙祥时代
+http://xn--94q.l5.ca/daili/Smartv.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://live.fanmingming.cn/tv/龙华偶像.png",龙华偶像
+http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuaidol_twn
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://live.fanmingming.cn/tv/龙华戏剧.png",龙华戏剧
+http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuaxiju_twn
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://live.fanmingming.cn/tv/龙华洋片.png",龙华洋片
+http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://live.fanmingming.cn/tv/龙华经典.png",龙华经典
+http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuajingdian_twn
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png",龙华电影
+http://xn--94q.l5.ca/daili/Smartv.php?id=xingwei_movie
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://live.fanmingming.cn/tv/TV1.png",TV1
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV1
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://live.fanmingming.cn/tv/TV1.png",TV1
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV1_backup
+#EXTINF:-1 tvg-name="TV2" tvg-logo="https://live.fanmingming.cn/tv/TV2.png",TV2
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV2
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://live.fanmingming.cn/tv/TV3.png",TV3
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV3
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://live.fanmingming.cn/tv/TV3.png",TV3
+http://xn--94q.l5.ca/daili/Smartv.php?id=tv3_twn
+#EXTINF:-1 tvg-name="NTV7" tvg-logo="https://live.fanmingming.cn/tv/NTV7.png",NTV7
+http://xn--94q.l5.ca/daili/Smartv.php?id=NTV7
+#EXTINF:-1 tvg-name="TV8" tvg-logo="https://live.fanmingming.cn/tv/TV8.png",TV8
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV8
+#EXTINF:-1 tvg-name="TV9" tvg-logo="https://live.fanmingming.cn/tv/TV9.png",TV9
+http://xn--94q.l5.ca/daili/Smartv.php?id=TV9
+#EXTINF:-1 tvg-name="Warna" tvg-logo="https://live.fanmingming.cn/tv/Warna.png",Warna
+http://xn--94q.l5.ca/daili/Smartv.php?id=Warna-O
+#EXTINF:-1 tvg-name="Warna" tvg-logo="https://live.fanmingming.cn/tv/Warna.png",Warna
+http://xn--94q.l5.ca/daili/Smartv.php?id=Warna
+#EXTINF:-1 tvg-name="Ria" tvg-logo="https://live.fanmingming.cn/tv/Ria.png",Ria
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ria-0
+#EXTINF:-1 tvg-name="Ria" tvg-logo="https://live.fanmingming.cn/tv/Ria.png",Ria
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ria49
+#EXTINF:-1 tvg-name="Ria3" tvg-logo="https://live.fanmingming.cn/tv/Ria3.png",Ria3
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ria_quanjia
+#EXTINF:-1 tvg-name="Al-Hijrah" tvg-logo="https://live.fanmingming.cn/tv/Al-Hijrah.png",Al-Hijrah
+http://xn--94q.l5.ca/daili/Smartv.php?id=Alhijrah
+#EXTINF:-1 tvg-name="Al-Hijrah" tvg-logo="https://live.fanmingming.cn/tv/Al-Hijrah.png",Al-Hijrah
+http://xn--94q.l5.ca/daili/Smartv.php?id=Alhijrah_backup
+#EXTINF:-1 tvg-name="Awani" tvg-logo="https://live.fanmingming.cn/tv/Awani.png",Awani
+http://xn--94q.l5.ca/daili/Smartv.php?id=Awani
+#EXTINF:-1 tvg-name="Bernama" tvg-logo="https://live.fanmingming.cn/tv/Bernama.png",Bernama
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bernama
+#EXTINF:-1 tvg-name="Prima" tvg-logo="https://live.fanmingming.cn/tv/Prima.png",Prima
+http://xn--94q.l5.ca/daili/Smartv.php?id=Prima-0
+#EXTINF:-1 tvg-name="Prima" tvg-logo="https://live.fanmingming.cn/tv/Prima.png",Prima
+http://xn--94q.l5.ca/daili/Smartv.php?id=Prima49
+#EXTINF:-1 tvg-name="Ceria" tvg-logo="https://live.fanmingming.cn/tv/Ceria.png",Ceria
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ceria
+#EXTINF:-1 tvg-name="Astro MTV" tvg-logo="https://live.fanmingming.cn/tv/Astro MTV.png",Astro MTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=AstroMTV
+#EXTINF:-1 tvg-name="Mecca Live HD" tvg-logo="https://live.fanmingming.cn/tv/Mecca Live HD.png",Mecca Live HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=quran_mido
+#EXTINF:-1 tvg-name="Madinah HD" tvg-logo="https://live.fanmingming.cn/tv/Madinah HD.png",Madinah HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=sunnah_mido
+#EXTINF:-1 tvg-name="Oasis" tvg-logo="https://live.fanmingming.cn/tv/Oasis.png",Oasis
+http://xn--94q.l5.ca/daili/Smartv.php?id=Oasis
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://live.fanmingming.cn/tv/HBO HD.png",HBO HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbo
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://live.fanmingming.cn/tv/HBO Signature.png",HBO Signature
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbosignature
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://live.fanmingming.cn/tv/HBO Hits.png",HBO Hits
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbohits
+#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://live.fanmingming.cn/tv/NatGeo Wild HD.png",NatGeo Wild HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Natgeowild
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://live.fanmingming.cn/tv/Cartoon Network.png",Cartoon Network
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cn
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.cn/tv/Nickelodeon.png",Nickelodeon
+http://xn--94q.l5.ca/daili/Smartv.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.cn/tv/Nick Jr.png",Nick Jr
+http://xn--94q.l5.ca/daili/Smartv.php?id=Nickjr
+#EXTINF:-1 tvg-name="Citra" tvg-logo="https://live.fanmingming.cn/tv/Citra.png",Citra
+http://xn--94q.l5.ca/daili/Smartv.php?id=Citra
+#EXTINF:-1 tvg-name="Sensasi" tvg-logo="https://live.fanmingming.cn/tv/Sensasi.png",Sensasi
+http://xn--94q.l5.ca/daili/Smartv.php?id=Sensasi
+#EXTINF:-1 tvg-name="Aura" tvg-logo="https://live.fanmingming.cn/tv/Aura.png",Aura
+http://xn--94q.l5.ca/daili/Smartv.php?id=Aura
+#EXTINF:-1 tvg-name="Rania" tvg-logo="https://live.fanmingming.cn/tv/Rania.png",Rania
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rania
+#EXTINF:-1 tvg-name="Boo" tvg-logo="https://live.fanmingming.cn/tv/Boo.png",Boo
+http://xn--94q.l5.ca/daili/Smartv.php?id=Boo
+#EXTINF:-1 tvg-name="Awesome TV" tvg-logo="https://live.fanmingming.cn/tv/Awesome TV.png",Awesome TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Awesome_mega
+#EXTINF:-1 tvg-name="Sony HD" tvg-logo="https://live.fanmingming.cn/tv/Sony HD.png",Sony HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=SetOne
+#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://live.fanmingming.cn/tv/KBS World.png",KBS World
+http://xn--94q.l5.ca/daili/Smartv.php?id=KBS
+#EXTINF:-1 tvg-name="TvN" tvg-logo="https://live.fanmingming.cn/tv/TvN.png",TvN
+http://xn--94q.l5.ca/daili/Smartv.php?id=TVN
+#EXTINF:-1 tvg-name="Astro Premier" tvg-logo="https://live.fanmingming.cn/tv/Astro Premier.png",Astro Premier
+http://xn--94q.l5.ca/daili/Smartv.php?id=Astropremier
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://live.fanmingming.cn/tv/Astro AEC.png",Astro AEC
+http://xn--94q.l5.ca/daili/Smartv.php?id=AEC
+#EXTINF:-1 tvg-name="Astro 华丽" tvg-logo="https://live.fanmingming.cn/tv/Astro 华丽.png",Astro 华丽
+http://xn--94q.l5.ca/daili/Smartv.php?id=Wlt
+#EXTINF:-1 tvg-name="Astro 欢喜" tvg-logo="https://live.fanmingming.cn/tv/Astro 欢喜.png",Astro 欢喜
+http://xn--94q.l5.ca/daili/Smartv.php?id=Huahee
+#EXTINF:-1 tvg-name="Astro 欢喜" tvg-logo="https://live.fanmingming.cn/tv/Astro 欢喜.png",Astro 欢喜
+http://xn--94q.l5.ca/daili/Smartv.php?id=Huahee_backup
+#EXTINF:-1 tvg-name="Astro全佳" tvg-logo="https://live.fanmingming.cn/tv/Astro全佳.png",Astro全佳
+http://xn--94q.l5.ca/daili/Smartv.php?id=Quanjia
+#EXTINF:-1 tvg-name="TVB Jade" tvg-logo="https://live.fanmingming.cn/tv/TVB Jade.png",TVB Jade
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvbjade
+#EXTINF:-1 tvg-name="TVB Jade" tvg-logo="https://live.fanmingming.cn/tv/TVB Jade.png",TVB Jade
+http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://live.fanmingming.cn/tv/TVBS Asia.png",TVBS Asia
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvbasia
+#EXTINF:-1 tvg-name="TVB Entertainment" tvg-logo="https://live.fanmingming.cn/tv/TVB Entertainment.png",TVB Entertainment
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="TVB Classic" tvg-logo="https://live.fanmingming.cn/tv/TVB Classic.png",TVB Classic
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://live.fanmingming.cn/tv/Astro AOD.png",Astro AOD
+http://xn--94q.l5.ca/daili/Smartv.php?id=AodHD
+#EXTINF:-1 tvg-name="One" tvg-logo="https://live.fanmingming.cn/tv/One.png",One
+http://xn--94q.l5.ca/daili/Smartv.php?id=One_mega
+#EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.cn/tv/星河.png",星河
+http://xn--94q.l5.ca/daili/Smartv.php?id=Xinhe
+#EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.cn/tv/星河.png",星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
+#EXTINF:-1 tvg-name="Astro爱奇艺" tvg-logo="https://live.fanmingming.cn/tv/Astro爱奇艺.png",Astro爱奇艺
+http://xn--94q.l5.ca/daili/Smartv.php?id=Qiyi
+#EXTINF:-1 tvg-name="Animal Planet (Eng)" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet (Eng).png",Animal Planet (Eng)
+http://xn--94q.l5.ca/daili/Smartv.php?id=AnimalPlanet
+#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://live.fanmingming.cn/tv/tvN Movie.png",tvN Movie
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvnmovie
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://live.fanmingming.cn/tv/CNN.png",CNN
+http://xn--94q.l5.ca/daili/Smartv.php?id=cnn_twn
+#EXTINF:-1 tvg-name="Celestial Classic" tvg-logo="https://live.fanmingming.cn/tv/Celestial Classic.png",Celestial Classic
+http://xn--94q.l5.ca/daili/Smartv.php?id=Celestial2
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://live.fanmingming.cn/tv/CNBC.png",CNBC
+http://xn--94q.l5.ca/daili/Smartv.php?id=cnbc_twn
+#EXTINF:-1 tvg-name="RTM Sports HD" tvg-logo="https://live.fanmingming.cn/tv/RTM Sports HD.png",RTM Sports HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rtmsport
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://live.fanmingming.cn/tv/TLC.png",TLC
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tlc
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://live.fanmingming.cn/tv/CNA.png",CNA
+http://xn--94q.l5.ca/daili/Smartv.php?id=cna
+#EXTINF:-1 tvg-name="亚洲旅游" tvg-logo="https://live.fanmingming.cn/tv/亚洲旅游.png",亚洲旅游
+http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://live.fanmingming.cn/tv/BBC World News.png",BBC World News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcnews_twn
+#EXTINF:-1 tvg-name="Foodnetwork Hd" tvg-logo="https://live.fanmingming.cn/tv/Foodnetwork Hd.png",Foodnetwork Hd
+http://xn--94q.l5.ca/daili/Smartv.php?id=Foodnetwork_mega
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://live.fanmingming.cn/tv/HGTV.png",HGTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=HGTV
+#EXTINF:-1 tvg-name="Arena" tvg-logo="https://live.fanmingming.cn/tv/Arena.png",Arena
+http://xn--94q.l5.ca/daili/Smartv.php?id=Arena
+#EXTINF:-1 tvg-name="Goshop" tvg-logo="https://live.fanmingming.cn/tv/Goshop.png",Goshop
+http://xn--94q.l5.ca/daili/Smartv.php?id=Goshop
+#EXTINF:-1 tvg-name="Celestial Movies HD" tvg-logo="https://live.fanmingming.cn/tv/Celestial Movies HD.png",Celestial Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Celestial_mega
+#EXTINF:-1 tvg-name="Arena 2" tvg-logo="https://live.fanmingming.cn/tv/Arena 2.png",Arena 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=Arena2
+#EXTINF:-1 tvg-name="Axn HD" tvg-logo="https://live.fanmingming.cn/tv/Axn HD.png",Axn HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Axn
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://live.fanmingming.cn/tv/Paramount Network.png",Paramount Network
+http://xn--94q.l5.ca/daili/Smartv.php?id=Paramountnetwork
+#EXTINF:-1 tvg-name="BolaArena 1" tvg-logo="https://live.fanmingming.cn/tv/BolaArena 1.png",BolaArena 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena1
+#EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://live.fanmingming.cn/tv/Astrol Kplus.png",Astrol Kplus
+http://xn--94q.l5.ca/daili/Smartv.php?id=Kplus
+#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://live.fanmingming.cn/tv/Rock Actions.png",Rock Actions
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockaction
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://live.fanmingming.cn/tv/Bloomberg News.png",Bloomberg News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twn
+#EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://live.fanmingming.cn/tv/Al-Jazeera.png",Al-Jazeera
+http://xn--94q.l5.ca/daili/Smartv.php?id=aljazeera_twn
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://live.fanmingming.cn/tv/Rock Entertainment.png",Rock Entertainment
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockentertain
+#EXTINF:-1 tvg-name="Showcase" tvg-logo="https://live.fanmingming.cn/tv/Showcase.png",Showcase
+http://xn--94q.l5.ca/daili/Smartv.php?id=Showcase_mega
+#EXTINF:-1 tvg-name="BolaArena 2" tvg-logo="https://live.fanmingming.cn/tv/BolaArena 2.png",BolaArena 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena2
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://live.fanmingming.cn/tv/Channel 5.png",Channel 5
+http://xn--94q.l5.ca/daili/Smartv.php?id=Channel5HD
+#EXTINF:-1 tvg-name="Channel 5" tvg-logo="https://live.fanmingming.cn/tv/Channel 5.png",Channel 5
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ch5_mega
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://live.fanmingming.cn/tv/Channel 8.png",Channel 8
+http://xn--94q.l5.ca/daili/Smartv.php?id=Channel8HD
+#EXTINF:-1 tvg-name="Channel 8" tvg-logo="https://live.fanmingming.cn/tv/Channel 8.png",Channel 8
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ch8_mega
+#EXTINF:-1 tvg-name="Suria" tvg-logo="https://live.fanmingming.cn/tv/Suria.png",Suria
+http://xn--94q.l5.ca/daili/Smartv.php?id=Suria
+#EXTINF:-1 tvg-name="Suria" tvg-logo="https://live.fanmingming.cn/tv/Suria.png",Suria
+http://xn--94q.l5.ca/daili/Smartv.php?id=Suria_backup
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://live.fanmingming.cn/tv/Channel U.png",Channel U
+http://xn--94q.l5.ca/daili/Smartv.php?id=ChannelU
+#EXTINF:-1 tvg-name="Channel U" tvg-logo="https://live.fanmingming.cn/tv/Channel U.png",Channel U
+http://xn--94q.l5.ca/daili/Smartv.php?id=ChU_mega
+#EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://live.fanmingming.cn/tv/Vasantham.png",Vasantham
+http://xn--94q.l5.ca/daili/Smartv.php?id=Vasantham
+#EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://live.fanmingming.cn/tv/Vasantham.png",Vasantham
+http://xn--94q.l5.ca/daili/Smartv.php?id=Vasantham_mega
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://live.fanmingming.cn/tv/CNA.png",CNA
+http://xn--94q.l5.ca/daili/Smartv.php?id=cna
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://live.fanmingming.cn/tv/CNA.png",CNA
+http://xn--94q.l5.ca/daili/Smartv.php?id=cna_twn
+#EXTINF:-1 tvg-name="TVRI National" tvg-logo="https://live.fanmingming.cn/tv/TVRI National.png",TVRI National
+http://xn--94q.l5.ca/daili/Smartv.php?id=TVRI
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://live.fanmingming.cn/tv/RCTI.png",RCTI
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rcti
+#EXTINF:-1 tvg-name="Kompass TV" tvg-logo="https://live.fanmingming.cn/tv/Kompass TV.png",Kompass TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Kompass
+#EXTINF:-1 tvg-name="Berita Satu" tvg-logo="https://live.fanmingming.cn/tv/Berita Satu.png",Berita Satu
+http://xn--94q.l5.ca/daili/Smartv.php?id=BeritaSatu_eko
+#EXTINF:-1 tvg-name="Indosiar HD" tvg-logo="https://live.fanmingming.cn/tv/Indosiar HD.png",Indosiar HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Indosiar
+#EXTINF:-1 tvg-name="AnTV" tvg-logo="https://live.fanmingming.cn/tv/AnTV.png",AnTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Antv
+#EXTINF:-1 tvg-name="MNC TV" tvg-logo="https://live.fanmingming.cn/tv/MNC TV.png",MNC TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Mnctv
+#EXTINF:-1 tvg-name="Trans 7" tvg-logo="https://live.fanmingming.cn/tv/Trans 7.png",Trans 7
+http://xn--94q.l5.ca/daili/Smartv.php?id=Trans7_eko
+#EXTINF:-1 tvg-name="Transtv" tvg-logo="https://live.fanmingming.cn/tv/Transtv.png",Transtv
+http://xn--94q.l5.ca/daili/Smartv.php?id=Transtv
+#EXTINF:-1 tvg-name="JTV" tvg-logo="https://live.fanmingming.cn/tv/JTV.png",JTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=JTV_eko
+#EXTINF:-1 tvg-name="Metro TV" tvg-logo="https://live.fanmingming.cn/tv/Metro TV.png",Metro TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=metrotv_eko
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://live.fanmingming.cn/tv/Cinemax.png",Cinemax
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cinemax
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://live.fanmingming.cn/tv/SCTV.png",SCTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=SCTV
+#EXTINF:-1 tvg-name="Tvone" tvg-logo="https://live.fanmingming.cn/tv/Tvone.png",Tvone
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvone
+#EXTINF:-1 tvg-name="TVMU" tvg-logo="https://live.fanmingming.cn/tv/TVMU.png",TVMU
+http://xn--94q.l5.ca/daili/Smartv.php?id=TVMU_eko
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://live.fanmingming.cn/tv/GTV.png",GTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Gtv
+#EXTINF:-1 tvg-name="RTV" tvg-logo="https://live.fanmingming.cn/tv/RTV.png",RTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rtv
+#EXTINF:-1 tvg-name="Jak TV" tvg-logo="https://live.fanmingming.cn/tv/Jak TV.png",Jak TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=JakTV
+#EXTINF:-1 tvg-name="iNews TV" tvg-logo="https://live.fanmingming.cn/tv/iNews TV.png",iNews TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Inewstv
+#EXTINF:-1 tvg-name="Daai TV" tvg-logo="https://live.fanmingming.cn/tv/Daai TV.png",Daai TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=DaaiTV
+#EXTINF:-1 tvg-name="Net TV" tvg-logo="https://live.fanmingming.cn/tv/Net TV.png",Net TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=NetTV
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png",Animax
+http://xn--94q.l5.ca/daili/Smartv.php?id=Animax
+#EXTINF:-1 tvg-name="EWTN" tvg-logo="https://live.fanmingming.cn/tv/EWTN.png",EWTN
+http://xn--94q.l5.ca/daili/Smartv.php?id=Ewtn
+#EXTINF:-1 tvg-name="AlQuran AlKareem" tvg-logo="https://live.fanmingming.cn/tv/AlQuran AlKareem.png",AlQuran AlKareem
+http://xn--94q.l5.ca/daili/Smartv.php?id=AlQuran
+#EXTINF:-1 tvg-name="Tawaf TV" tvg-logo="https://live.fanmingming.cn/tv/Tawaf TV.png",Tawaf TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=TawafTV
+#EXTINF:-1 tvg-name="Vision Prime" tvg-logo="https://live.fanmingming.cn/tv/Vision Prime.png",Vision Prime
+http://xn--94q.l5.ca/daili/Smartv.php?id=VisionPrime
+#EXTINF:-1 tvg-name="Muslim TV" tvg-logo="https://live.fanmingming.cn/tv/Muslim TV.png",Muslim TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=MuslimTV
+#EXTINF:-1 tvg-name="Music TV" tvg-logo="https://live.fanmingming.cn/tv/Music TV.png",Music TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=MusicTV
+#EXTINF:-1 tvg-name="Lifestyle&Fashion" tvg-logo="https://live.fanmingming.cn/tv/Lifestyle&Fashion.png",Lifestyle&Fashion
+http://xn--94q.l5.ca/daili/Smartv.php?id=Lifestyle
+#EXTINF:-1 tvg-name="Entertain" tvg-logo="https://live.fanmingming.cn/tv/Entertain.png",Entertain
+http://xn--94q.l5.ca/daili/Smartv.php?id=Entertain
+#EXTINF:-1 tvg-name="Hits" tvg-logo="https://live.fanmingming.cn/tv/Hits.png",Hits
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hits
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://live.fanmingming.cn/tv/Warner TV.png",Warner TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=WarnerTV
+#EXTINF:-1 tvg-name="SCM" tvg-logo="https://live.fanmingming.cn/tv/SCM.png",SCM
+http://xn--94q.l5.ca/daili/Smartv.php?id=Weishimovie
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.fanmingming.cn/tv/Thrill.png",Thrill
+http://xn--94q.l5.ca/daili/Smartv.php?id=Thrill
+#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://live.fanmingming.cn/tv/Fight Sports.png",Fight Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=Fs
+#EXTINF:-1 tvg-name="Beinsports 2 HD" tvg-logo="https://live.fanmingming.cn/tv/Beinsports 2 HD.png",Beinsports 2 HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bein2hd
+#EXTINF:-1 tvg-name="Hits Movie" tvg-logo="https://live.fanmingming.cn/tv/Hits Movie.png",Hits Movie
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hitsmovie
+#EXTINF:-1 tvg-name="One" tvg-logo="https://live.fanmingming.cn/tv/One.png",One
+http://xn--94q.l5.ca/daili/Smartv.php?id=One_mega
+#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://live.fanmingming.cn/tv/tvN Movie.png",tvN Movie
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvnmovie
+#EXTINF:-1 tvg-name="Celestial Movies HD" tvg-logo="https://live.fanmingming.cn/tv/Celestial Movies HD.png",Celestial Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Celestialindo
+#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://live.fanmingming.cn/tv/Rock Actions.png",Rock Actions
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockaction
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://live.fanmingming.cn/tv/Rock Entertainment.png",Rock Entertainment
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockentertain
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.cn/tv/J2.png",J2
+http://xn--94q.l5.ca/daili/Smartv.php?id=j2_hkdavid
+#EXTINF:-1 tvg-name="J2" tvg-logo="https://live.fanmingming.cn/tv/J2.png",J2
+http://xn--94q.l5.ca/daili/Smartv.php?id=j2_twn
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://live.fanmingming.cn/tv/RTHK31.png",RTHK31
+http://xn--94q.l5.ca/daili/Smartv.php?id=rhk31_twn
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://live.fanmingming.cn/tv/RTHK32.png",RTHK32
+http://xn--94q.l5.ca/daili/Smartv.php?id=rhk32_twn
+#EXTINF:-1 tvg-name="星河" tvg-logo="https://live.fanmingming.cn/tv/星河.png",星河
+http://xn--94q.l5.ca/daili/Smartv.php?id=tvbxinhe_twn
+#EXTINF:-1 tvg-name="Viu" tvg-logo="https://live.fanmingming.cn/tv/Viu.png",Viu
+http://xn--94q.l5.ca/daili/Smartv.php?id=viu1_twn
+#EXTINF:-1 tvg-name="Viu69" tvg-logo="https://live.fanmingming.cn/tv/Viu69.png",Viu69
+http://xn--94q.l5.ca/daili/Smartv.php?id=viutv69_hkdavid
+#EXTINF:-1 tvg-name="Viu6" tvg-logo="https://live.fanmingming.cn/tv/Viu6.png",Viu6
+http://xn--94q.l5.ca/daili/Smartv.php?id=viusix_twn
+#EXTINF:-1 tvg-name="iNews新闻" tvg-logo="https://live.fanmingming.cn/tv/iNews新闻.png",iNews新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=inews_twn
+#EXTINF:-1 tvg-name="无线财经" tvg-logo="https://live.fanmingming.cn/tv/无线财经.png",无线财经
+http://xn--94q.l5.ca/daili/Smartv.php?id=tvbcaijing_twn
+#EXTINF:-1 tvg-name="明珠" tvg-logo="https://live.fanmingming.cn/tv/明珠.png",明珠
+http://xn--94q.l5.ca/daili/Smartv.php?id=pearl_hkdavid
+#EXTINF:-1 tvg-name="明珠" tvg-logo="https://live.fanmingming.cn/tv/明珠.png",明珠
+http://xn--94q.l5.ca/daili/Smartv.php?id=pearl_twn
+#EXTINF:-1 tvg-name="翡翠" tvg-logo="https://live.fanmingming.cn/tv/翡翠.png",翡翠
+http://xn--94q.l5.ca/daili/Smartv.php?id=jade_mike
+#EXTINF:-1 tvg-name="翡翠" tvg-logo="https://live.fanmingming.cn/tv/翡翠.png",翡翠
+http://xn--94q.l5.ca/daili/Smartv.php?id=jade_twn
+#EXTINF:-1 tvg-name="翡翠" tvg-logo="https://live.fanmingming.cn/tv/翡翠.png",翡翠
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文
+http://xn--94q.l5.ca/daili/Smartv.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.cn/tv/凤凰中文.png",凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
+http://xn--94q.l5.ca/daili/Smartv.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.cn/tv/凤凰资讯.png",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png",凤凰香港
+http://xn--94q.l5.ca/daili/Smartv.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.cn/tv/凤凰香港.png",凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="Supersports 1" tvg-logo="https://live.fanmingming.cn/tv/Supersports 1.png",Supersports 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp1
+#EXTINF:-1 tvg-name="Supersports 1" tvg-logo="https://live.fanmingming.cn/tv/Supersports 1.png",Supersports 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp1
+#EXTINF:-1 tvg-name="Supersportq 1" tvg-logo="https://live.fanmingming.cn/tv/Supersportq 1.png",Supersportq 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp1_mega
+#EXTINF:-1 tvg-name="Supersports 2" tvg-logo="https://live.fanmingming.cn/tv/Supersports 2.png",Supersports 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp2
+#EXTINF:-1 tvg-name="Supersports 2" tvg-logo="https://live.fanmingming.cn/tv/Supersports 2.png",Supersports 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp2
+#EXTINF:-1 tvg-name="Supersports 3" tvg-logo="https://live.fanmingming.cn/tv/Supersports 3.png",Supersports 3
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp3
+#EXTINF:-1 tvg-name="Supersports 3" tvg-logo="https://live.fanmingming.cn/tv/Supersports 3.png",Supersports 3
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp3
+#EXTINF:-1 tvg-name="Supersports 3" tvg-logo="https://live.fanmingming.cn/tv/Supersports 3.png",Supersports 3
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp3_mega
+#EXTINF:-1 tvg-name="Supersports 4" tvg-logo="https://live.fanmingming.cn/tv/Supersports 4.png",Supersports 4
+http://xn--94q.l5.ca/daili/Smartv.php?id=Assp4_mega
+#EXTINF:-1 tvg-name="Supersports 4" tvg-logo="https://live.fanmingming.cn/tv/Supersports 4.png",Supersports 4
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp4
+#EXTINF:-1 tvg-name="Supersports 5" tvg-logo="https://live.fanmingming.cn/tv/Supersports 5.png",Supersports 5
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_assp5
+#EXTINF:-1 tvg-name="Bein 2HD" tvg-logo="https://live.fanmingming.cn/tv/Bein 2HD.png",Bein 2HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Beinhd
+#EXTINF:-1 tvg-name="Beinsports HD" tvg-logo="https://live.fanmingming.cn/tv/Beinsports HD.png",Beinsports HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Besports
+#EXTINF:-1 tvg-name="Champion 5 EPL" tvg-logo="https://live.fanmingming.cn/tv/Champion 5 EPL.png",Champion 5 EPL
+http://xn--94q.l5.ca/daili/Smartv.php?id=Champion5epl
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://live.fanmingming.cn/tv/WWE.png",WWE
+http://xn--94q.l5.ca/daili/Smartv.php?id=Wwe
+#EXTINF:-1 tvg-name="Champion 6 EPL" tvg-logo="https://live.fanmingming.cn/tv/Champion 6 EPL.png",Champion 6 EPL
+http://xn--94q.l5.ca/daili/Smartv.php?id=Champion6epl
+#EXTINF:-1 tvg-name="Fight Sports" tvg-logo="https://live.fanmingming.cn/tv/Fight Sports.png",Fight Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=Fs
+#EXTINF:-1 tvg-name="UFC Network" tvg-logo="https://live.fanmingming.cn/tv/UFC Network.png",UFC Network
+http://xn--94q.l5.ca/daili/Smartv.php?id=ufc_mega
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://live.fanmingming.cn/tv/NBA TV.png",NBA TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=nbatv_twn
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://live.fanmingming.cn/tv/Astro Cricket.png",Astro Cricket
+http://xn--94q.l5.ca/daili/Smartv.php?id=Acricket_mega
+#EXTINF:-1 tvg-name="Astro Golf" tvg-logo="https://live.fanmingming.cn/tv/Astro Golf.png",Astro Golf
+http://xn--94q.l5.ca/daili/Smartv.php?id=Agolf
+#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://live.fanmingming.cn/tv/TNT Sports 1.png",TNT Sports 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=beeone
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://live.fanmingming.cn/tv/TNT Sports 2.png",TNT Sports 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=beetwo
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://live.fanmingming.cn/tv/TNT Sports 3.png",TNT Sports 3
+http://xn--94q.l5.ca/daili/Smartv.php?id=beethree
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://live.fanmingming.cn/tv/TNT Sports 4.png",TNT Sports 4
+http://xn--94q.l5.ca/daili/Smartv.php?id=beefour
+#EXTINF:-1 tvg-name="Sony Ten 1" tvg-logo="https://live.fanmingming.cn/tv/Sony Ten 1.png",Sony Ten 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=ten1_raj
+#EXTINF:-1 tvg-name="Sony Ten 2" tvg-logo="https://live.fanmingming.cn/tv/Sony Ten 2.png",Sony Ten 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=ten2_raj
+#EXTINF:-1 tvg-name="Sony Ten 3" tvg-logo="https://live.fanmingming.cn/tv/Sony Ten 3.png",Sony Ten 3
+http://xn--94q.l5.ca/daili/Smartv.php?id=ten3_raj
+#EXTINF:-1 tvg-name="SPOTV 1 HD" tvg-logo="https://live.fanmingming.cn/tv/SPOTV 1 HD.png",SPOTV 1 HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_spotv
+#EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://live.fanmingming.cn/tv/SPO TV 2.png",SPO TV 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=go_spotv2
+#EXTINF:-1 tvg-name="Beinsports 2 HD" tvg-logo="https://live.fanmingming.cn/tv/Beinsports 2 HD.png",Beinsports 2 HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bein2hd
+#EXTINF:-1 tvg-name="Skysports Arena" tvg-logo="https://live.fanmingming.cn/tv/Skysports Arena.png",Skysports Arena
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongarena
+#EXTINF:-1 tvg-name="Skysports F1" tvg-logo="https://live.fanmingming.cn/tv/Skysports F1.png",Skysports F1
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongf1
+#EXTINF:-1 tvg-name="Skysports Cricket" tvg-logo="https://live.fanmingming.cn/tv/Skysports Cricket.png",Skysports Cricket
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongcricket
+#EXTINF:-1 tvg-name="Skysports EPL" tvg-logo="https://live.fanmingming.cn/tv/Skysports EPL.png",Skysports EPL
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongepl
+#EXTINF:-1 tvg-name="Skysports Football" tvg-logo="https://live.fanmingming.cn/tv/Skysports Football.png",Skysports Football
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongfootball
+#EXTINF:-1 tvg-name="Skysports Golf" tvg-logo="https://live.fanmingming.cn/tv/Skysports Golf.png",Skysports Golf
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankonggolf
+#EXTINF:-1 tvg-name="Skysports Main Event" tvg-logo="https://live.fanmingming.cn/tv/Skysports Main Event.png",Skysports Main Event
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongmain
+#EXTINF:-1 tvg-name="Skysports News" tvg-logo="https://live.fanmingming.cn/tv/Skysports News.png",Skysports News
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongnews
+#EXTINF:-1 tvg-name="Skysports NFL" tvg-logo="https://live.fanmingming.cn/tv/Skysports NFL.png",Skysports NFL
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongnfl
+#EXTINF:-1 tvg-name="Skysports Racing" tvg-logo="https://live.fanmingming.cn/tv/Skysports Racing.png",Skysports Racing
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongracing
+#EXTINF:-1 tvg-name="Skysports Mix" tvg-logo="https://live.fanmingming.cn/tv/Skysports Mix.png",Skysports Mix
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongmix
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png",CCTV5
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv5
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png",CCTV5+
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv5plus
+#EXTINF:-1 tvg-name="ELTA3" tvg-logo="https://live.fanmingming.cn/tv/ELTA3.png",ELTA3
+http://xn--94q.l5.ca/daili/Smartv.php?id=eltasport3_twn
+#EXTINF:-1 tvg-name="RTM Sports HD" tvg-logo="https://live.fanmingming.cn/tv/RTM Sports HD.png",RTM Sports HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rtmsport
+#EXTINF:-1 tvg-name="Arena" tvg-logo="https://live.fanmingming.cn/tv/Arena.png",Arena
+http://xn--94q.l5.ca/daili/Smartv.php?id=Arena
+#EXTINF:-1 tvg-name="Arena 2" tvg-logo="https://live.fanmingming.cn/tv/Arena 2.png",Arena 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=Arena2
+#EXTINF:-1 tvg-name="BolaArena 1" tvg-logo="https://live.fanmingming.cn/tv/BolaArena 1.png",BolaArena 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena1
+#EXTINF:-1 tvg-name="Bein 1 Sports" tvg-logo="https://live.fanmingming.cn/tv/Bein 1 Sports.png",Bein 1 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein1_mega
+#EXTINF:-1 tvg-name="Bein 2 Sports" tvg-logo="https://live.fanmingming.cn/tv/Bein 2 Sports.png",Bein 2 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein2_mega
+#EXTINF:-1 tvg-name="Bein 3 Sports" tvg-logo="https://live.fanmingming.cn/tv/Bein 3 Sports.png",Bein 3 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein3_mega
+#EXTINF:-1 tvg-name="Bein 4 Sports" tvg-logo="https://live.fanmingming.cn/tv/Bein 4 Sports.png",Bein 4 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein4_mega
+#EXTINF:-1 tvg-name="Bein 5 Sports" tvg-logo="https://live.fanmingming.cn/tv/Bein 5 Sports.png",Bein 5 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein5_mega
+#EXTINF:-1 tvg-name="Bein 6 Sports" tvg-logo="https://live.fanmingming.cn/tv/Bein 6 Sports.png",Bein 6 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein6_mega
+#EXTINF:-1 tvg-name="Bein 7 Sports" tvg-logo="https://live.fanmingming.cn/tv/Bein 7 Sports.png",Bein 7 Sports
+http://xn--94q.l5.ca/daili/Smartv.php?id=bein7_mega
+#EXTINF:-1 tvg-name="Rugby Pass TV" tvg-logo="https://live.fanmingming.cn/tv/Rugby Pass TV.png",Rugby Pass TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rugbypasstv
+#EXTINF:-1 tvg-name="BolaArena 2" tvg-logo="https://live.fanmingming.cn/tv/BolaArena 2.png",BolaArena 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bolaarena2
+#EXTINF:-1 tvg-name="Sun TV HD" tvg-logo="https://live.fanmingming.cn/tv/Sun TV HD.png",Sun TV HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Suntv
+#EXTINF:-1 tvg-name="Star Vijay" tvg-logo="https://live.fanmingming.cn/tv/Star Vijay.png",Star Vijay
+http://xn--94q.l5.ca/daili/Smartv.php?id=Starvijay
+#EXTINF:-1 tvg-name="Colors Tamil" tvg-logo="https://live.fanmingming.cn/tv/Colors Tamil.png",Colors Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=Colorstam_mega
+#EXTINF:-1 tvg-name="Sun Music" tvg-logo="https://live.fanmingming.cn/tv/Sun Music.png",Sun Music
+http://xn--94q.l5.ca/daili/Smartv.php?id=Sunmusic
+#EXTINF:-1 tvg-name="Astro Sunlife" tvg-logo="https://live.fanmingming.cn/tv/Astro Sunlife.png",Astro Sunlife
+http://xn--94q.l5.ca/daili/Smartv.php?id=Sunlife
+#EXTINF:-1 tvg-name="Astro Vaanavil" tvg-logo="https://live.fanmingming.cn/tv/Astro Vaanavil.png",Astro Vaanavil
+http://xn--94q.l5.ca/daili/Smartv.php?id=Vaanavil
+#EXTINF:-1 tvg-name="Zee Tamil" tvg-logo="https://live.fanmingming.cn/tv/Zee Tamil.png",Zee Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeetamil
+#EXTINF:-1 tvg-name="Zee Business" tvg-logo="https://live.fanmingming.cn/tv/Zee Business.png",Zee Business
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeebusiness
+#EXTINF:-1 tvg-name="News 18 Tamil" tvg-logo="https://live.fanmingming.cn/tv/News 18 Tamil.png",News 18 Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=news18tamil_raj
+#EXTINF:-1 tvg-name="Adithya" tvg-logo="https://live.fanmingming.cn/tv/Adithya.png",Adithya
+http://xn--94q.l5.ca/daili/Smartv.php?id=Adithya
+#EXTINF:-1 tvg-name="Makkal TV" tvg-logo="https://live.fanmingming.cn/tv/Makkal TV.png",Makkal TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Makkaltv
+#EXTINF:-1 tvg-name="Zee Action" tvg-logo="https://live.fanmingming.cn/tv/Zee Action.png",Zee Action
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeeaction
+#EXTINF:-1 tvg-name="Astro KTV" tvg-logo="https://live.fanmingming.cn/tv/Astro KTV.png",Astro KTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=Astroktv
+#EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="https://live.fanmingming.cn/tv/Zee TV HD.png",Zee TV HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeetvhd
+#EXTINF:-1 tvg-name="Zee Cinema HD" tvg-logo="https://live.fanmingming.cn/tv/Zee Cinema HD.png",Zee Cinema HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeecinemahd
+#EXTINF:-1 tvg-name="Color HD" tvg-logo="https://live.fanmingming.cn/tv/Color HD.png",Color HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Colorhd
+#EXTINF:-1 tvg-name="Starplus HD" tvg-logo="https://live.fanmingming.cn/tv/Starplus HD.png",Starplus HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Starplushd
+#EXTINF:-1 tvg-name="Picture HD" tvg-logo="https://live.fanmingming.cn/tv/Picture HD.png",Picture HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Npicture
+#EXTINF:-1 tvg-name="Zee News" tvg-logo="https://live.fanmingming.cn/tv/Zee News.png",Zee News
+http://xn--94q.l5.ca/daili/Smartv.php?id=Zeenews
+#EXTINF:-1 tvg-name="Asianet" tvg-logo="https://live.fanmingming.cn/tv/Asianet.png",Asianet
+http://xn--94q.l5.ca/daili/Smartv.php?id=asianet_raj
+#EXTINF:-1 tvg-name="Asianet News" tvg-logo="https://live.fanmingming.cn/tv/Asianet News.png",Asianet News
+http://xn--94q.l5.ca/daili/Smartv.php?id=asianetnews_raj
+#EXTINF:-1 tvg-name="Times Now" tvg-logo="https://live.fanmingming.cn/tv/Times Now.png",Times Now
+http://xn--94q.l5.ca/daili/Smartv.php?id=timesnow_mega
+#EXTINF:-1 tvg-name="BBC Earth Tamil" tvg-logo="https://live.fanmingming.cn/tv/BBC Earth Tamil.png",BBC Earth Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcearthtam_raj
+#EXTINF:-1 tvg-name="Discovery World Tamil" tvg-logo="https://live.fanmingming.cn/tv/Discovery World Tamil.png",Discovery World Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryworldtam_raj
+#EXTINF:-1 tvg-name="History Tamil" tvg-logo="https://live.fanmingming.cn/tv/History Tamil.png",History Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=historytam_raj
+#EXTINF:-1 tvg-name="NatGeo Tamil" tvg-logo="https://live.fanmingming.cn/tv/NatGeo Tamil.png",NatGeo Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=natgeotamil_raj
+#EXTINF:-1 tvg-name="Natgeo Wild Tamil" tvg-logo="https://live.fanmingming.cn/tv/Natgeo Wild Tamil.png",Natgeo Wild Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=natgeowildtamil_raj
+#EXTINF:-1 tvg-name="Discovery Kids Tamil" tvg-logo="https://live.fanmingming.cn/tv/Discovery Kids Tamil.png",Discovery Kids Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoverykidtamil_raj
+#EXTINF:-1 tvg-name="Discovery Tamil" tvg-logo="https://live.fanmingming.cn/tv/Discovery Tamil.png",Discovery Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoverytamil_raj
+#EXTINF:-1 tvg-name="Sony Yay Tamil" tvg-logo="https://live.fanmingming.cn/tv/Sony Yay Tamil.png",Sony Yay Tamil
+http://xn--94q.l5.ca/daili/Smartv.php?id=sonyyaytam_raj
+#EXTINF:-1 tvg-name="Sun TV India" tvg-logo="https://live.fanmingming.cn/tv/Sun TV India.png",Sun TV India
+http://xn--94q.l5.ca/daili/Smartv.php?id=suntv_raj
+#EXTINF:-1 tvg-name="Starmaa HD" tvg-logo="https://live.fanmingming.cn/tv/Starmaa HD.png",Starmaa HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=starmaa_raj
+#EXTINF:-1 tvg-name="Starmaa Movies HD" tvg-logo="https://live.fanmingming.cn/tv/Starmaa Movies HD.png",Starmaa Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=starmaamovies_raj
+#EXTINF:-1 tvg-name="Bollyone" tvg-logo="https://live.fanmingming.cn/tv/Bollyone.png",Bollyone
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bollyone
+#EXTINF:-1 tvg-name="Astro Sunmusic" tvg-logo="https://live.fanmingming.cn/tv/Astro Sunmusic.png",Astro Sunmusic
+http://xn--94q.l5.ca/daili/Smartv.php?id=Sunmusic
+#EXTINF:-1 tvg-name="Sony Pix HD" tvg-logo="https://live.fanmingming.cn/tv/Sony Pix HD.png",Sony Pix HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=sonypix_mega
+#EXTINF:-1 tvg-name="Vijay Super" tvg-logo="https://live.fanmingming.cn/tv/Vijay Super.png",Vijay Super
+http://xn--94q.l5.ca/daili/Smartv.php?id=vijaysuper_raj
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://live.fanmingming.cn/tv/AXN.png",AXN
+http://xn--94q.l5.ca/daili/Smartv.php?id=axn_twn
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png",Animax
+http://xn--94q.l5.ca/daili/Smartv.php?id=Animax
+#EXTINF:-1 tvg-name="Astrol Kplus" tvg-logo="https://live.fanmingming.cn/tv/Astrol Kplus.png",Astrol Kplus
+http://xn--94q.l5.ca/daili/Smartv.php?id=Kplus
+#EXTINF:-1 tvg-name="Axn" tvg-logo="https://live.fanmingming.cn/tv/Axn.png",Axn
+http://xn--94q.l5.ca/daili/Smartv.php?id=Axn
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png",CCTV6
+http://xn--94q.l5.ca/daili/Smartv.php?id=cctv6
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://live.fanmingming.cn/tv/CINEMAX.png",CINEMAX
+http://xn--94q.l5.ca/daili/Smartv.php?id=cinemax_twn
+#EXTINF:-1 tvg-name="Celestial Classic" tvg-logo="https://live.fanmingming.cn/tv/Celestial Classic.png",Celestial Classic
+http://xn--94q.l5.ca/daili/Smartv.php?id=Celestial2
+#EXTINF:-1 tvg-name="Celestial Movies HD" tvg-logo="https://live.fanmingming.cn/tv/Celestial Movies HD.png",Celestial Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Celestialindo
+#EXTINF:-1 tvg-name="Cinemax" tvg-logo="https://live.fanmingming.cn/tv/Cinemax.png",Cinemax
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cinemax
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://live.fanmingming.cn/tv/HBO Family.png",HBO Family
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbofamily
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png",HBO
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbo
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://live.fanmingming.cn/tv/HBO Hits.png",HBO Hits
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbohits
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://live.fanmingming.cn/tv/HBO Signature.png",HBO Signature
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbosignature
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://live.fanmingming.cn/tv/HBO HD.png",HBO HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=hbohd_twn
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://live.fanmingming.cn/tv/HBO Hits.png",HBO Hits
+http://xn--94q.l5.ca/daili/Smartv.php?id=hbohits_twn
+#EXTINF:-1 tvg-name="Hits" tvg-logo="https://live.fanmingming.cn/tv/Hits.png",Hits
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hitsmovie
+#EXTINF:-1 tvg-name="Hits" tvg-logo="https://live.fanmingming.cn/tv/Hits.png",Hits
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hits
+#EXTINF:-1 tvg-name="Hollywood Movies" tvg-logo="https://live.fanmingming.cn/tv/Hollywood Movies.png",Hollywood Movies
+http://xn--94q.l5.ca/daili/Smartv.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-name="Movies Now HD" tvg-logo="https://live.fanmingming.cn/tv/Movies Now HD.png",Movies Now HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=moviesnow_raj
+#EXTINF:-1 tvg-name="One" tvg-logo="https://live.fanmingming.cn/tv/One.png",One
+http://xn--94q.l5.ca/daili/Smartv.php?id=One_mega
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://live.fanmingming.cn/tv/Paramount Network.png",Paramount Network
+http://xn--94q.l5.ca/daili/Smartv.php?id=Paramountnetwork
+#EXTINF:-1 tvg-name="Rock Actions" tvg-logo="https://live.fanmingming.cn/tv/Rock Actions.png",Rock Actions
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockaction
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-logo="https://live.fanmingming.cn/tv/Rock Entertainment.png",Rock Entertainment
+http://xn--94q.l5.ca/daili/Smartv.php?id=Rockentertain
+#EXTINF:-1 tvg-name="SCM" tvg-logo="https://live.fanmingming.cn/tv/SCM.png",SCM
+http://xn--94q.l5.ca/daili/Smartv.php?id=Weishimovie
+#EXTINF:-1 tvg-name="Sony Pix HD" tvg-logo="https://live.fanmingming.cn/tv/Sony Pix HD.png",Sony Pix HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=sonypix_mega
+#EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://live.fanmingming.cn/tv/Star Movies HD.png",Star Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=starmovies_raj
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.fanmingming.cn/tv/Thrill.png",Thrill
+http://xn--94q.l5.ca/daili/Smartv.php?id=Thrill
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://live.fanmingming.cn/tv/Warner TV.png",Warner TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=WarnerTV
+#EXTINF:-1 tvg-name="tvN Movie" tvg-logo="https://live.fanmingming.cn/tv/tvN Movie.png",tvN Movie
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tvnmovie
+#EXTINF:-1 tvg-name="大爱2" tvg-logo="https://live.fanmingming.cn/tv/大爱2.png",大爱2
+http://xn--94q.l5.ca/daili/Smartv.php?id=catchplay_twn
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://live.fanmingming.cn/tv/龙华电影.png",龙华电影
+http://xn--94q.l5.ca/daili/Smartv.php?id=xingwei_movie
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://live.fanmingming.cn/tv/东森洋片.png",东森洋片
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvwestern
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.cn/tv/东森电影.png",东森电影
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvmovie
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://live.fanmingming.cn/tv/美亚电影.png",美亚电影
+http://xn--94q.l5.ca/daili/Smartv.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://live.fanmingming.cn/tv/龙华洋片.png",龙华洋片
+http://xn--94q.l5.ca/daili/Smartv.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://live.fanmingming.cn/tv/龙祥时代.png",龙祥时代
+http://xn--94q.l5.ca/daili/Smartv.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-name="AFC" tvg-logo="https://live.fanmingming.cn/tv/AFC.png",AFC
+http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png",Animal Planet
+http://xn--94q.l5.ca/daili/Smartv.php?id=AnimalPlanet
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png",Animal Planet
+http://xn--94q.l5.ca/daili/Smartv.php?id=animalplanet_twn
+#EXTINF:-1 tvg-name="Asia Travel" tvg-logo="https://live.fanmingming.cn/tv/Asia Travel.png",Asia Travel
+http://xn--94q.l5.ca/daili/Smartv.php?id=asiatravel_twn
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://live.fanmingming.cn/tv/BBC Earth HD.png",BBC Earth HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcearth_twn
+#EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-logo="https://live.fanmingming.cn/tv/BBC Earth Lifestyle.png",BBC Earth Lifestyle
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-name="CI" tvg-logo="https://live.fanmingming.cn/tv/CI.png",CI
+http://xn--94q.l5.ca/daili/Smartv.php?id=ci_twn
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://live.fanmingming.cn/tv/Discovery Asia.png",Discovery Asia
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoverytwn_twn
+#EXTINF:-1 tvg-name="Discovery HD" tvg-logo="https://live.fanmingming.cn/tv/Discovery HD.png",Discovery HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=discoveryhd_twn
+#EXTINF:-1 tvg-name="Fashion" tvg-logo="https://live.fanmingming.cn/tv/Fashion.png",Fashion
+http://xn--94q.l5.ca/daili/Smartv.php?id=fashiontv_twn
+#EXTINF:-1 tvg-name="Foodnetwork Hd" tvg-logo="https://live.fanmingming.cn/tv/Foodnetwork Hd.png",Foodnetwork Hd
+http://xn--94q.l5.ca/daili/Smartv.php?id=Foodnetwork_mega
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://live.fanmingming.cn/tv/HGTV.png",HGTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=HGTV
+#EXTINF:-1 tvg-name="History" tvg-logo="https://live.fanmingming.cn/tv/History.png",History
+http://xn--94q.l5.ca/daili/Smartv.php?id=History
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://live.fanmingming.cn/tv/MTV Live.png",MTV Live
+http://xn--94q.l5.ca/daili/Smartv.php?id=mtvhd_twn
+#EXTINF:-1 tvg-name="NatGeo HD" tvg-logo="https://live.fanmingming.cn/tv/NatGeo HD.png",NatGeo HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Natgeo
+#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://live.fanmingming.cn/tv/NatGeo Wild HD.png",NatGeo Wild HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Natgeowild
+#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://live.fanmingming.cn/tv/NatGeo Wild HD.png",NatGeo Wild HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=natgeowild_twn
+#EXTINF:-1 tvg-name="Natgeo HD" tvg-logo="https://live.fanmingming.cn/tv/Natgeo HD.png",Natgeo HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=natgeohd_twn
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://live.fanmingming.cn/tv/TLC.png",TLC
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tlc
+#EXTINF:-1 tvg-name="TLC Asia" tvg-logo="https://live.fanmingming.cn/tv/TLC Asia.png",TLC Asia
+http://xn--94q.l5.ca/daili/Smartv.php?id=tlc_twn
+#EXTINF:-1 tvg-name="亚洲美食" tvg-logo="https://live.fanmingming.cn/tv/亚洲美食.png",亚洲美食
+http://xn--94q.l5.ca/daili/Smartv.php?id=afc_twn
+#EXTINF:-1 tvg-name="美食星球" tvg-logo="https://live.fanmingming.cn/tv/美食星球.png",美食星球
+http://xn--94q.l5.ca/daili/Smartv.php?id=foodplanet_twn
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://live.fanmingming.cn/tv/ABC News.png",ABC News
+http://xn--94q.l5.ca/daili/Smartv.php?id=abcnews_glo
+#EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://live.fanmingming.cn/tv/Al-Jazeera.png",Al-Jazeera
+http://xn--94q.l5.ca/daili/Smartv.php?id=aljazeera_twn
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://live.fanmingming.cn/tv/BBC World News.png",BBC World News
+http://xn--94q.l5.ca/daili/Smartv.php?id=Bbcnews
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://live.fanmingming.cn/tv/BBC World News.png",BBC World News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcnews_twn
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://live.fanmingming.cn/tv/Bloomberg News.png",Bloomberg News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twn
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://live.fanmingming.cn/tv/CBS.png",CBS
+http://xn--94q.l5.ca/daili/Smartv.php?id=cbshd_glo
+#EXTINF:-1 tvg-name="CBSN" tvg-logo="https://live.fanmingming.cn/tv/CBSN.png",CBSN
+http://xn--94q.l5.ca/daili/Smartv.php?id=cbsn_glo
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png",CGTN
+http://xn--94q.l5.ca/daili/Smartv.php?id=CGTN
+#EXTINF:-1 tvg-name="CNA" tvg-logo="https://live.fanmingming.cn/tv/CNA.png",CNA
+http://xn--94q.l5.ca/daili/Smartv.php?id=cna
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://live.fanmingming.cn/tv/CNBC.png",CNBC
+http://xn--94q.l5.ca/daili/Smartv.php?id=cnbc_twn
+#EXTINF:-1 tvg-name="CNN International" tvg-logo="https://live.fanmingming.cn/tv/CNN International.png",CNN International
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cnn
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://live.fanmingming.cn/tv/CNN.png",CNN
+http://xn--94q.l5.ca/daili/Smartv.php?id=cnn_twn
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://live.fanmingming.cn/tv/DW.png",DW
+http://xn--94q.l5.ca/daili/Smartv.php?id=dw_twn
+#EXTINF:-1 tvg-name="Fox News" tvg-logo="https://live.fanmingming.cn/tv/Fox News.png",Fox News
+http://xn--94q.l5.ca/daili/Smartv.php?id=foxnews_twn
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://live.fanmingming.cn/tv/France 24.png",France 24
+http://xn--94q.l5.ca/daili/Smartv.php?id=france24_twn
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://live.fanmingming.cn/tv/NHK World.png",NHK World
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkworld_japan
+#EXTINF:-1 tvg-name="Skynews" tvg-logo="https://live.fanmingming.cn/tv/Skynews.png",Skynews
+http://xn--94q.l5.ca/daili/Smartv.php?id=skynews_antik
+#EXTINF:-1 tvg-name="东森财经新闻" tvg-logo="https://live.fanmingming.cn/tv/东森财经新闻.png",东森财经新闻
+http://xn--94q.l5.ca/daili/Smartv.php?id=ettvcaijing_twn
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://live.fanmingming.cn/tv/Animax.png",Animax
+http://xn--94q.l5.ca/daili/Smartv.php?id=Animax
+#EXTINF:-1 tvg-name="Baby" tvg-logo="https://live.fanmingming.cn/tv/Baby.png",Baby
+http://xn--94q.l5.ca/daili/Smartv.php?id=Babytv
+#EXTINF:-1 tvg-name="Baby" tvg-logo="https://live.fanmingming.cn/tv/Baby.png",Baby
+http://xn--94q.l5.ca/daili/Smartv.php?id=babytv_twn
+#EXTINF:-1 tvg-name="Boomerang Taiwan" tvg-logo="https://live.fanmingming.cn/tv/Boomerang Taiwan.png",Boomerang Taiwan
+http://xn--94q.l5.ca/daili/Smartv.php?id=boomerang_twn
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://live.fanmingming.cn/tv/Boomerang.png",Boomerang
+http://xn--94q.l5.ca/daili/Smartv.php?id=Boomerang
+#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://live.fanmingming.cn/tv/CBeebies.png",CBeebies
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cbeebies
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://live.fanmingming.cn/tv/Cartoon Network.png",Cartoon Network
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cn
+#EXTINF:-1 tvg-name="Disney Taiwan" tvg-logo="https://live.fanmingming.cn/tv/Disney Taiwan.png",Disney Taiwan
+http://xn--94q.l5.ca/daili/Smartv.php?id=disneytwn_twn
+#EXTINF:-1 tvg-name="Kids TV" tvg-logo="https://live.fanmingming.cn/tv/Kids TV.png",Kids TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=KidsTV
+#EXTINF:-1 tvg-name="MiaoMi" tvg-logo="https://live.fanmingming.cn/tv/MiaoMi.png",MiaoMi
+http://xn--94q.l5.ca/daili/Smartv.php?id=MiaoMi
+#EXTINF:-1 tvg-name="Momo" tvg-logo="https://live.fanmingming.cn/tv/Momo.png",Momo
+http://xn--94q.l5.ca/daili/Smartv.php?id=momo1_twn
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.cn/tv/Nick Jr.png",Nick Jr
+http://xn--94q.l5.ca/daili/Smartv.php?id=Nickjr
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.cn/tv/Nickelodeon.png",Nickelodeon
+http://xn--94q.l5.ca/daili/Smartv.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="东森幼幼" tvg-logo="https://live.fanmingming.cn/tv/东森幼幼.png",东森幼幼
+http://xn--94q.l5.ca/daili/Smartv.php?id=yoyo_twn
+#EXTINF:-1 tvg-name="靖天卡通" tvg-logo="https://live.fanmingming.cn/tv/靖天卡通.png",靖天卡通
+http://xn--94q.l5.ca/daili/Smartv.php?id=jingtiancartoon_twn
+#EXTINF:-1 tvg-name="Amarin" tvg-logo="https://live.fanmingming.cn/tv/Amarin.png",Amarin
+http://xn--94q.l5.ca/daili/Smartv.php?id=amarin_pat
+#EXTINF:-1 tvg-name="Ch 8" tvg-logo="https://live.fanmingming.cn/tv/Ch 8.png",Ch 8
+http://xn--94q.l5.ca/daili/Smartv.php?id=ch8_pat
+#EXTINF:-1 tvg-name="Channel 3 Thailand" tvg-logo="https://live.fanmingming.cn/tv/Channel 3 Thailand.png",Channel 3 Thailand
+http://xn--94q.l5.ca/daili/Smartv.php?id=ch3_pat
+#EXTINF:-1 tvg-name="Channel 5 Thailand" tvg-logo="https://live.fanmingming.cn/tv/Channel 5 Thailand.png",Channel 5 Thailand
+http://xn--94q.l5.ca/daili/Smartv.php?id=ch5_pat
+#EXTINF:-1 tvg-name="Channel 7 Thailand" tvg-logo="https://live.fanmingming.cn/tv/Channel 7 Thailand.png",Channel 7 Thailand
+http://xn--94q.l5.ca/daili/Smartv.php?id=ch7_pat
+#EXTINF:-1 tvg-name="Gmm Channel" tvg-logo="https://live.fanmingming.cn/tv/Gmm Channel.png",Gmm Channel
+http://xn--94q.l5.ca/daili/Smartv.php?id=gmmchannel_pat
+#EXTINF:-1 tvg-name="GmmOne" tvg-logo="https://live.fanmingming.cn/tv/GmmOne.png",GmmOne
+http://xn--94q.l5.ca/daili/Smartv.php?id=gmmone_pat
+#EXTINF:-1 tvg-name="MCOT HD Thailand-1" tvg-logo="https://live.fanmingming.cn/tv/MCOT HD Thailand-1.png",MCOT HD Thailand-1
+http://xn--94q.l5.ca/daili/Smartv.php?id=mcot_pat
+#EXTINF:-1 tvg-name="Mono" tvg-logo="https://live.fanmingming.cn/tv/Mono.png",Mono
+http://xn--94q.l5.ca/daili/Smartv.php?id=mono_pat
+#EXTINF:-1 tvg-name="Nation" tvg-logo="https://live.fanmingming.cn/tv/Nation.png",Nation
+http://xn--94q.l5.ca/daili/Smartv.php?id=nation_pat
+#EXTINF:-1 tvg-name="Nbt" tvg-logo="https://live.fanmingming.cn/tv/Nbt.png",Nbt
+http://xn--94q.l5.ca/daili/Smartv.php?id=nbt_pat
+#EXTINF:-1 tvg-name="New" tvg-logo="https://live.fanmingming.cn/tv/New.png",New
+http://xn--94q.l5.ca/daili/Smartv.php?id=new_pat
+#EXTINF:-1 tvg-name="PPTV Thailand1" tvg-logo="https://live.fanmingming.cn/tv/PPTV Thailand1.png",PPTV Thailand1
+http://xn--94q.l5.ca/daili/Smartv.php?id=pptv_pat
+#EXTINF:-1 tvg-name="TPTV" tvg-logo="https://live.fanmingming.cn/tv/TPTV.png",TPTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=tptv_pat
+#EXTINF:-1 tvg-name="Thai Thai" tvg-logo="https://live.fanmingming.cn/tv/Thai Thai.png",Thai Thai
+http://xn--94q.l5.ca/daili/Smartv.php?id=thaithai_pat
+#EXTINF:-1 tvg-name="Thairath" tvg-logo="https://live.fanmingming.cn/tv/Thairath.png",Thairath
+http://xn--94q.l5.ca/daili/Smartv.php?id=thairath_pat
+#EXTINF:-1 tvg-name="Tnn24" tvg-logo="https://live.fanmingming.cn/tv/Tnn24.png",Tnn24
+http://xn--94q.l5.ca/daili/Smartv.php?id=tnn24_pat
+#EXTINF:-1 tvg-name="Workpoint" tvg-logo="https://live.fanmingming.cn/tv/Workpoint.png",Workpoint
+http://xn--94q.l5.ca/daili/Smartv.php?id=workpoint_pat
+#EXTINF:-1 tvg-name="Tpbs" tvg-logo="https://live.fanmingming.cn/tv/Tpbs.png",Tpbs
+http://xn--94q.l5.ca/daili/Smartv.php?id=tpbs_pat
+#EXTINF:-1 tvg-name="Al-Jazeera" tvg-logo="https://live.fanmingming.cn/tv/Al-Jazeera.png",Al-Jazeera
+http://xn--94q.l5.ca/daili/Smartv.php?id=aljazeera_twn
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://live.fanmingming.cn/tv/Animal Planet.png",Animal Planet
+http://xn--94q.l5.ca/daili/Smartv.php?id=AnimalPlanet
+#EXTINF:-1 tvg-name="Axn" tvg-logo="https://live.fanmingming.cn/tv/Axn.png",Axn
+http://xn--94q.l5.ca/daili/Smartv.php?id=Axn
+#EXTINF:-1 tvg-name="BBC 1" tvg-logo="https://live.fanmingming.cn/tv/BBC 1.png",BBC 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbc1_antik
+#EXTINF:-1 tvg-name="BBC 2" tvg-logo="https://live.fanmingming.cn/tv/BBC 2.png",BBC 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbc2_antik
+#EXTINF:-1 tvg-name="BBC Earth HD" tvg-logo="https://live.fanmingming.cn/tv/BBC Earth HD.png",BBC Earth HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcearth_twn
+#EXTINF:-1 tvg-name="BBC Earth Lifestyle" tvg-logo="https://live.fanmingming.cn/tv/BBC Earth Lifestyle.png",BBC Earth Lifestyle
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-name="BBC World News" tvg-logo="https://live.fanmingming.cn/tv/BBC World News.png",BBC World News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bbcworldnews_antik
+#EXTINF:-1 tvg-name="Bloomberg News" tvg-logo="https://live.fanmingming.cn/tv/Bloomberg News.png",Bloomberg News
+http://xn--94q.l5.ca/daili/Smartv.php?id=bloomberg_twn
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://live.fanmingming.cn/tv/Boomerang.png",Boomerang
+http://xn--94q.l5.ca/daili/Smartv.php?id=Boomerang
+#EXTINF:-1 tvg-name="CBBC" tvg-logo="https://live.fanmingming.cn/tv/CBBC.png",CBBC
+http://xn--94q.l5.ca/daili/Smartv.php?id=cbbc_antik
+#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://live.fanmingming.cn/tv/CBeebies.png",CBeebies
+http://xn--94q.l5.ca/daili/Smartv.php?id=Cbeebies
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png",CGTN
+http://xn--94q.l5.ca/daili/Smartv.php?id=CGTN
+#EXTINF:-1 tvg-name="CNBC" tvg-logo="https://live.fanmingming.cn/tv/CNBC.png",CNBC
+http://xn--94q.l5.ca/daili/Smartv.php?id=cnbc_twn
+#EXTINF:-1 tvg-name="Channel 4" tvg-logo="https://live.fanmingming.cn/tv/Channel 4.png",Channel 4
+http://xn--94q.l5.ca/daili/Smartv.php?id=channel4_antik
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://live.fanmingming.cn/tv/DW.png",DW
+http://xn--94q.l5.ca/daili/Smartv.php?id=dw_twn
+#EXTINF:-1 tvg-name="Euronews" tvg-logo="https://live.fanmingming.cn/tv/Euronews.png",Euronews
+http://xn--94q.l5.ca/daili/Smartv.php?id=euronews_antik
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://live.fanmingming.cn/tv/France 24.png",France 24
+http://xn--94q.l5.ca/daili/Smartv.php?id=france24_twn
+#EXTINF:-1 tvg-name="Freesports" tvg-logo="https://live.fanmingming.cn/tv/Freesports.png",Freesports
+http://xn--94q.l5.ca/daili/Smartv.php?id=freesports_antik
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://live.fanmingming.cn/tv/HBO.png",HBO
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hbo
+#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://live.fanmingming.cn/tv/HGTV.png",HGTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=HGTV
+#EXTINF:-1 tvg-name="History" tvg-logo="https://live.fanmingming.cn/tv/History.png",History
+http://xn--94q.l5.ca/daili/Smartv.php?id=History
+#EXTINF:-1 tvg-name="Hits" tvg-logo="https://live.fanmingming.cn/tv/Hits.png",Hits
+http://xn--94q.l5.ca/daili/Smartv.php?id=Hitsmovie
+#EXTINF:-1 tvg-name="Kids" tvg-logo="https://live.fanmingming.cn/tv/Kids.png",Kids
+http://xn--94q.l5.ca/daili/Smartv.php?id=KidsTV
+#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://live.fanmingming.cn/tv/MTV Live.png",MTV Live
+http://xn--94q.l5.ca/daili/Smartv.php?id=mtvhd_twn
+#EXTINF:-1 tvg-name="More4" tvg-logo="https://live.fanmingming.cn/tv/More4.png",More4
+http://xn--94q.l5.ca/daili/Smartv.php?id=more4_antik
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://live.fanmingming.cn/tv/NHK World.png",NHK World
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkworld_japan
+#EXTINF:-1 tvg-name="NatGeo HD" tvg-logo="https://live.fanmingming.cn/tv/NatGeo HD.png",NatGeo HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Natgeo
+#EXTINF:-1 tvg-name="NatGeo Wild HD" tvg-logo="https://live.fanmingming.cn/tv/NatGeo Wild HD.png",NatGeo Wild HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=Natgeowild
+#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://live.fanmingming.cn/tv/Nick Jr.png",Nick Jr
+http://xn--94q.l5.ca/daili/Smartv.php?id=Nickjr
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://live.fanmingming.cn/tv/Nickelodeon.png",Nickelodeon
+http://xn--94q.l5.ca/daili/Smartv.php?id=Nickelodeon
+#EXTINF:-1 tvg-name="Pick TV" tvg-logo="https://live.fanmingming.cn/tv/Pick TV.png",Pick TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=picktv_antik
+#EXTINF:-1 tvg-name="Skynews" tvg-logo="https://live.fanmingming.cn/tv/Skynews.png",Skynews
+http://xn--94q.l5.ca/daili/Smartv.php?id=skynews_antik
+#EXTINF:-1 tvg-name="Skysports Arena" tvg-logo="https://live.fanmingming.cn/tv/Skysports Arena.png",Skysports Arena
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongarena
+#EXTINF:-1 tvg-name="Skysports Cricket" tvg-logo="https://live.fanmingming.cn/tv/Skysports Cricket.png",Skysports Cricket
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongcricket
+#EXTINF:-1 tvg-name="Skysports EPL" tvg-logo="https://live.fanmingming.cn/tv/Skysports EPL.png",Skysports EPL
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongepl
+#EXTINF:-1 tvg-name="Skysports F1" tvg-logo="https://live.fanmingming.cn/tv/Skysports F1.png",Skysports F1
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongf1
+#EXTINF:-1 tvg-name="Skysports Football" tvg-logo="https://live.fanmingming.cn/tv/Skysports Football.png",Skysports Football
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongfootball
+#EXTINF:-1 tvg-name="Skysports Golf" tvg-logo="https://live.fanmingming.cn/tv/Skysports Golf.png",Skysports Golf
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankonggolf
+#EXTINF:-1 tvg-name="Skysports Main Event" tvg-logo="https://live.fanmingming.cn/tv/Skysports Main Event.png",Skysports Main Event
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongmain
+#EXTINF:-1 tvg-name="Skysports News" tvg-logo="https://live.fanmingming.cn/tv/Skysports News.png",Skysports News
+http://xn--94q.l5.ca/daili/Smartv.php?id=tiankongnews
+#EXTINF:-1 tvg-name="Star Movies HD" tvg-logo="https://live.fanmingming.cn/tv/Star Movies HD.png",Star Movies HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=starmovies_raj
+#EXTINF:-1 tvg-name="TLC" tvg-logo="https://live.fanmingming.cn/tv/TLC.png",TLC
+http://xn--94q.l5.ca/daili/Smartv.php?id=Tlc
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://live.fanmingming.cn/tv/Thrill.png",Thrill
+http://xn--94q.l5.ca/daili/Smartv.php?id=Thrill
+#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://live.fanmingming.cn/tv/Warner TV.png",Warner TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=WarnerTV
+#EXTINF:-1 tvg-name="Itv1" tvg-logo="https://live.fanmingming.cn/tv/Itv1.png",Itv1
+http://xn--94q.l5.ca/daili/Smartv.php?id=itv1_antik
+#EXTINF:-1 tvg-name="Itv2" tvg-logo="https://live.fanmingming.cn/tv/Itv2.png",Itv2
+http://xn--94q.l5.ca/daili/Smartv.php?id=itv2_antik
+#EXTINF:-1 tvg-name="ANTV" tvg-logo="https://live.fanmingming.cn/tv/ANTV.png",ANTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_antv
+#EXTINF:-1 tvg-name="BPTV 2" tvg-logo="https://live.fanmingming.cn/tv/BPTV 2.png",BPTV 2
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_bptv2
+#EXTINF:-1 tvg-name="BRT HD" tvg-logo="https://live.fanmingming.cn/tv/BRT HD.png",BRT HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_brt
+#EXTINF:-1 tvg-name="Ca Mau TV" tvg-logo="https://live.fanmingming.cn/tv/Ca Mau TV.png",Ca Mau TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_camautv
+#EXTINF:-1 tvg-name="Danang TV1" tvg-logo="https://live.fanmingming.cn/tv/Danang TV1.png",Danang TV1
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_danangtv1
+#EXTINF:-1 tvg-name="Danang TV2" tvg-logo="https://live.fanmingming.cn/tv/Danang TV2.png",Danang TV2
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_danangtv2
+#EXTINF:-1 tvg-name="HBTV HD" tvg-logo="https://live.fanmingming.cn/tv/HBTV HD.png",HBTV HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_hbtv
+#EXTINF:-1 tvg-name="HTV 7" tvg-logo="https://live.fanmingming.cn/tv/HTV 7.png",HTV 7
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_htv7
+#EXTINF:-1 tvg-name="HTV 9" tvg-logo="https://live.fanmingming.cn/tv/HTV 9.png",HTV 9
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_htv9
+#EXTINF:-1 tvg-name="PTTH 1" tvg-logo="https://live.fanmingming.cn/tv/PTTH 1.png",PTTH 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_ptth1
+#EXTINF:-1 tvg-name="VTV 1" tvg-logo="https://live.fanmingming.cn/tv/VTV 1.png",VTV 1
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_vtv1
+#EXTINF:-1 tvg-name="VTV 7" tvg-logo="https://live.fanmingming.cn/tv/VTV 7.png",VTV 7
+http://xn--94q.l5.ca/daili/Smartv.php?id=viet_vtv7
+#EXTINF:-1 tvg-name="All the Kpop" tvg-logo="https://live.fanmingming.cn/tv/All the Kpop.png",All the Kpop
+http://xn--94q.l5.ca/daili/Smartv.php?id=allthekpop_korea
+#EXTINF:-1 tvg-name="Apps TV" tvg-logo="https://live.fanmingming.cn/tv/Apps TV.png",Apps TV
+http://xn--94q.l5.ca/daili/Smartv.php?id=appongoogle_korea
+#EXTINF:-1 tvg-name="Arirang HD" tvg-logo="https://live.fanmingming.cn/tv/Arirang HD.png",Arirang HD
+http://xn--94q.l5.ca/daili/Smartv.php?id=arirang_korea
+#EXTINF:-1 tvg-name="CBS" tvg-logo="https://live.fanmingming.cn/tv/CBS.png",CBS
+http://xn--94q.l5.ca/daili/Smartv.php?id=cbs_korea
+#EXTINF:-1 tvg-name="CGNTV" tvg-logo="https://live.fanmingming.cn/tv/CGNTV.png",CGNTV
+http://xn--94q.l5.ca/daili/Smartv.php?id=cgntv_korea
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://live.fanmingming.cn/tv/EBS1.png",EBS1
+http://xn--94q.l5.ca/daili/Smartv.php?id=ebs1_korea
+#EXTINF:-1 tvg-name="EBS Kids" tvg-logo="https://live.fanmingming.cn/tv/EBS Kids.png",EBS Kids
+http://xn--94q.l5.ca/daili/Smartv.php?id=ebskids_korea
+#EXTINF:-1 tvg-name="EBS Plus2" tvg-logo="https://live.fanmingming.cn/tv/EBS Plus2.png",EBS Plus2
+http://xn--94q.l5.ca/daili/Smartv.php?id=ebsplus2_korea
+#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://live.fanmingming.cn/tv/EBS2.png",EBS2
+http://xn--94q.l5.ca/daili/Smartv.php?id=ebs2_korea
+#EXTINF:-1 tvg-name="J the Kpop" tvg-logo="https://live.fanmingming.cn/tv/J the Kpop.png",J the Kpop
+http://xn--94q.l5.ca/daili/Smartv.php?id=jthekpop_korea
+#EXTINF:-1 tvg-name="KBS World 24" tvg-logo="https://live.fanmingming.cn/tv/KBS World 24.png",KBS World 24
+http://xn--94q.l5.ca/daili/Smartv.php?id=kbsworld24_korea
+#EXTINF:-1 tvg-name="SBS Plus" tvg-logo="https://live.fanmingming.cn/tv/SBS Plus.png",SBS Plus
+http://xn--94q.l5.ca/daili/Smartv.php?id=sbsplus_korea
+#EXTINF:-1 tvg-name="YTN DMB" tvg-logo="https://live.fanmingming.cn/tv/YTN DMB.png",YTN DMB
+http://xn--94q.l5.ca/daili/Smartv.php?id=ytndmb_korea
+#EXTINF:-1 tvg-name="YTN Korean" tvg-logo="https://live.fanmingming.cn/tv/YTN Korean.png",YTN Korean
+http://xn--94q.l5.ca/daili/Smartv.php?id=ytnkorean_korea
+#EXTINF:-1 tvg-name="YTN Science" tvg-logo="https://live.fanmingming.cn/tv/YTN Science.png",YTN Science
+http://xn--94q.l5.ca/daili/Smartv.php?id=ytnscience_korea
+#EXTINF:-1 tvg-name="YTN" tvg-logo="https://live.fanmingming.cn/tv/YTN.png",YTN
+http://xn--94q.l5.ca/daili/Smartv.php?id=ytn_korea
+#EXTINF:-1 tvg-name="Yonhap News" tvg-logo="https://live.fanmingming.cn/tv/Yonhap News.png",Yonhap News
+http://xn--94q.l5.ca/daili/Smartv.php?id=yonhapnews_korea
+#EXTINF:-1 tvg-name="BS TBS" tvg-logo="https://live.fanmingming.cn/tv/BS TBS.png",BS TBS
+http://xn--94q.l5.ca/daili/Smartv.php?id=bstbs_japan
+#EXTINF:-1 tvg-name="BS" tvg-logo="https://live.fanmingming.cn/tv/BS.png",BS
+http://xn--94q.l5.ca/daili/Smartv.php?id=bs181_japan
+#EXTINF:-1 tvg-name="BS Fuji" tvg-logo="https://live.fanmingming.cn/tv/BS Fuji.png",BS Fuji
+http://xn--94q.l5.ca/daili/Smartv.php?id=bsfuji_japan
+#EXTINF:-1 tvg-name="CNA Japan" tvg-logo="https://live.fanmingming.cn/tv/CNA Japan.png",CNA Japan
+http://xn--94q.l5.ca/daili/Smartv.php?id=cna_japan
+#EXTINF:-1 tvg-name="JET" tvg-logo="https://live.fanmingming.cn/tv/JET.png",JET
+http://xn--94q.l5.ca/daili/Smartv.php?id=jettv_japan
+#EXTINF:-1 tvg-name="NHK Oaska" tvg-logo="https://live.fanmingming.cn/tv/NHK Oaska.png",NHK Oaska
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkosaka_japan
+#EXTINF:-1 tvg-name="NHK World" tvg-logo="https://live.fanmingming.cn/tv/NHK World.png",NHK World
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkworld_japan
+#EXTINF:-1 tvg-name="NHK-E" tvg-logo="https://live.fanmingming.cn/tv/NHK-E.png",NHK-E
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhke_japan
+#EXTINF:-1 tvg-name="NHK2" tvg-logo="https://live.fanmingming.cn/tv/NHK2.png",NHK2
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkg_japan
+#EXTINF:-1 tvg-name="NHKBS1" tvg-logo="https://live.fanmingming.cn/tv/NHKBS1.png",NHKBS1
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkbs1_japan
+#EXTINF:-1 tvg-name="NHKBS Premium" tvg-logo="https://live.fanmingming.cn/tv/NHKBS Premium.png",NHKBS Premium
+http://xn--94q.l5.ca/daili/Smartv.php?id=nhkpremium_japan
+#EXTINF:-1 tvg-name="TOKYOMX" tvg-logo="https://live.fanmingming.cn/tv/TOKYOMX.png",TOKYOMX
+http://xn--94q.l5.ca/daili/Smartv.php?id=tokyomx_japan
+#EXTINF:-1 tvg-name="朝日 Asahi" tvg-logo="https://live.fanmingming.cn/tv/朝日 Asahi.png",朝日 Asahi
+http://xn--94q.l5.ca/daili/Smartv.php?id=asahitv_japan
+#EXTINF:-1 tvg-name="东京 Tokyo" tvg-logo="https://live.fanmingming.cn/tv/东京 Tokyo.png",东京 Tokyo
+http://xn--94q.l5.ca/daili/Smartv.php?id=tokyotv_japan
