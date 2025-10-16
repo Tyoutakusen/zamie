@@ -1,1 +1,2619 @@
-dm1lc3M6Ly9leUoySWpvaU1pSXNJbkJ6SWpvaVhIVTFNalk1WEhVMFpqVTVYSFUyWkRReFhIVTVNV05tWEhWbVpqRmhPVEF1TXpVZ1IwSWlMQ0poWkdRaU9pSnZiR1ZxTG1abWVXMWhiblZ6WTNKcGNIUXVkRzl3SWl3aWNHOXlkQ0k2SWpVNU5UQTVJaXdpYVdRaU9pSXhPVFF3WlRnMFppMDNPV0ppTFRSbVlXSXRZakkyT1MxalltRmpZbU01TkRnNFlUa2lMQ0poYVdRaU9pSXdJaXdpYzJONUlqb2lZWFYwYnlJc0ltNWxkQ0k2SW5SamNDSXNJblI1Y0dVaU9pSnViMjVsSWl3aWFHOXpkQ0k2SWlJc0luQmhkR2dpT2lJaUxDSjBiSE1pT2lJaUxDSm1jQ0k2SW1Ob2NtOXRaU0o5DQp2bWVzczovL2V5SjJJam9pTWlJc0luQnpJam9pWEhVMU9UVTNYSFU1T1RFd1hIVTFNak13WEhVMk56Rm1YSFZtWmpGaE1qQXlOUzB4TVMweE5pSXNJbUZrWkNJNkltOXNaV291Wm1aNWJXRnVkWE5qY21sd2RDNTBiM0FpTENKd2IzSjBJam9pTlRrMU1Ea2lMQ0pwWkNJNklqRTVOREJsT0RSbUxUYzVZbUl0TkdaaFlpMWlNalk1TFdOaVlXTmlZemswT0RoaE9TSXNJbUZwWkNJNklqQWlMQ0p6WTNraU9pSmhkWFJ2SWl3aWJtVjBJam9pZEdOd0lpd2lkSGx3WlNJNkltNXZibVVpTENKb2IzTjBJam9pSWl3aWNHRjBhQ0k2SWlJc0luUnNjeUk2SWlJc0ltWndJam9pWTJoeWIyMWxJbjA9DQp2bWVzczovL2V5SjJJam9pTWlJc0luQnpJam9pWm1aNU1qQXlOUzVqYjIxY2RXWm1NRGhjZFRWaU9UaGNkVGRtTlRGY2RXWm1NRGtpTENKaFpHUWlPaUp2YkdWcUxtWm1lVzFoYm5WelkzSnBjSFF1ZEc5d0lpd2ljRzl5ZENJNklqVTVOVEE1SWl3aWFXUWlPaUl4T1RRd1pUZzBaaTAzT1dKaUxUUm1ZV0l0WWpJMk9TMWpZbUZqWW1NNU5EZzRZVGtpTENKaGFXUWlPaUl3SWl3aWMyTjVJam9pWVhWMGJ5SXNJbTVsZENJNkluUmpjQ0lzSW5SNWNHVWlPaUp1YjI1bElpd2lhRzl6ZENJNklpSXNJbkJoZEdnaU9pSWlMQ0owYkhNaU9pSWlMQ0ptY0NJNkltTm9jbTl0WlNKOQ0Kdm1lc3M6Ly9leUoySWpvaU1pSXNJbkJ6SWpvaVhIVTFPVEJrWEhVMU1qTTJYSFUwWlRCaVhIVTJOV0k1WEhVM1pqVXhYSFUxTnpRd1hIVTRNRFUwWEhVM1kyWmlYSFUxWW1FeVhIVTJOekJrSWl3aVlXUmtJam9pYjJ4bGFpNW1abmx0WVc1MWMyTnlhWEIwTG5SdmNDSXNJbkJ2Y25RaU9pSTFPVFV3T1NJc0ltbGtJam9pTVRrME1HVTROR1l0TnpsaVlpMDBabUZpTFdJeU5qa3RZMkpoWTJKak9UUTRPR0U1SWl3aVlXbGtJam9pTUNJc0luTmplU0k2SW1GMWRHOGlMQ0p1WlhRaU9pSjBZM0FpTENKMGVYQmxJam9pYm05dVpTSXNJbWh2YzNRaU9pSWlMQ0p3WVhSb0lqb2lJaXdpZEd4eklqb2lJaXdpWm5BaU9pSmphSEp2YldVaWZRPT0NCnZtZXNzOi8vZXlKMklqb2lNaUlzSW5Ceklqb2liVzB1YTJWbWRUSXdNalV1WTI5dElpd2lZV1JrSWpvaWIyeGxhaTVtWm5sdFlXNTFjMk55YVhCMExuUnZjQ0lzSW5CdmNuUWlPaUkxT1RVd09TSXNJbWxrSWpvaU1UazBNR1U0TkdZdE56bGlZaTAwWm1GaUxXSXlOamt0WTJKaFkySmpPVFE0T0dFNUlpd2lZV2xrSWpvaU1DSXNJbk5qZVNJNkltRjFkRzhpTENKdVpYUWlPaUowWTNBaUxDSjBlWEJsSWpvaWJtOXVaU0lzSW1odmMzUWlPaUlpTENKd1lYUm9Jam9pSWl3aWRHeHpJam9pSWl3aVpuQWlPaUpqYUhKdmJXVWlmUT09DQp2bWVzczovL2V5SjJJam9pTWlJc0luQnpJam9pVVZ4MU4yWmhORG8zTlRVd05EWTROek1pTENKaFpHUWlPaUp2YkdWcUxtWm1lVzFoYm5WelkzSnBjSFF1ZEc5d0lpd2ljRzl5ZENJNklqVTVOVEE1SWl3aWFXUWlPaUl4T1RRd1pUZzBaaTAzT1dKaUxUUm1ZV0l0WWpJMk9TMWpZbUZqWW1NNU5EZzRZVGtpTENKaGFXUWlPaUl3SWl3aWMyTjVJam9pWVhWMGJ5SXNJbTVsZENJNkluUmpjQ0lzSW5SNWNHVWlPaUp1YjI1bElpd2lhRzl6ZENJNklpSXNJbkJoZEdnaU9pSWlMQ0owYkhNaU9pSWlMQ0ptY0NJNkltTm9jbTl0WlNKOQ0Kdm1lc3M6Ly9leUoySWpvaU1pSXNJbkJ6SWpvaVhIVTFNMll3WEhVMlpUZGxYSFUwWlRJNFhIVTRPV1V6UjFCVUlpd2lZV1JrSWpvaWIyeGxhaTVtWm5sdFlXNTFjMk55YVhCMExuUnZjQ0lzSW5CdmNuUWlPaUl5T1RVd01pSXNJbWxrSWpvaU1UazBNR1U0TkdZdE56bGlZaTAwWm1GaUxXSXlOamt0WTJKaFkySmpPVFE0T0dFNUlpd2lZV2xrSWpvaU1DSXNJbk5qZVNJNkltRjFkRzhpTENKdVpYUWlPaUowWTNBaUxDSjBlWEJsSWpvaWJtOXVaU0lzSW1odmMzUWlPaUlpTENKd1lYUm9Jam9pSWl3aWRHeHpJam9pSWl3aVpuQWlPaUpqYUhKdmJXVWlmUT09DQp2bWVzczovL2V5SjJJam9pTWlJc0luQnpJam9pWEhVNU9UazVYSFUyWlRKbUlGeDFNekF4TUVsRlVFeGNkVE13TVRFaUxDSmhaR1FpT2lKdmJHVnFMbVptZVcxaGJuVnpZM0pwY0hRdWRHOXdJaXdpY0c5eWRDSTZJalU1TlRBeElpd2lhV1FpT2lJeE9UUXdaVGcwWmkwM09XSmlMVFJtWVdJdFlqSTJPUzFqWW1GalltTTVORGc0WVRraUxDSmhhV1FpT2lJd0lpd2ljMk41SWpvaVlYVjBieUlzSW01bGRDSTZJblJqY0NJc0luUjVjR1VpT2lKdWIyNWxJaXdpYUc5emRDSTZJaUlzSW5CaGRHZ2lPaUlpTENKMGJITWlPaUlpTENKbWNDSTZJbU5vY205dFpTSjkNCnNzOi8vWTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05Ub3hPVFF3WlRnMFppMDNPV0ppTFRSbVlXSXRZakkyT1MxalltRmpZbU01TkRnNFlUa0BvbGVqLmZmeW1hbnVzY3JpcHQudG9wOjU5NTIwIyVFOSVBNiU5OSVFNiVCOCVBRiVFNCVCOCVBOCVFNSVCRiVBQiVFOSU4MCU5Rg0Kdm1lc3M6Ly9leUoySWpvaU1pSXNJbkJ6SWpvaVhIVTJOV1UxWEhVMk56SmpYSFUwWlRJNFhIVTRPV1V6UjFCVUlpd2lZV1JrSWpvaWIyeGxhaTVtWm5sdFlXNTFjMk55YVhCMExuUnZjQ0lzSW5CdmNuUWlPaUkxT1RVd015SXNJbWxrSWpvaU1UazBNR1U0TkdZdE56bGlZaTAwWm1GaUxXSXlOamt0WTJKaFkySmpPVFE0T0dFNUlpd2lZV2xrSWpvaU1DSXNJbk5qZVNJNkltRjFkRzhpTENKdVpYUWlPaUowWTNBaUxDSjBlWEJsSWpvaWJtOXVaU0lzSW1odmMzUWlPaUlpTENKd1lYUm9Jam9pSWl3aWRHeHpJam9pSWl3aVpuQWlPaUpqYUhKdmJXVWlmUT09DQp2bWVzczovL2V5SjJJam9pTWlJc0luQnpJam9pWEhVMk5XSXdYSFUxTW1Fd1hIVTFOell4WEhVMFpUSTRYSFU0T1dVelIxQlVJaXdpWVdSa0lqb2liMnhsYWk1bVpubHRZVzUxYzJOeWFYQjBMblJ2Y0NJc0luQnZjblFpT2lJMU9UVXhNQ0lzSW1sa0lqb2lNVGswTUdVNE5HWXROemxpWWkwMFptRmlMV0l5TmprdFkySmhZMkpqT1RRNE9HRTVJaXdpWVdsa0lqb2lNQ0lzSW5OamVTSTZJbUYxZEc4aUxDSnVaWFFpT2lKMFkzQWlMQ0owZVhCbElqb2libTl1WlNJc0ltaHZjM1FpT2lJaUxDSndZWFJvSWpvaUlpd2lkR3h6SWpvaUlpd2labkFpT2lKamFISnZiV1VpZlE9PQ0Kdm1lc3M6Ly9leUoySWpvaU1pSXNJbkJ6SWpvaVhIVTNaamhsWEhVMU5tWmtJREF4WEhVek1ERXdTVVZRVEZ4MU16QXhNU0lzSW1Ga1pDSTZJbTlzWldvdVptWjViV0Z1ZFhOamNtbHdkQzUwYjNBaUxDSndiM0owSWpvaU5UazFNRFFpTENKcFpDSTZJakU1TkRCbE9EUm1MVGM1WW1JdE5HWmhZaTFpTWpZNUxXTmlZV05pWXprME9EaGhPU0lzSW1GcFpDSTZJakFpTENKelkza2lPaUpoZFhSdklpd2libVYwSWpvaWRHTndJaXdpZEhsd1pTSTZJbTV2Ym1VaUxDSm9iM04wSWpvaUlpd2ljR0YwYUNJNklpSXNJblJzY3lJNklpSXNJbVp3SWpvaVkyaHliMjFsSW4wPQ0Kdm1lc3M6Ly9leUoySWpvaU1pSXNJbkJ6SWpvaVhIVTNaamhsWEhVMU5tWmtJREF5WEhVek1ERXdTVVZRVEZ4MU16QXhNU0lzSW1Ga1pDSTZJbTlzWldvdVptWjViV0Z1ZFhOamNtbHdkQzUwYjNBaUxDSndiM0owSWpvaU1qazFNVElpTENKcFpDSTZJakU1TkRCbE9EUm1MVGM1WW1JdE5HWmhZaTFpTWpZNUxXTmlZV05pWXprME9EaGhPU0lzSW1GcFpDSTZJakFpTENKelkza2lPaUpoZFhSdklpd2libVYwSWpvaWRHTndJaXdpZEhsd1pTSTZJbTV2Ym1VaUxDSm9iM04wSWpvaUlpd2ljR0YwYUNJNklpSXNJblJzY3lJNklpSXNJbVp3SWpvaVkyaHliMjFsSW4wPQ0Kdm1lc3M6Ly9leUoySWpvaU1pSXNJbkJ6SWpvaVhIVTJZMll3WEhVMU5tWmtYSFUwWlRJNFhIVTFabVZpWEhVNU1ERm1JaXdpWVdSa0lqb2liMnhsYWk1bVpubHRZVzUxYzJOeWFYQjBMblJ2Y0NJc0luQnZjblFpT2lJMU9UVXhPU0lzSW1sa0lqb2lNVGswTUdVNE5HWXROemxpWWkwMFptRmlMV0l5TmprdFkySmhZMkpqT1RRNE9HRTVJaXdpWVdsa0lqb2lNQ0lzSW5OamVTSTZJbUYxZEc4aUxDSnVaWFFpT2lKMFkzQWlMQ0owZVhCbElqb2libTl1WlNJc0ltaHZjM1FpT2lJaUxDSndZWFJvSWpvaUlpd2lkR3h6SWpvaUlpd2labkFpT2lKamFISnZiV1VpZlE9PQ0Kdm1lc3M6Ly9leUoySWpvaU1pSXNJbkJ6SWpvaVhIVTFNbUV3WEhVMk1tWm1YSFUxT1RJM1hIVTBaVEk0WEhVMVptVmlYSFU1TURGbUlpd2lZV1JrSWpvaWIyeGxhaTVtWm5sdFlXNTFjMk55YVhCMExuUnZjQ0lzSW5CdmNuUWlPaUkxT1RVd055SXNJbWxrSWpvaU1UazBNR1U0TkdZdE56bGlZaTAwWm1GaUxXSXlOamt0WTJKaFkySmpPVFE0T0dFNUlpd2lZV2xrSWpvaU1DSXNJbk5qZVNJNkltRjFkRzhpTENKdVpYUWlPaUowWTNBaUxDSjBlWEJsSWpvaWJtOXVaU0lzSW1odmMzUWlPaUlpTENKd1lYUm9Jam9pSWl3aWRHeHpJam9pSWl3aVpuQWlPaUpqYUhKdmJXVWlmUT09DQp2bWVzczovL2V5SjJJam9pTWlJc0luQnpJam9pWEhVNFpEaGhYSFUxTXpVM1hIVTBaVEk0WEhVNE9XVXpSMUJVSWl3aVlXUmtJam9pYjJ4bGFpNW1abmx0WVc1MWMyTnlhWEIwTG5SdmNDSXNJbkJ2Y25RaU9pSTFPVFV4T0NJc0ltbGtJam9pTVRrME1HVTROR1l0TnpsaVlpMDBabUZpTFdJeU5qa3RZMkpoWTJKak9UUTRPR0U1SWl3aVlXbGtJam9pTUNJc0luTmplU0k2SW1GMWRHOGlMQ0p1WlhRaU9pSjBZM0FpTENKMGVYQmxJam9pYm05dVpTSXNJbWh2YzNRaU9pSWlMQ0p3WVhSb0lqb2lJaXdpZEd4eklqb2lJaXdpWm5BaU9pSmphSEp2YldVaWZRPT0NCnZtZXNzOi8vZXlKMklqb2lNaUlzSW5Ceklqb2lYSFU1WVRaalhIVTJOelkxWEhVNE9UZG1YSFUwWlRsaFhIVTBaVEk0UjFCVUlpd2lZV1JrSWpvaWIyeGxhaTVtWm5sdFlXNTFjMk55YVhCMExuUnZjQ0lzSW5CdmNuUWlPaUkxT1RVeE55SXNJbWxrSWpvaU1UazBNR1U0TkdZdE56bGlZaTAwWm1GaUxXSXlOamt0WTJKaFkySmpPVFE0T0dFNUlpd2lZV2xrSWpvaU1DSXNJbk5qZVNJNkltRjFkRzhpTENKdVpYUWlPaUowWTNBaUxDSjBlWEJsSWpvaWJtOXVaU0lzSW1odmMzUWlPaUlpTENKd1lYUm9Jam9pSWl3aWRHeHpJam9pSWl3aVpuQWlPaUpqYUhKdmJXVWlmUT09DQp2bWVzczovL2V5SjJJam9pTWlJc0luQnpJam9pWEhVMk5XVTFYSFUyTnpKalhIVTFNemxtWEhVM05URm1hWEFpTENKaFpHUWlPaUp2YkdWcUxtWm1lVzFoYm5WelkzSnBjSFF1ZEc5d0lpd2ljRzl5ZENJNklqVTVOVEUxSWl3aWFXUWlPaUl4T1RRd1pUZzBaaTAzT1dKaUxUUm1ZV0l0WWpJMk9TMWpZbUZqWW1NNU5EZzRZVGtpTENKaGFXUWlPaUl3SWl3aWMyTjVJam9pWVhWMGJ5SXNJbTVsZENJNkluUmpjQ0lzSW5SNWNHVWlPaUp1YjI1bElpd2lhRzl6ZENJNklpSXNJbkJoZEdnaU9pSWlMQ0owYkhNaU9pSWlMQ0ptY0NJNkltTm9jbTl0WlNKOQ0Kdm1lc3M6Ly9leUoySWpvaU1pSXNJbkJ6SWpvaVhIVTVOMlU1WEhVMU5tWmtYSFUxTXpsbVhIVTNOVEZtYVhBaUxDSmhaR1FpT2lKdmJHVnFMbVptZVcxaGJuVnpZM0pwY0hRdWRHOXdJaXdpY0c5eWRDSTZJalU1TlRFeElpd2lhV1FpT2lJeE9UUXdaVGcwWmkwM09XSmlMVFJtWVdJdFlqSTJPUzFqWW1GalltTTVORGc0WVRraUxDSmhhV1FpT2lJd0lpd2ljMk41SWpvaVlYVjBieUlzSW01bGRDSTZJblJqY0NJc0luUjVjR1VpT2lKdWIyNWxJaXdpYUc5emRDSTZJaUlzSW5CaGRHZ2lPaUlpTENKMGJITWlPaUlpTENKbWNDSTZJbU5vY205dFpTSjkNCnZtZXNzOi8vZXlKMklqb2lNaUlzSW5Ceklqb2lYSFU0TW1ZeFhIVTFObVprWEhVMU16bG1YSFUzTlRGbWFYQWlMQ0poWkdRaU9pSnZiR1ZxTG1abWVXMWhiblZ6WTNKcGNIUXVkRzl3SWl3aWNHOXlkQ0k2SWpVNU5UQTJJaXdpYVdRaU9pSXhPVFF3WlRnMFppMDNPV0ppTFRSbVlXSXRZakkyT1MxalltRmpZbU01TkRnNFlUa2lMQ0poYVdRaU9pSXdJaXdpYzJONUlqb2lZWFYwYnlJc0ltNWxkQ0k2SW5SamNDSXNJblI1Y0dVaU9pSnViMjVsSWl3aWFHOXpkQ0k2SWlJc0luQmhkR2dpT2lJaUxDSjBiSE1pT2lJaUxDSm1jQ0k2SW1Ob2NtOXRaU0o5DQp2bWVzczovL2V5SjJJam9pTWlJc0luQnpJam9pWEhVMlptSXpYSFUxT1RJM1hIVTFNakk1WEhVMFpUbGhYSFUxTXpsbVhIVTNOVEZtYVhBaUxDSmhaR1FpT2lKdmJHVnFMbVptZVcxaGJuVnpZM0pwY0hRdWRHOXdJaXdpY0c5eWRDSTZJalU1TlRFMElpd2lhV1FpT2lJeE9UUXdaVGcwWmkwM09XSmlMVFJtWVdJdFlqSTJPUzFqWW1GalltTTVORGc0WVRraUxDSmhhV1FpT2lJd0lpd2ljMk41SWpvaVlYVjBieUlzSW01bGRDSTZJblJqY0NJc0luUjVjR1VpT2lKdWIyNWxJaXdpYUc5emRDSTZJaUlzSW5CaGRHZ2lPaUlpTENKMGJITWlPaUlpTENKbWNDSTZJbU5vY205dFpTSjkNCnNzOi8vWTJoaFkyaGhNakF0YVdWMFppMXdiMng1TVRNd05Ub3hPVFF3WlRnMFppMDNPV0ppTFRSbVlXSXRZakkyT1MxalltRmpZbU01TkRnNFlUa0BvbGVqLmZmeW1hbnVzY3JpcHQudG9wOjU5NTI1IyVFNiVCMyU5NSVFNSU5QiVCRCVFNSU4RSU5RiVFNyU5NCU5RmlwDQpzczovL1kyaGhZMmhoTWpBdGFXVjBaaTF3YjJ4NU1UTXdOVG94T1RRd1pUZzBaaTAzT1dKaUxUUm1ZV0l0WWpJMk9TMWpZbUZqWW1NNU5EZzRZVGtAb2xlai5mZnltYW51c2NyaXB0LnRvcDo1OTUwNSMlRTUlQkUlQjclRTUlOUIlQkQlRTUlOEUlOUYlRTclOTQlOUZpcA0Kdm1lc3M6Ly9leUoySWpvaU1pSXNJbkJ6SWpvaVhIVTFNemN3WEhVMVpXRTJYSFUxTXpsbVhIVTNOVEZtYVhBaUxDSmhaR1FpT2lKdmJHVnFMbVptZVcxaGJuVnpZM0pwY0hRdWRHOXdJaXdpY0c5eWRDSTZJalU1TlRBNElpd2lhV1FpT2lJeE9UUXdaVGcwWmkwM09XSmlMVFJtWVdJdFlqSTJPUzFqWW1GalltTTVORGc0WVRraUxDSmhhV1FpT2lJd0lpd2ljMk41SWpvaVlYVjBieUlzSW01bGRDSTZJblJqY0NJc0luUjVjR1VpT2lKdWIyNWxJaXdpYUc5emRDSTZJaUlzSW5CaGRHZ2lPaUlpTENKMGJITWlPaUlpTENKbWNDSTZJbU5vY205dFpTSjkNCg==
+dns:
+  enable: true
+  nameserver:
+    - 119.29.29.29
+    - 223.5.5.5
+  nameserver-policy:
+    'ChinaClassical,Apple,SteamCN,geosite:cn':
+      - tls://1.12.12.12
+      - 223.5.5.5
+  fallback:
+    - 8.8.8.8
+    - 1.1.1.1
+    - tls://dns.google:853
+    - tls://1.0.0.1:853
+proxies:
+  - name: 🔥【交流群@pgkj0402】 01-香港 【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59501
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 📢【频道群@pgkj666】 02-香港 【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59501
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-香港 【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59501
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-香港 【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59501
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-香港 【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59501
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-香港 【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59501
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-香港 【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59501
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-香港 【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59501
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-香港 【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59501
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-香港 【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59501
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-香港丨快速
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59520
+    cipher: chacha20-ietf-poly1305
+    password: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-香港丨快速
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59520
+    cipher: chacha20-ietf-poly1305
+    password: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-香港丨快速
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59520
+    cipher: chacha20-ietf-poly1305
+    password: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-香港丨快速
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59520
+    cipher: chacha20-ietf-poly1305
+    password: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-香港丨快速
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59520
+    cipher: chacha20-ietf-poly1305
+    password: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-香港丨快速
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59520
+    cipher: chacha20-ietf-poly1305
+    password: d92e893b-8c66-4c00-8838-fa213639b878
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-香港丨快速
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59520
+    cipher: chacha20-ietf-poly1305
+    password: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-香港丨快速
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59520
+    cipher: chacha20-ietf-poly1305
+    password: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-香港丨快速
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59520
+    cipher: chacha20-ietf-poly1305
+    password: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-香港丨快速
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59520
+    cipher: chacha20-ietf-poly1305
+    password: 3819d409-5904-4947-9120-a74a14063361
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-新加坡丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59510
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-新加坡丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59510
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-新加坡丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59510
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-新加坡丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59510
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-新加坡丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59510
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-新加坡丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59510
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-新加坡丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59510
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-新加坡丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59510
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-新加坡丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59510
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-新加坡丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59510
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-日本丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59503
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-日本丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59503
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-日本丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59503
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-日本丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59503
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-日本丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59503
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-日本丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59503
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-日本丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59503
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-日本丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59503
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-日本丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59503
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-日本丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59503
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-日本原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59515
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-日本原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59515
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-日本原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59515
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-日本原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59515
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-日本原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59515
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-日本原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59515
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-日本原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59515
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-日本原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59515
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-日本原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59515
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-日本原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59515
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-台湾丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29502
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-台湾丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29502
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-台湾丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29502
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-台湾丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29502
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-台湾丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29502
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-台湾丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29502
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-台湾丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29502
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-台湾丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29502
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-台湾丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29502
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-台湾丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29502
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-韩国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59511
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-韩国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59511
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-韩国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59511
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-韩国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59511
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-韩国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59511
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-韩国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59511
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-韩国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59511
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-韩国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59511
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-韩国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59511
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-韩国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59511
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-Q群:755046873
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59509
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-Q群:755046873
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59509
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-Q群:755046873
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59509
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-Q群:755046873
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59509
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-Q群:755046873
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59509
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-复制下方网址联系客服
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59509
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-复制下方网址联系客服
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59509
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-复制下方网址联系客服
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59509
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-复制下方网址联系客服
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59509
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-复制下方网址联系客服
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59509
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-美国 01【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59504
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-美国 01【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59504
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-美国 01【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59504
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-美国 01【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59504
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-美国 01【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59504
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-美国 01【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59504
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-美国 01【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59504
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-美国 01【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59504
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-美国 01【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59504
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-美国 01【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59504
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-美国 02【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29512
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-美国 02【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29512
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-美国 02【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29512
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-美国 02【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29512
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-美国 02【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29512
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-美国 02【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29512
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-美国 02【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29512
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-美国 02【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29512
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-美国 02【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29512
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-美国 02【IEPL】
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 29512
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-泰国丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59519
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-泰国丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59519
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-泰国丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59519
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-泰国丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59519
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-泰国丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59519
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-泰国丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59519
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-泰国丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59519
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-泰国丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59519
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-泰国丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59519
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-泰国丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59519
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-加拿大丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59507
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-加拿大丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59507
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-加拿大丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59507
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-加拿大丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59507
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-加拿大丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59507
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-加拿大丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59507
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-加拿大丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59507
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-加拿大丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59507
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-加拿大丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59507
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-加拿大丨快速
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59507
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-越南丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59518
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-越南丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59518
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-越南丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59518
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-越南丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59518
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-越南丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59518
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-越南丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59518
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-越南丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59518
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-越南丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59518
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-越南丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59518
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-越南丨解GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59518
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-马来西亚丨GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59517
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-马来西亚丨GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59517
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-马来西亚丨GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59517
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-马来西亚丨GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59517
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-马来西亚丨GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59517
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-马来西亚丨GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59517
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-马来西亚丨GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59517
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-马来西亚丨GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59517
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-马来西亚丨GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59517
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-马来西亚丨GPT
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59517
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-英国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59506
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-英国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59506
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-英国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59506
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-英国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59506
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-英国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59506
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-英国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59506
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-英国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59506
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-英国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59506
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-英国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59506
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-英国原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59506
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-澳大利亚原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59514
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-澳大利亚原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59514
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-澳大利亚原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59514
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-澳大利亚原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59514
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-澳大利亚原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59514
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-澳大利亚原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59514
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-澳大利亚原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59514
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-澳大利亚原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59514
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-澳大利亚原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59514
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-澳大利亚原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59514
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 01-法国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59525
+    cipher: chacha20-ietf-poly1305
+    password: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-法国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59525
+    cipher: chacha20-ietf-poly1305
+    password: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-法国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59525
+    cipher: chacha20-ietf-poly1305
+    password: d92e893b-8c66-4c00-8838-fa213639b878
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-法国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59525
+    cipher: chacha20-ietf-poly1305
+    password: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-法国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59525
+    cipher: chacha20-ietf-poly1305
+    password: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-法国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59525
+    cipher: chacha20-ietf-poly1305
+    password: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-法国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59525
+    cipher: chacha20-ietf-poly1305
+    password: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-法国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59525
+    cipher: chacha20-ietf-poly1305
+    password: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-法国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59525
+    cipher: chacha20-ietf-poly1305
+    password: 3819d409-5904-4947-9120-a74a14063361
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-法国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59525
+    cipher: chacha20-ietf-poly1305
+    password: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-德国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59505
+    cipher: chacha20-ietf-poly1305
+    password: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    plugin: ''
+    plugin-opts: {}
+  - name: 02-德国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59505
+    cipher: chacha20-ietf-poly1305
+    password: d92e893b-8c66-4c00-8838-fa213639b878
+    plugin: ''
+    plugin-opts: {}
+  - name: 03-德国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59505
+    cipher: chacha20-ietf-poly1305
+    password: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    plugin: ''
+    plugin-opts: {}
+  - name: 04-德国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59505
+    cipher: chacha20-ietf-poly1305
+    password: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    plugin: ''
+    plugin-opts: {}
+  - name: 05-德国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59505
+    cipher: chacha20-ietf-poly1305
+    password: 3819d409-5904-4947-9120-a74a14063361
+    plugin: ''
+    plugin-opts: {}
+  - name: 06-德国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59505
+    cipher: chacha20-ietf-poly1305
+    password: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    plugin: ''
+    plugin-opts: {}
+  - name: 07-德国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59505
+    cipher: chacha20-ietf-poly1305
+    password: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    plugin: ''
+    plugin-opts: {}
+  - name: 08-德国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59505
+    cipher: chacha20-ietf-poly1305
+    password: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    plugin: ''
+    plugin-opts: {}
+  - name: 09-德国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59505
+    cipher: chacha20-ietf-poly1305
+    password: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    plugin: ''
+    plugin-opts: {}
+  - name: 10-德国原生ip
+    type: ss
+    server: olej.ffymanuscript.top
+    port: 59505
+    cipher: chacha20-ietf-poly1305
+    password: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    plugin: ''
+    plugin-opts: {}
+  - name: 01-印度原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59508
+    uuid: d92e893b-8c66-4c00-8838-fa213639b878
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 02-印度原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59508
+    uuid: 5deb7efe-8cf5-4fb8-b604-4c90690a3210
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 03-印度原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59508
+    uuid: 580c97c9-dc39-48f5-9fd1-dd3c59603c62
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 04-印度原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59508
+    uuid: 84ab3319-62f5-4ff1-9160-d27b8c320e10
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 05-印度原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59508
+    uuid: 5c06afd9-c6c9-45ff-a750-3d8a5daf263d
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 06-印度原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59508
+    uuid: 0e9e13f6-1851-4d02-8134-0b3985500f1b
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 07-印度原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59508
+    uuid: 48f06ad8-8f09-4e9a-b019-8804368163ff
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 08-印度原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59508
+    uuid: 4bd37cd3-df06-4a93-962e-bf5314d70f35
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 09-印度原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59508
+    uuid: 3819d409-5904-4947-9120-a74a14063361
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+  - name: 10-印度原生ip
+    type: vmess
+    server: olej.ffymanuscript.top
+    port: 59508
+    uuid: 5a795025-3134-46fc-a4f9-b2659faf1e15
+    alterId: 0
+    cipher: auto
+    udp: true
+    network: tcp
+    tls: false
+    sni: ''
+    alpn: []
+proxy-groups:
+  - name: '🚀 节点选择'
+    type: select
+    proxies:
+      - 🇭🇰 香港 【IEPL】
+      - 🇭🇰 香港丨快速
+      - 🇸🇬 新加坡丨解GPT
+      - 🇯🇵 日本丨解GPT
+      - 🇯🇵 日本原生ip
+      - 🇹🇼 台湾丨解GPT
+      - 🇰🇷 韩国原生ip
+      - 🇦🇺 澳大利亚原生ip
+      - 🇨🇦 加拿大丨快速
+      - 🇩🇪 德国原生ip
+      - 🇫🇷 法国原生ip
+      - 🇬🇧 英国原生ip
+      - 🇮🇳 印度原生ip
+      - 🇲🇾 马来西亚丨GPT
+      - 🇵🇱 美国 01【IEPL】
+      - 🇵🇱 美国 02【IEPL】
+      - 🇹🇭 泰国丨快速
+      - 🇻🇳 越南丨解GPT
+      - 🏴‍☠️ Q群:755046873
+      - 🏴‍☠️ 复制下方网址联系客服
+  - name: '🌍 国外媒体'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: 'Ⓜ️ 微软服务'
+    type: select
+    proxies: ['🎯 全球直连', '🚀 节点选择']
+  - name: '🍎 苹果服务'
+    type: select
+    proxies: ['🎯 全球直连', '🚀 节点选择']
+  - name: '📦 PikPak'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🤖 OpenAI'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🐟 漏网之鱼'
+    type: select
+    proxies: ['🚀 节点选择', '🎯 全球直连']
+  - name: '🎯 全球直连'
+    type: select
+    proxies: [DIRECT]
+  - name: 🇭🇰 香港 【IEPL】
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 🔥【交流群@pgkj0402】 01-香港 【IEPL】
+      - 📢【频道群@pgkj666】 02-香港 【IEPL】
+      - 03-香港 【IEPL】
+      - 04-香港 【IEPL】
+      - 05-香港 【IEPL】
+      - 06-香港 【IEPL】
+      - 07-香港 【IEPL】
+      - 08-香港 【IEPL】
+      - 09-香港 【IEPL】
+      - 10-香港 【IEPL】
+  - name: 🇭🇰 香港丨快速
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-香港丨快速
+      - 02-香港丨快速
+      - 03-香港丨快速
+      - 04-香港丨快速
+      - 05-香港丨快速
+      - 06-香港丨快速
+      - 07-香港丨快速
+      - 08-香港丨快速
+      - 09-香港丨快速
+      - 10-香港丨快速
+  - name: 🇸🇬 新加坡丨解GPT
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-新加坡丨解GPT
+      - 02-新加坡丨解GPT
+      - 03-新加坡丨解GPT
+      - 04-新加坡丨解GPT
+      - 05-新加坡丨解GPT
+      - 06-新加坡丨解GPT
+      - 07-新加坡丨解GPT
+      - 08-新加坡丨解GPT
+      - 09-新加坡丨解GPT
+      - 10-新加坡丨解GPT
+  - name: 🇯🇵 日本丨解GPT
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-日本丨解GPT
+      - 02-日本丨解GPT
+      - 03-日本丨解GPT
+      - 04-日本丨解GPT
+      - 05-日本丨解GPT
+      - 06-日本丨解GPT
+      - 07-日本丨解GPT
+      - 08-日本丨解GPT
+      - 09-日本丨解GPT
+      - 10-日本丨解GPT
+  - name: 🇯🇵 日本原生ip
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-日本原生ip
+      - 02-日本原生ip
+      - 03-日本原生ip
+      - 04-日本原生ip
+      - 05-日本原生ip
+      - 06-日本原生ip
+      - 07-日本原生ip
+      - 08-日本原生ip
+      - 09-日本原生ip
+      - 10-日本原生ip
+  - name: 🇹🇼 台湾丨解GPT
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-台湾丨解GPT
+      - 02-台湾丨解GPT
+      - 03-台湾丨解GPT
+      - 04-台湾丨解GPT
+      - 05-台湾丨解GPT
+      - 06-台湾丨解GPT
+      - 07-台湾丨解GPT
+      - 08-台湾丨解GPT
+      - 09-台湾丨解GPT
+      - 10-台湾丨解GPT
+  - name: 🇰🇷 韩国原生ip
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-韩国原生ip
+      - 02-韩国原生ip
+      - 03-韩国原生ip
+      - 04-韩国原生ip
+      - 05-韩国原生ip
+      - 06-韩国原生ip
+      - 07-韩国原生ip
+      - 08-韩国原生ip
+      - 09-韩国原生ip
+      - 10-韩国原生ip
+  - name: 🏴‍☠️ Q群:755046873
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-Q群:755046873
+      - 02-Q群:755046873
+      - 03-Q群:755046873
+      - 04-Q群:755046873
+      - 05-Q群:755046873
+  - name: 🏴‍☠️ 复制下方网址联系客服
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-复制下方网址联系客服
+      - 02-复制下方网址联系客服
+      - 03-复制下方网址联系客服
+      - 04-复制下方网址联系客服
+      - 05-复制下方网址联系客服
+  - name: 🇵🇱 美国 01【IEPL】
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-美国 01【IEPL】
+      - 02-美国 01【IEPL】
+      - 03-美国 01【IEPL】
+      - 04-美国 01【IEPL】
+      - 05-美国 01【IEPL】
+      - 06-美国 01【IEPL】
+      - 07-美国 01【IEPL】
+      - 08-美国 01【IEPL】
+      - 09-美国 01【IEPL】
+      - 10-美国 01【IEPL】
+  - name: 🇵🇱 美国 02【IEPL】
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-美国 02【IEPL】
+      - 02-美国 02【IEPL】
+      - 03-美国 02【IEPL】
+      - 04-美国 02【IEPL】
+      - 05-美国 02【IEPL】
+      - 06-美国 02【IEPL】
+      - 07-美国 02【IEPL】
+      - 08-美国 02【IEPL】
+      - 09-美国 02【IEPL】
+      - 10-美国 02【IEPL】
+  - name: 🇹🇭 泰国丨快速
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-泰国丨快速
+      - 02-泰国丨快速
+      - 03-泰国丨快速
+      - 04-泰国丨快速
+      - 05-泰国丨快速
+      - 06-泰国丨快速
+      - 07-泰国丨快速
+      - 08-泰国丨快速
+      - 09-泰国丨快速
+      - 10-泰国丨快速
+  - name: 🇨🇦 加拿大丨快速
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-加拿大丨快速
+      - 02-加拿大丨快速
+      - 03-加拿大丨快速
+      - 04-加拿大丨快速
+      - 05-加拿大丨快速
+      - 06-加拿大丨快速
+      - 07-加拿大丨快速
+      - 08-加拿大丨快速
+      - 09-加拿大丨快速
+      - 10-加拿大丨快速
+  - name: 🇻🇳 越南丨解GPT
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-越南丨解GPT
+      - 02-越南丨解GPT
+      - 03-越南丨解GPT
+      - 04-越南丨解GPT
+      - 05-越南丨解GPT
+      - 06-越南丨解GPT
+      - 07-越南丨解GPT
+      - 08-越南丨解GPT
+      - 09-越南丨解GPT
+      - 10-越南丨解GPT
+  - name: 🇲🇾 马来西亚丨GPT
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-马来西亚丨GPT
+      - 02-马来西亚丨GPT
+      - 03-马来西亚丨GPT
+      - 04-马来西亚丨GPT
+      - 05-马来西亚丨GPT
+      - 06-马来西亚丨GPT
+      - 07-马来西亚丨GPT
+      - 08-马来西亚丨GPT
+      - 09-马来西亚丨GPT
+      - 10-马来西亚丨GPT
+  - name: 🇬🇧 英国原生ip
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-英国原生ip
+      - 02-英国原生ip
+      - 03-英国原生ip
+      - 04-英国原生ip
+      - 05-英国原生ip
+      - 06-英国原生ip
+      - 07-英国原生ip
+      - 08-英国原生ip
+      - 09-英国原生ip
+      - 10-英国原生ip
+  - name: 🇦🇺 澳大利亚原生ip
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-澳大利亚原生ip
+      - 02-澳大利亚原生ip
+      - 03-澳大利亚原生ip
+      - 04-澳大利亚原生ip
+      - 05-澳大利亚原生ip
+      - 06-澳大利亚原生ip
+      - 07-澳大利亚原生ip
+      - 08-澳大利亚原生ip
+      - 09-澳大利亚原生ip
+      - 10-澳大利亚原生ip
+  - name: 🇫🇷 法国原生ip
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-法国原生ip
+      - 02-法国原生ip
+      - 03-法国原生ip
+      - 04-法国原生ip
+      - 05-法国原生ip
+      - 06-法国原生ip
+      - 07-法国原生ip
+      - 08-法国原生ip
+      - 09-法国原生ip
+      - 10-法国原生ip
+  - name: 🇩🇪 德国原生ip
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-德国原生ip
+      - 02-德国原生ip
+      - 03-德国原生ip
+      - 04-德国原生ip
+      - 05-德国原生ip
+      - 06-德国原生ip
+      - 07-德国原生ip
+      - 08-德国原生ip
+      - 09-德国原生ip
+      - 10-德国原生ip
+  - name: 🇮🇳 印度原生ip
+    type: url-test
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    lazy: true
+    proxies:
+      - 01-印度原生ip
+      - 02-印度原生ip
+      - 03-印度原生ip
+      - 04-印度原生ip
+      - 05-印度原生ip
+      - 06-印度原生ip
+      - 07-印度原生ip
+      - 08-印度原生ip
+      - 09-印度原生ip
+      - 10-印度原生ip
+rules:
+  - 'IP-CIDR,129.146.160.80/32,DIRECT,no-resolve'
+  - 'IP-CIDR,148.135.52.61/32,DIRECT,no-resolve'
+  - 'IP-CIDR,148.135.56.101/32,DIRECT,no-resolve'
+  - 'IP-CIDR,37.123.193.133/32,DIRECT,no-resolve'
+  - 'IP-CIDR,111.119.203.69/32,DIRECT,no-resolve'
+  - 'IP-CIDR,110.238.105.126/32,DIRECT,no-resolve'
+  - 'IP-CIDR,166.108.206.148/32,DIRECT,no-resolve'
+  - 'IP-CIDR,155.248.181.42/32,DIRECT,no-resolve'
+  - 'IP-CIDR,176.126.114.184/32,DIRECT,no-resolve'
+  - 'IP-CIDR,103.238.129.152/32,DIRECT,no-resolve'
+  - 'IP-CIDR,45.66.217.124/32,DIRECT,no-resolve'
+  - 'IP-CIDR,183.2.133.144/32,DIRECT,no-resolve'
+  - 'IP-CIDR,103.103.245.13/32,DIRECT,no-resolve'
+  - 'DOMAIN,github.moeyy.xyz,DIRECT'
+  - 'DOMAIN,hk.xybhdy.top,DIRECT'
+  - 'DOMAIN,hd1dc.com,DIRECT'
+  - 'RULE-SET,LocalAreaNetwork,DIRECT'
+  - 'RULE-SET,BanAD,REJECT'
+  - 'RULE-SET,BanAdobe,REJECT'
+  - 'RULE-SET,GoogleFCM,🚀 节点选择'
+  - 'RULE-SET,SteamCN,DIRECT'
+  - 'RULE-SET,Microsoft,Ⓜ️ 微软服务'
+  - 'RULE-SET,Apple,🍎 苹果服务'
+  - 'RULE-SET,Telegram,🚀 节点选择'
+  - 'RULE-SET,PikPak,📦 PikPak'
+  - 'RULE-SET,OpenAI,🤖 OpenAI'
+  - 'RULE-SET,Claude,🤖 OpenAI'
+  - 'RULE-SET,Gemini,🤖 OpenAI'
+  - 'RULE-SET,ProxyMedia,🌍 国外媒体'
+  - 'RULE-SET,ProxyClassical,🚀 节点选择'
+  - 'RULE-SET,ChinaCIDR,DIRECT'
+  - 'RULE-SET,ChinaClassical,DIRECT'
+  - 'GEOIP,CN,DIRECT'
+  - 'MATCH,🐟 漏网之鱼'
+rule-providers:
+  Apple: {behavior: classical, interval: 604800, path: ./rules/Apple.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Apple/Apple.yaml'}
+  BanAD: {behavior: domain, interval: 604800, path: ./rules/BanAD.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt'}
+  BanAdobe: {behavior: classical, interval: 604800, path: ./rules/BanAdobe.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/clash.yaml'}
+  ChinaCIDR: {behavior: ipcidr, interval: 604800, path: ./rules/CNCIDR.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt'}
+  ChinaClassical: {behavior: domain, interval: 604800, path: ./rules/ChinaClassical.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/direct.txt'}
+  Claude: {behavior: classical, interval: 604800, path: ./rules/Claude.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Claude/Claude.yaml'}
+  Gemini: {behavior: classical, interval: 604800, path: ./rules/Gemini.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Gemini/Gemini.yaml'}
+  GoogleFCM: {behavior: classical, interval: 604800, path: ./rules/GoogleFCM.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/GoogleFCM/GoogleFCM.yaml'}
+  LocalAreaNetwork: {behavior: classical, interval: 604800, path: ./rules/LocalAreaNetwork.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/LocalAreaNetwork.yaml'}
+  Microsoft: {behavior: classical, interval: 604800, path: ./rules/Microsoft.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Microsoft/Microsoft.yaml'}
+  OpenAI: {behavior: classical, interval: 604800, path: ./rules/OpenAI.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/OpenAI/OpenAI.yaml'}
+  PikPak: {behavior: classical, interval: 604800, path: ./rules/PikPak.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PikPak/PikPak.yaml'}
+  ProxyClassical: {behavior: domain, interval: 604800, path: ./rules/ProxyClassical.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt'}
+  ProxyMedia: {behavior: classical, interval: 604800, path: ./rules/ProxyMedia.yaml,
+    type: http, url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/GlobalMedia/GlobalMedia_Classical.yaml'}
+  SteamCN: {behavior: classical, interval: 604800, path: ./rules/SteamCN.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/SteamCN/SteamCN.yaml'}
+  Telegram: {behavior: classical, interval: 604800, path: ./rules/Telegram.yaml, type: http,
+    url: 'https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Telegram.yaml'}
+  
