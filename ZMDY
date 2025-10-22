@@ -9,59 +9,39 @@ unified-delay: true
 global-client-fingerprint: chrome
 keep-alive-interval: 360
 proxies:
-  - {name: 🇲🇾 MY(007訂閱💯免費)𝕋𝔾mm8686_bot, server: cf.877774.xyz, port: 443, type: vmess, uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: my.6315687.xyz, network: ws, ws-opts: {path: /, headers: {Host: my.6315687.xyz}}, udp: true}
-  - {name: 🇲🇾 MY(失效聯繫機械人)𝕋𝔾mm8686_bot, server: ktff.tencentapp.cn, port: 443, type: vmess, uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: my.6315687.xyz, network: ws, ws-opts: {path: /, headers: {Host: my.6315687.xyz}}, udp: true}
-  - {name: 🇲🇾 马来①𝕋𝔾@mm8686_bot, server: cf.877774.xyz, port: 443, type: vmess, uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: my.6315687.xyz, network: ws, ws-opts: {path: /, headers: {Host: my.6315687.xyz}}, udp: true}
-  - {name: 🇲🇾 马来②𝕋𝔾@mm8686_bot, server: ktff.tencentapp.cn, port: 443, type: vmess, uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: my.6315687.xyz, network: ws, ws-opts: {path: /, headers: {Host: my.6315687.xyz}}, udp: true}
-  - {name: 🇸🇬 新加坡①𝕋𝔾@mm8686_bot, server: cf.877774.xyz, port: 443, type: vmess, uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg13.6315687.xyz, network: ws, ws-opts: {path: /, headers: {Host: sg13.6315687.xyz}}, udp: true}
-  - {name: 🇸🇬 新加坡②𝕋𝔾@mm8686_bot, server: ktff.tencentapp.cn, port: 443, type: vmess, uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: sg13.6315687.xyz, network: ws, ws-opts: {path: /, headers: {Host: sg13.6315687.xyz}}, udp: true}
-  - {name: 🇺🇸 美国①𝕋𝔾@mm8686_bot, server: ktff.tencentapp.cn, port: 443, type: vmess, uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us7.6315687.xyz, network: ws, ws-opts: {path: /, headers: {Host: us7.6315687.xyz}}, udp: true}
-  - {name: 🇺🇸 美国②𝕋𝔾@mm8686_bot, server: ktff.tencentapp.cn, port: 443, type: vmess, uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us10.6315687.xyz, network: ws, ws-opts: {path: /, headers: {Host: us10.6315687.xyz}}, udp: true}
-  - {name: 🇺🇸 美国③𝕋𝔾@mm8686_bot, server: ktff.tencentapp.cn, port: 443, type: vmess, uuid: 8dad7cb2-714a-4d0e-af08-d2b1dba90219, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: us13.6315687.xyz, network: ws, ws-opts: {path: /, headers: {Host: us13.6315687.xyz}}, udp: true}
+  - {name: 中转节点-12.65MB/s, server: 36.150.215.138, port: 4451, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true}
+  - {name: 中转节点-6.34MB/s, server: 36.156.102.115, port: 2088, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true}
+  - {name: 中转节点-1.02MB/s, server: 36.156.102.115, port: 26876, type: trojan, password: BxceQaOe, skip-cert-verify: true, udp: true}
+  - {name: 中转节点-952.3KB/s, server: 124.236.46.114, port: 47084, type: vmess, uuid: fd49381f-9fd8-4403-8698-48331a4d775d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 proxy-groups:
   - name: 🔰 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇲🇾 MY(007訂閱💯免費)𝕋𝔾mm8686_bot
-      - 🇲🇾 MY(失效聯繫機械人)𝕋𝔾mm8686_bot
-      - 🇲🇾 马来①𝕋𝔾@mm8686_bot
-      - 🇲🇾 马来②𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡①𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国①𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国③𝕋𝔾@mm8686_bot
+      - 中转节点-12.65MB/s
+      - 中转节点-6.34MB/s
+      - 中转节点-1.02MB/s
+      - 中转节点-952.3KB/s
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🇲🇾 MY(007訂閱💯免費)𝕋𝔾mm8686_bot
-      - 🇲🇾 MY(失效聯繫機械人)𝕋𝔾mm8686_bot
-      - 🇲🇾 马来①𝕋𝔾@mm8686_bot
-      - 🇲🇾 马来②𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡①𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国①𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国③𝕋𝔾@mm8686_bot
+      - 中转节点-12.65MB/s
+      - 中转节点-6.34MB/s
+      - 中转节点-1.02MB/s
+      - 中转节点-952.3KB/s
   - name: 🎥 NETFLIX
     type: select
     proxies:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇲🇾 MY(007訂閱💯免費)𝕋𝔾mm8686_bot
-      - 🇲🇾 MY(失效聯繫機械人)𝕋𝔾mm8686_bot
-      - 🇲🇾 马来①𝕋𝔾@mm8686_bot
-      - 🇲🇾 马来②𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡①𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国①𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国③𝕋𝔾@mm8686_bot
+      - 中转节点-12.65MB/s
+      - 中转节点-6.34MB/s
+      - 中转节点-1.02MB/s
+      - 中转节点-952.3KB/s
   - name: ⛔️ 广告拦截
     type: select
     proxies:
@@ -80,15 +60,10 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇲🇾 MY(007訂閱💯免費)𝕋𝔾mm8686_bot
-      - 🇲🇾 MY(失效聯繫機械人)𝕋𝔾mm8686_bot
-      - 🇲🇾 马来①𝕋𝔾@mm8686_bot
-      - 🇲🇾 马来②𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡①𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国①𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国③𝕋𝔾@mm8686_bot
+      - 中转节点-12.65MB/s
+      - 中转节点-6.34MB/s
+      - 中转节点-1.02MB/s
+      - 中转节点-952.3KB/s
   - name: 🌏 国内媒体
     type: select
     proxies:
@@ -99,44 +74,29 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
-      - 🇲🇾 MY(007訂閱💯免費)𝕋𝔾mm8686_bot
-      - 🇲🇾 MY(失效聯繫機械人)𝕋𝔾mm8686_bot
-      - 🇲🇾 马来①𝕋𝔾@mm8686_bot
-      - 🇲🇾 马来②𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡①𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国①𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国③𝕋𝔾@mm8686_bot
+      - 中转节点-12.65MB/s
+      - 中转节点-6.34MB/s
+      - 中转节点-1.02MB/s
+      - 中转节点-952.3KB/s
   - name: 📲 电报信息
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
-      - 🇲🇾 MY(007訂閱💯免費)𝕋𝔾mm8686_bot
-      - 🇲🇾 MY(失效聯繫機械人)𝕋𝔾mm8686_bot
-      - 🇲🇾 马来①𝕋𝔾@mm8686_bot
-      - 🇲🇾 马来②𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡①𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国①𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国③𝕋𝔾@mm8686_bot
+      - 中转节点-12.65MB/s
+      - 中转节点-6.34MB/s
+      - 中转节点-1.02MB/s
+      - 中转节点-952.3KB/s
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇲🇾 MY(007訂閱💯免費)𝕋𝔾mm8686_bot
-      - 🇲🇾 MY(失效聯繫機械人)𝕋𝔾mm8686_bot
-      - 🇲🇾 马来①𝕋𝔾@mm8686_bot
-      - 🇲🇾 马来②𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡①𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国①𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国③𝕋𝔾@mm8686_bot
+      - 中转节点-12.65MB/s
+      - 中转节点-6.34MB/s
+      - 中转节点-1.02MB/s
+      - 中转节点-952.3KB/s
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -152,15 +112,10 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇲🇾 MY(007訂閱💯免費)𝕋𝔾mm8686_bot
-      - 🇲🇾 MY(失效聯繫機械人)𝕋𝔾mm8686_bot
-      - 🇲🇾 马来①𝕋𝔾@mm8686_bot
-      - 🇲🇾 马来②𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡①𝕋𝔾@mm8686_bot
-      - 🇸🇬 新加坡②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国①𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国②𝕋𝔾@mm8686_bot
-      - 🇺🇸 美国③𝕋𝔾@mm8686_bot
+      - 中转节点-12.65MB/s
+      - 中转节点-6.34MB/s
+      - 中转节点-1.02MB/s
+      - 中转节点-952.3KB/s
 rules:
   - DOMAIN-SUFFIX,local,🎯 全球直连
   - IP-CIDR,192.168.0.0/16,🎯 全球直连,no-resolve
