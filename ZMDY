@@ -1,1 +1,1596 @@
-aHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QGh5Mi5hYnlzc3Zwbi5jb206ODQ0Mz9pbnNlY3VyZT0xIyVFNSU4OSVBOSVFNCVCRCU5OSVFNiVCNSU4MSVFOSU4NyU4RiVFRiVCQyU5QTE5OC4xOSUyMEdCDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAaHkyLmFieXNzdnBuLmNvbTo4NDQzP2luc2VjdXJlPTEjJUU4JUI3JTlEJUU3JUE2JUJCJUU0JUI4JThCJUU2JUFDJUExJUU5JTg3JThEJUU3JUJEJUFFJUU1JTg5JUE5JUU0JUJEJTk5JUVGJUJDJTlBMzElMjAlRTUlQTQlQTkNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBoeTIuYWJ5c3N2cG4uY29tOjg0NDM/aW5zZWN1cmU9MSMlRTUlQTUlOTclRTklQTQlOTAlRTUlODglQjAlRTYlOUMlOUYlRUYlQkMlOUEyMDI1LTExLTI4DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAaHkyLmFieXNzdnBuLmNvbTo4NDQzP2luc2VjdXJlPTEjOTY3NDAyMS54eXoNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AxLmFieXNzdnBuLmNvbTozMTEwMj9pbnNlY3VyZT0xIyVFNiU5NiVCMCVFNSU4QSVBMCVFNSU5RCVBMSVGMCU5RiU5QSU4MCVFRiVCOCU4RjEwMg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDEuYWJ5c3N2cG4uY29tOjMxMTA0P2luc2VjdXJlPTEjJUU2JTk3JUE1JUU2JTlDJUFDJUYwJTlGJTlBJTgwJUVGJUI4JThGMTA0DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMS5hYnlzc3Zwbi5jb206MzExMTQ/aW5zZWN1cmU9MSMlRTklQTYlOTklRTYlQjglQUYlRjAlOUYlOUElODAlRUYlQjglOEYxMTQNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AxLmFieXNzdnBuLmNvbTozMTE1MT9pbnNlY3VyZT0xIyVFNSU4NyVBNCVFNSU4NyVCMCVFNSU5RiU4RSVGMCU5RiU5QSU4MCVFRiVCOCU4RjE1MQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDEuYWJ5c3N2cG4uY29tOjMxMTUyP2luc2VjdXJlPTEjJUU1JTg3JUE0JUU1JTg3JUIwJUU1JTlGJThFJUYwJTlGJTlBJTgwJUVGJUI4JThGMTUyDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMS5hYnlzc3Zwbi5jb206MzExNTM/aW5zZWN1cmU9MSMlRTUlODclQTQlRTUlODclQjAlRTUlOUYlOEUlRjAlOUYlOUElODAlRUYlQjglOEYxNTMNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AxLmFieXNzdnBuLmNvbTozMTE1NT9pbnNlY3VyZT0xIyVFOSU5RiVBOSVFNSU5QiVCRCVGMCU5RiU5QSU4MCVFRiVCOCU4RjE1NQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDEuYWJ5c3N2cG4uY29tOjMxMTU2P2luc2VjdXJlPTEjJUU5JTlGJUE5JUU1JTlCJUJEJUYwJTlGJTlBJTgwJUVGJUI4JThGMTU2DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMS5hYnlzc3Zwbi5jb206MzExNTc/aW5zZWN1cmU9MSMlRTYlOTclQTUlRTYlOUMlQUMlRjAlOUYlOUElODAlRUYlQjglOEYxNTcNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AxLmFieXNzdnBuLmNvbTozMTE1OD9pbnNlY3VyZT0xIyVFNiU5NyVBNSVFNiU5QyVBQyVGMCU5RiU5QSU4MCVFRiVCOCU4RjE1OA0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDEuYWJ5c3N2cG4uY29tOjMxMTU5P2luc2VjdXJlPTEjJUU2JTk3JUE1JUU2JTlDJUFDJUYwJTlGJTlBJTgwJUVGJUI4JThGMTU5DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMS5hYnlzc3Zwbi5jb206MzExNjE/aW5zZWN1cmU9MSMlRTUlOEElQTAlRTYlOEIlQkYlRTUlQTQlQTclRjAlOUYlOUElODAlRUYlQjglOEYxNjENCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AxLmFieXNzdnBuLmNvbTozMTE2Mj9pbnNlY3VyZT0xIyVFNSU4QSVBMCVFNiU4QiVCRiVFNSVBNCVBNyVGMCU5RiU5QSU4MCVFRiVCOCU4RjE2Mg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDEuYWJ5c3N2cG4uY29tOjMxMTcxP2luc2VjdXJlPTEjJUU1JThEJUIwJUU1JUJBJUE2JUYwJTlGJTlBJTgwJUVGJUI4JThGMTcxDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMS5hYnlzc3Zwbi5jb206MzExNzI/aW5zZWN1cmU9MSMlRTUlOEQlQjAlRTUlQkElQTYlRjAlOUYlOUElODAlRUYlQjglOEYxNzINCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AyLmFieXNzdnBuLmNvbTozMTEwMj9pbnNlY3VyZT0xIyVFNiU5NiVCMCVFNSU4QSVBMCVFNSU5RCVBMSVGMCU5RiU5QSU4MCVFRiVCOCU4RjIwMg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDIuYWJ5c3N2cG4uY29tOjMxMTA0P2luc2VjdXJlPTEjJUU2JTk3JUE1JUU2JTlDJUFDJUYwJTlGJTlBJTgwJUVGJUI4JThGMjA0DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMi5hYnlzc3Zwbi5jb206MzExMTQ/aW5zZWN1cmU9MSMlRTklQTYlOTklRTYlQjglQUYlRjAlOUYlOUElODAlRUYlQjglOEYyMTQNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AyLmFieXNzdnBuLmNvbTozMTE1MT9pbnNlY3VyZT0xIyVFNSU4NyVBNCVFNSU4NyVCMCVFNSU5RiU4RSVGMCU5RiU5QSU4MCVFRiVCOCU4RjI1MQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDIuYWJ5c3N2cG4uY29tOjMxMTUyP2luc2VjdXJlPTEjJUU1JTg3JUE0JUU1JTg3JUIwJUU1JTlGJThFJUYwJTlGJTlBJTgwJUVGJUI4JThGMjUyDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMi5hYnlzc3Zwbi5jb206MzExNTM/aW5zZWN1cmU9MSMlRTUlODclQTQlRTUlODclQjAlRTUlOUYlOEUlRjAlOUYlOUElODAlRUYlQjglOEYyNTMNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AyLmFieXNzdnBuLmNvbTozMTE1NT9pbnNlY3VyZT0xIyVFOSU5RiVBOSVFNSU5QiVCRCVGMCU5RiU5QSU4MCVFRiVCOCU4RjI1NQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDIuYWJ5c3N2cG4uY29tOjMxMTU2P2luc2VjdXJlPTEjJUU5JTlGJUE5JUU1JTlCJUJEJUYwJTlGJTlBJTgwJUVGJUI4JThGMjU2DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMi5hYnlzc3Zwbi5jb206MzExNTc/aW5zZWN1cmU9MSMlRTYlOTclQTUlRTYlOUMlQUMlRjAlOUYlOUElODAlRUYlQjglOEYyNTcNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AyLmFieXNzdnBuLmNvbTozMTE1OD9pbnNlY3VyZT0xIyVFNiU5NyVBNSVFNiU5QyVBQyVGMCU5RiU5QSU4MCVFRiVCOCU4RjI1OA0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDIuYWJ5c3N2cG4uY29tOjMxMTU5P2luc2VjdXJlPTEjJUU2JTk3JUE1JUU2JTlDJUFDJUYwJTlGJTlBJTgwJUVGJUI4JThGMjU5DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMi5hYnlzc3Zwbi5jb206MzExNjE/aW5zZWN1cmU9MSMlRTUlOEElQTAlRTYlOEIlQkYlRTUlQTQlQTclRjAlOUYlOUElODAlRUYlQjglOEYyNjENCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AyLmFieXNzdnBuLmNvbTozMTE2Mj9pbnNlY3VyZT0xIyVFNSU4QSVBMCVFNiU4QiVCRiVFNSVBNCVBNyVGMCU5RiU5QSU4MCVFRiVCOCU4RjI2Mg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDIuYWJ5c3N2cG4uY29tOjMxMTcxP2luc2VjdXJlPTEjJUU1JThEJUIwJUU1JUJBJUE2JUYwJTlGJTlBJTgwJUVGJUI4JThGMjcxDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMi5hYnlzc3Zwbi5jb206MzExNzI/aW5zZWN1cmU9MSMlRTUlOEQlQjAlRTUlQkElQTYlRjAlOUYlOUElODAlRUYlQjglOEYyNzINCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AzLmFieXNzdnBuLmNvbTozMTEwMj9pbnNlY3VyZT0xIyVFNiU5NiVCMCVFNSU4QSVBMCVFNSU5RCVBMSVGMCU5RiU5QSU4MCVFRiVCOCU4RjMwMg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDMuYWJ5c3N2cG4uY29tOjMxMTA0P2luc2VjdXJlPTEjJUU2JTk3JUE1JUU2JTlDJUFDJUYwJTlGJTlBJTgwJUVGJUI4JThGMzA0DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMy5hYnlzc3Zwbi5jb206MzExMTQ/aW5zZWN1cmU9MSMlRTklQTYlOTklRTYlQjglQUYlRjAlOUYlOUElODAlRUYlQjglOEYzMTQNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AzLmFieXNzdnBuLmNvbTozMTE1MT9pbnNlY3VyZT0xIyVFNSU4NyVBNCVFNSU4NyVCMCVFNSU5RiU4RSVGMCU5RiU5QSU4MCVFRiVCOCU4RjM1MQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDMuYWJ5c3N2cG4uY29tOjMxMTUyP2luc2VjdXJlPTEjJUU1JTg3JUE0JUU1JTg3JUIwJUU1JTlGJThFJUYwJTlGJTlBJTgwJUVGJUI4JThGMzUyDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMy5hYnlzc3Zwbi5jb206MzExNTM/aW5zZWN1cmU9MSMlRTUlODclQTQlRTUlODclQjAlRTUlOUYlOEUlRjAlOUYlOUElODAlRUYlQjglOEYzNTMNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AzLmFieXNzdnBuLmNvbTozMTE1NT9pbnNlY3VyZT0xIyVFOSU5RiVBOSVFNSU5QiVCRCVGMCU5RiU5QSU4MCVFRiVCOCU4RjM1NQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDMuYWJ5c3N2cG4uY29tOjMxMTU2P2luc2VjdXJlPTEjJUU5JTlGJUE5JUU1JTlCJUJEJUYwJTlGJTlBJTgwJUVGJUI4JThGMzU2DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMy5hYnlzc3Zwbi5jb206MzExNTc/aW5zZWN1cmU9MSMlRTYlOTclQTUlRTYlOUMlQUMlRjAlOUYlOUElODAlRUYlQjglOEYzNTcNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AzLmFieXNzdnBuLmNvbTozMTE1OD9pbnNlY3VyZT0xIyVFNiU5NyVBNSVFNiU5QyVBQyVGMCU5RiU5QSU4MCVFRiVCOCU4RjM1OA0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDMuYWJ5c3N2cG4uY29tOjMxMTU5P2luc2VjdXJlPTEjJUU2JTk3JUE1JUU2JTlDJUFDJUYwJTlGJTlBJTgwJUVGJUI4JThGMzU5DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMy5hYnlzc3Zwbi5jb206MzExNjE/aW5zZWN1cmU9MSMlRTUlOEElQTAlRTYlOEIlQkYlRTUlQTQlQTclRjAlOUYlOUElODAlRUYlQjglOEYzNjENCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1AzLmFieXNzdnBuLmNvbTozMTE2Mj9pbnNlY3VyZT0xIyVFNSU4QSVBMCVFNiU4QiVCRiVFNSVBNCVBNyVGMCU5RiU5QSU4MCVFRiVCOCU4RjM2Mg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDMuYWJ5c3N2cG4uY29tOjMxMTcxP2luc2VjdXJlPTEjJUU1JThEJUIwJUU1JUJBJUE2JUYwJTlGJTlBJTgwJUVGJUI4JThGMzcxDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQMy5hYnlzc3Zwbi5jb206MzExNzI/aW5zZWN1cmU9MSMlRTUlOEQlQjAlRTUlQkElQTYlRjAlOUYlOUElODAlRUYlQjglOEYzNzINCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A0LmFieXNzdnBuLmNvbTozMTEwMj9pbnNlY3VyZT0xIyVFNiU5NiVCMCVFNSU4QSVBMCVFNSU5RCVBMSVGMCU5RiU5QSU4MCVFRiVCOCU4RjQwMg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDQuYWJ5c3N2cG4uY29tOjMxMTA0P2luc2VjdXJlPTEjJUU2JTk3JUE1JUU2JTlDJUFDJUYwJTlGJTlBJTgwJUVGJUI4JThGNDA0DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNC5hYnlzc3Zwbi5jb206MzExMTQ/aW5zZWN1cmU9MSMlRTklQTYlOTklRTYlQjglQUYlRjAlOUYlOUElODAlRUYlQjglOEY0MTQNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A0LmFieXNzdnBuLmNvbTozMTE1MT9pbnNlY3VyZT0xIyVFNSU4NyVBNCVFNSU4NyVCMCVFNSU5RiU4RSVGMCU5RiU5QSU4MCVFRiVCOCU4RjQ1MQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDQuYWJ5c3N2cG4uY29tOjMxMTUyP2luc2VjdXJlPTEjJUU1JTg3JUE0JUU1JTg3JUIwJUU1JTlGJThFJUYwJTlGJTlBJTgwJUVGJUI4JThGNDUyDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNC5hYnlzc3Zwbi5jb206MzExNTM/aW5zZWN1cmU9MSMlRTUlODclQTQlRTUlODclQjAlRTUlOUYlOEUlRjAlOUYlOUElODAlRUYlQjglOEY0NTMNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A0LmFieXNzdnBuLmNvbTozMTE1NT9pbnNlY3VyZT0xIyVFOSU5RiVBOSVFNSU5QiVCRCVGMCU5RiU5QSU4MCVFRiVCOCU4RjQ1NQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDQuYWJ5c3N2cG4uY29tOjMxMTU2P2luc2VjdXJlPTEjJUU5JTlGJUE5JUU1JTlCJUJEJUYwJTlGJTlBJTgwJUVGJUI4JThGNDU2DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNC5hYnlzc3Zwbi5jb206MzExNTc/aW5zZWN1cmU9MSMlRTYlOTclQTUlRTYlOUMlQUMlRjAlOUYlOUElODAlRUYlQjglOEY0NTcNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A0LmFieXNzdnBuLmNvbTozMTE1OD9pbnNlY3VyZT0xIyVFNiU5NyVBNSVFNiU5QyVBQyVGMCU5RiU5QSU4MCVFRiVCOCU4RjQ1OA0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDQuYWJ5c3N2cG4uY29tOjMxMTU5P2luc2VjdXJlPTEjJUU2JTk3JUE1JUU2JTlDJUFDJUYwJTlGJTlBJTgwJUVGJUI4JThGNDU5DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNC5hYnlzc3Zwbi5jb206MzExNjE/aW5zZWN1cmU9MSMlRTUlOEElQTAlRTYlOEIlQkYlRTUlQTQlQTclRjAlOUYlOUElODAlRUYlQjglOEY0NjENCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A0LmFieXNzdnBuLmNvbTozMTE2Mj9pbnNlY3VyZT0xIyVFNSU4QSVBMCVFNiU4QiVCRiVFNSVBNCVBNyVGMCU5RiU5QSU4MCVFRiVCOCU4RjQ2Mg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDQuYWJ5c3N2cG4uY29tOjMxMTcxP2luc2VjdXJlPTEjJUU1JThEJUIwJUU1JUJBJUE2JUYwJTlGJTlBJTgwJUVGJUI4JThGNDcxDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNC5hYnlzc3Zwbi5jb206MzExNzI/aW5zZWN1cmU9MSMlRTUlOEQlQjAlRTUlQkElQTYlRjAlOUYlOUElODAlRUYlQjglOEY0NzINCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A1LmFieXNzdnBuLmNvbTozMTEwMj9pbnNlY3VyZT0xIyVFNiU5NiVCMCVFNSU4QSVBMCVFNSU5RCVBMSVGMCU5RiU5QSU4MCVFRiVCOCU4RjUwMg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDUuYWJ5c3N2cG4uY29tOjMxMTA0P2luc2VjdXJlPTEjJUU2JTk3JUE1JUU2JTlDJUFDJUYwJTlGJTlBJTgwJUVGJUI4JThGNTA0DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNS5hYnlzc3Zwbi5jb206MzExMTQ/aW5zZWN1cmU9MSMlRTklQTYlOTklRTYlQjglQUYlRjAlOUYlOUElODAlRUYlQjglOEY1MTQNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A1LmFieXNzdnBuLmNvbTozMTE1MT9pbnNlY3VyZT0xIyVFNSU4NyVBNCVFNSU4NyVCMCVFNSU5RiU4RSVGMCU5RiU5QSU4MCVFRiVCOCU4RjU1MQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDUuYWJ5c3N2cG4uY29tOjMxMTUyP2luc2VjdXJlPTEjJUU1JTg3JUE0JUU1JTg3JUIwJUU1JTlGJThFJUYwJTlGJTlBJTgwJUVGJUI4JThGNTUyDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNS5hYnlzc3Zwbi5jb206MzExNTM/aW5zZWN1cmU9MSMlRTUlODclQTQlRTUlODclQjAlRTUlOUYlOEUlRjAlOUYlOUElODAlRUYlQjglOEY1NTMNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A1LmFieXNzdnBuLmNvbTozMTE1NT9pbnNlY3VyZT0xIyVFOSU5RiVBOSVFNSU5QiVCRCVGMCU5RiU5QSU4MCVFRiVCOCU4RjU1NQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDUuYWJ5c3N2cG4uY29tOjMxMTU2P2luc2VjdXJlPTEjJUU5JTlGJUE5JUU1JTlCJUJEJUYwJTlGJTlBJTgwJUVGJUI4JThGNTU2DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNS5hYnlzc3Zwbi5jb206MzExNTc/aW5zZWN1cmU9MSMlRTYlOTclQTUlRTYlOUMlQUMlRjAlOUYlOUElODAlRUYlQjglOEY1NTcNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A1LmFieXNzdnBuLmNvbTozMTE1OD9pbnNlY3VyZT0xIyVFNiU5NyVBNSVFNiU5QyVBQyVGMCU5RiU5QSU4MCVFRiVCOCU4RjU1OA0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDUuYWJ5c3N2cG4uY29tOjMxMTU5P2luc2VjdXJlPTEjJUU3JUJFJThFJUU1JTlCJUJEJUYwJTlGJTlBJTgwJUVGJUI4JThGNTU5DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNS5hYnlzc3Zwbi5jb206MzExNjE/aW5zZWN1cmU9MSMlRTUlOEElQTAlRTYlOEIlQkYlRTUlQTQlQTclRjAlOUYlOUElODAlRUYlQjglOEY1NjENCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A1LmFieXNzdnBuLmNvbTozMTE2Mj9pbnNlY3VyZT0xIyVFNSU4QSVBMCVFNiU4QiVCRiVFNSVBNCVBNyVGMCU5RiU5QSU4MCVFRiVCOCU4RjU2Mg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDUuYWJ5c3N2cG4uY29tOjMxMTcxP2luc2VjdXJlPTEjJUU1JThEJUIwJUU1JUJBJUE2JUYwJTlGJTlBJTgwJUVGJUI4JThGNTcxDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNS5hYnlzc3Zwbi5jb206MzExNzI/aW5zZWN1cmU9MSMlRTUlOEQlQjAlRTUlQkElQTYlRjAlOUYlOUElODAlRUYlQjglOEY1NzINCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A2LmFieXNzdnBuLmNvbTozMTEwMj9pbnNlY3VyZT0xIyVFNiU5NiVCMCVFNSU4QSVBMCVFNSU5RCVBMSVGMCU5RiU5QSU4MCVFRiVCOCU4RjYwMg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDYuYWJ5c3N2cG4uY29tOjMxMTA0P2luc2VjdXJlPTEjJUU2JTk3JUE1JUU2JTlDJUFDJUYwJTlGJTlBJTgwJUVGJUI4JThGNjA0DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNi5hYnlzc3Zwbi5jb206MzExMTQ/aW5zZWN1cmU9MSMlRTklQTYlOTklRTYlQjglQUYlRjAlOUYlOUElODAlRUYlQjglOEY2MTQNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A2LmFieXNzdnBuLmNvbTozMTE1MT9pbnNlY3VyZT0xIyVFNSU4NyVBNCVFNSU4NyVCMCVFNSU5RiU4RSVGMCU5RiU5QSU4MCVFRiVCOCU4RjY1MQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDYuYWJ5c3N2cG4uY29tOjMxMTUyP2luc2VjdXJlPTEjJUU1JTg3JUE0JUU1JTg3JUIwJUU1JTlGJThFJUYwJTlGJTlBJTgwJUVGJUI4JThGNjUyDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNi5hYnlzc3Zwbi5jb206MzExNTM/aW5zZWN1cmU9MSMlRTUlODclQTQlRTUlODclQjAlRTUlOUYlOEUlRjAlOUYlOUElODAlRUYlQjglOEY2NTMNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A2LmFieXNzdnBuLmNvbTozMTE1NT9pbnNlY3VyZT0xIyVFOSU5RiVBOSVFNSU5QiVCRCVGMCU5RiU5QSU4MCVFRiVCOCU4RjY1NQ0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDYuYWJ5c3N2cG4uY29tOjMxMTU2P2luc2VjdXJlPTEjJUU5JTlGJUE5JUU1JTlCJUJEJUYwJTlGJTlBJTgwJUVGJUI4JThGNjU2DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNi5hYnlzc3Zwbi5jb206MzExNTc/aW5zZWN1cmU9MSMlRTYlOTclQTUlRTYlOUMlQUMlRjAlOUYlOUElODAlRUYlQjglOEY2NTcNCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A2LmFieXNzdnBuLmNvbTozMTE1OD9pbnNlY3VyZT0xIyVFNiU5NyVBNSVFNiU5QyVBQyVGMCU5RiU5QSU4MCVFRiVCOCU4RjY1OA0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDYuYWJ5c3N2cG4uY29tOjMxMTU5P2luc2VjdXJlPTEjJUU3JUJFJThFJUU1JTlCJUJEJUYwJTlGJTlBJTgwJUVGJUI4JThGNjU5DQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNi5hYnlzc3Zwbi5jb206MzExNjE/aW5zZWN1cmU9MSMlRTUlOEElQTAlRTYlOEIlQkYlRTUlQTQlQTclRjAlOUYlOUElODAlRUYlQjglOEY2NjENCmh5c3RlcmlhMjovLzIzMzkxMmEwLTg2OTYtNDRiOC1hZTE3LTUzMTE5YjhlYjVkNUBCR1A2LmFieXNzdnBuLmNvbTozMTE2Mj9pbnNlY3VyZT0xIyVFNSU4QSVBMCVFNiU4QiVCRiVFNSVBNCVBNyVGMCU5RiU5QSU4MCVFRiVCOCU4RjY2Mg0KaHlzdGVyaWEyOi8vMjMzOTEyYTAtODY5Ni00NGI4LWFlMTctNTMxMTliOGViNWQ1QEJHUDYuYWJ5c3N2cG4uY29tOjMxMTcxP2luc2VjdXJlPTEjJUU1JThEJUIwJUU1JUJBJUE2JUYwJTlGJTlBJTgwJUVGJUI4JThGNjcxDQpoeXN0ZXJpYTI6Ly8yMzM5MTJhMC04Njk2LTQ0YjgtYWUxNy01MzExOWI4ZWI1ZDVAQkdQNi5hYnlzc3Zwbi5jb206MzExNzI/aW5zZWN1cmU9MSMlRTUlOEQlQjAlRTUlQkElQTYlRjAlOUYlOUElODAlRUYlQjglOEY2NzINCg==
+mixed-port: 7890
+allow-lan: true
+bind-address: '*'
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+proxies:
+- name: 🇺🇸美国11
+  type: hysteria2
+  server: f1d942ca-t3bpc0-t3ss2y-4mce.la.shifen.uk
+  password: 06c625ea-5902-11ee-9e87-f23c9313b177
+  skip-cert-verify: false
+  port: 1743
+- name: 🇺🇸美国17
+  type: hysteria2
+  server: d48dac10-t4v9c0-tdtx5w-au6.la.shifen.uk
+  password: 1b609740-eec2-11ef-8543-f23c93136cb3
+  skip-cert-verify: false
+  port: 1743
+- name: 🇺🇸美国8
+  type: hysteria2
+  server: 14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk
+  password: 537d7098-fdbe-11ef-8ebc-f23c93141fad
+  skip-cert-verify: false
+  port: 443
+  ports: 20000-50000
+- name: 🇺🇸美国5
+  type: hysteria2
+  server: 6e206c57-t3b340-tcj7b6-d70y.la.shifen.uk
+  password: 537d7098-fdbe-11ef-8ebc-f23c93141fad
+  skip-cert-verify: false
+  port: 1743
+- name: 🇺🇸美国13
+  type: hysteria2
+  server: dcc40639-t3cxs0-tcj7b6-d70y.la.shifen.uk
+  password: 537d7098-fdbe-11ef-8ebc-f23c93141fad
+  skip-cert-verify: false
+  port: 1743
+- name: 🇺🇸美国4
+  type: hysteria2
+  server: 68f48101-t4teo0-t5waci-4550.la.shifen.uk
+  password: 6286105c-fb6d-11ef-be96-f23c93136cb3
+  skip-cert-verify: false
+  port: 1743
+- name: 🇺🇸美国19
+  type: hysteria2
+  server: cc65f71a-t4v9c0-t5waci-4550.la.shifen.uk
+  password: 6286105c-fb6d-11ef-be96-f23c93136cb3
+  skip-cert-verify: false
+  port: 1743
+- name: 🇨🇦加拿大1
+  type: hysteria2
+  server: 40.233.103.51
+  password: 862e90e1-2f26-4506-b8b9-0adf20da05fc
+  sni: www.bing.com
+  skip-cert-verify: true
+  port: 47262
+- name: 🇺🇸美国16
+  type: hysteria2
+  server: 98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk
+  password: 94931862-1484-11f0-9ab7-f23c95b6f51d
+  skip-cert-verify: false
+  port: 1743
+- name: 🇰🇷韩国2
+  type: hysteria2
+  server: 43.201.45.216
+  password: MxiGoEDnLJELZicwCXwsADPdF4
+  sni: bing.com
+  skip-cert-verify: true
+  port: 29609
+- name: 🇺🇸美国9
+  type: hysteria2
+  server: 6370a033-t22n40-t3bwxq-d6ar.la.shifen.uk
+  password: a16d62f6-048d-11f0-af5a-f23c93136cb3
+  sni: 6370a033-t22n40-t3bwxq-d6ar.la.shifen.uk
+  skip-cert-verify: false
+  port: 1743
+- name: 🇺🇸美国6
+  type: hysteria2
+  server: 697c3dc5-t4v9c0-t4zzea-d6ar.la.shifen.uk
+  password: a16d62f6-048d-11f0-af5a-f23c93136cb3
+  skip-cert-verify: false
+  port: 1743
+- name: 🇺🇸美国14
+  type: hysteria2
+  server: 6a9773b0-t3bpc0-t3cj5q-d6ar.la.shifen.uk
+  password: a16d62f6-048d-11f0-af5a-f23c93136cb3
+  skip-cert-verify: false
+  port: 1743
+- name: 🇺🇸美国10
+  type: hysteria2
+  server: b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk
+  password: a16d62f6-048d-11f0-af5a-f23c93136cb3
+  sni: b9c3912b-t07z40-t1l1nh-d6ar.la.shifen.uk
+  skip-cert-verify: false
+  port: 1743
+- name: 🇺🇸美国12
+  type: hysteria2
+  server: 61f04f6d-t4v9c0-t5amrp-b4pt.la.shifen.uk
+  password: be8cc8f6-0c6a-11f0-a5a3-f23c93141fad
+  skip-cert-verify: false
+  port: 1743
+- name: 🇺🇸美国15
+  type: hysteria2
+  server: ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk
+  password: be8cc8f6-0c6a-11f0-a5a3-f23c93141fad
+  skip-cert-verify: false
+  port: 1743
+- name: 🇺🇸美国18
+  type: hysteria2
+  server: e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk
+  password: df7bed3c-06eb-11f0-8ebc-f23c93141fad
+  skip-cert-verify: false
+  port: 1743
+- name: 🇫🇷法国1
+  type: hysteria2
+  server: 163.172.21.105
+  password: dongtaiwang.com
+  sni: www.bing.com
+  skip-cert-verify: true
+  port: 5355
+- name: 🇫🇷法国2
+  type: hysteria
+  server: 195.154.200.40
+  port: 15010
+  auth_str: dongtaiwang.com
+  protocol: udp
+  up: '100'
+  down: '100'
+  skip-cert-verify: true
+  alpn:
+  - h3
+- name: 🇫🇷法国3
+  type: hysteria
+  server: 62.210.127.217
+  port: 35511
+  auth_str: dongtaiwang.com
+  protocol: udp
+  up: '11'
+  down: '55'
+  skip-cert-verify: true
+  alpn:
+  - h3
+- name: 🇹🇷土耳其2
+  type: ss
+  server: 62.133.63.21
+  port: 65262
+  cipher: chacha20-ietf-poly1305
+  password: WjfN0ncDH8Saa7DfIIrjuR
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇹🇷土耳其1
+  type: ss
+  server: h110vpntr.outlinekeys.net
+  port: 65262
+  cipher: chacha20-ietf-poly1305
+  password: WjfN0ncDH8Saa7DfIIrjuR
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇬🇧英国6
+  type: ss
+  server: 89.185.84.173
+  port: 57456
+  cipher: chacha20-ietf-poly1305
+  password: c40641c1f89e7acb
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇩🇪德国6
+  type: ss
+  server: h110vpnde.outlinekeys.net
+  port: 7048
+  cipher: chacha20-ietf-poly1305
+  password: jWipOBsR9aECHHOKqpMiXh
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇸🇬新加坡2
+  type: ss
+  server: 113.99.143.139
+  port: 26470
+  cipher: aes-128-gcm
+  password: b637f2e47b7827b308ebf399008075d2
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇸🇪瑞典7
+  type: ss
+  server: 13.60.76.73
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇸🇪瑞典2
+  type: ss
+  server: 13.60.79.133
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇸🇪瑞典5
+  type: ss
+  server: 13.61.149.99
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇨🇦加拿大2
+  type: ss
+  server: 15.157.66.237
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇺🇸美国27
+  type: ss
+  server: 18.116.40.29
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇺🇸美国21
+  type: ss
+  server: 18.118.10.94
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇬🇧英国4
+  type: ss
+  server: 18.130.105.171
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇬🇧英国2
+  type: ss
+  server: 18.133.240.117
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇬🇧英国5
+  type: ss
+  server: 18.170.218.19
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇬🇧英国1
+  type: ss
+  server: 18.170.66.163
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇬🇧英国3
+  type: ss
+  server: 18.175.147.245
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇩🇪德国4
+  type: ss
+  server: 18.184.173.223
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇩🇪德国3
+  type: ss
+  server: 18.196.31.30
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇩🇪德国5
+  type: ss
+  server: 18.199.98.206
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇺🇸美国28
+  type: ss
+  server: 3.129.194.11
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇺🇸美国22
+  type: ss
+  server: 3.147.66.58
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇺🇸美国25
+  type: ss
+  server: 3.148.213.139
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇺🇸美国20
+  type: ss
+  server: 3.17.166.143
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇩🇪德国1
+  type: ss
+  server: 3.68.198.234
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇸🇪瑞典4
+  type: ss
+  server: 51.20.123.162
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇸🇪瑞典1
+  type: ss
+  server: 51.20.184.165
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇸🇪瑞典3
+  type: ss
+  server: 51.21.249.93
+  port: 443
+  cipher: aes-256-cfb
+  password: amazonskr05
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇰🇷韩国3
+  type: ss
+  server: 221.139.79.57
+  port: 37008
+  cipher: aes-256-cfb
+  password: qwerREWQ@@
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+- name: 🇭🇰香港3
+  type: trojan
+  server: 36.156.102.72
+  port: 194
+  password: BxceQaOe
+  udp: true
+  tfo: false
+  tls: true
+  skip-cert-verify: true
+  network: tcp
+- name: 🇭🇰香港7
+  type: trojan
+  server: 58.152.46.98
+  port: 443
+  password: BxceQaOe
+  udp: true
+  tfo: false
+  tls: true
+  skip-cert-verify: true
+  network: tcp
+- name: 🇭🇰香港4
+  type: trojan
+  server: 58.152.53.3
+  port: 443
+  password: BxceQaOe
+  udp: true
+  tfo: false
+  tls: true
+  skip-cert-verify: true
+  network: tcp
+- name: 🇺🇸美国24
+  type: trojan
+  server: 23.247.137.161
+  port: 443
+  password: f689978c12a90981
+  udp: true
+  tfo: false
+  tls: true
+  sni: TG.WangCai2
+  skip-cert-verify: true
+  alpn:
+  - h2
+  network: grpc
+  grpc-opts:
+    grpc-service-name: db
+- name: 🇺🇸美国26
+  type: trojan
+  server: 23.247.137.67
+  port: 443
+  password: f689978c12a90981
+  udp: true
+  tfo: false
+  tls: true
+  sni: TG.WangCai2
+  skip-cert-verify: true
+  alpn:
+  - h2
+  network: grpc
+  grpc-opts:
+    grpc-service-name: db
+- name: 🇺🇸美国7
+  type: trojan
+  server: 88.210.36.107
+  port: 443
+  password: f689978c12a90981
+  udp: true
+  tfo: false
+  tls: true
+  sni: TG.WangCai2
+  skip-cert-verify: true
+  alpn:
+  - h2
+  network: grpc
+  grpc-opts:
+    grpc-service-name: db
+- name: 🇨🇿捷克3
+  type: vless
+  server: 194.182.79.236
+  port: 39198
+  uuid: 20454c93-144c-4434-af35-6a8e8e0e388f
+  encryption: none
+  udp: true
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  network: grpc
+  grpc-opts:
+    grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    grpc-dial-options:
+      with-insecure-skip-verify: false
+- name: 🇸🇪瑞典6
+  type: vless
+  server: sweden11.clearorbitllc.com
+  port: 443
+  uuid: 26c99015-b58e-47d2-a4ce-4f4b05b70400
+  encryption: none
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: 6i0TALpH7qy8-xzwJkI13mRsgi2e7lHqKQyAcDSg8Uc
+    short-id: 4af2
+  servername: sweden11.clearorbitllc.com
+  client-fingerprint: firefox
+  network: tcp
+- name: 🇨🇿捷克2
+  type: vless
+  server: czech.marzxo.biz
+  port: 8094
+  uuid: 2d01afab-6ab0-b2c9-30ea-878969fe9359
+  encryption: none
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU
+    short-id: 828348fc6d8e49cf
+  servername: refersion.com
+  client-fingerprint: firefox
+  network: tcp
+- name: 🇩🇪德国2
+  type: vless
+  server: germany1.marzxo.biz
+  port: 8081
+  uuid: 2d01afab-6ab0-b2c9-30ea-878969fe9359
+  encryption: none
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU
+    short-id: 828348fc6d8e49cf
+  servername: refersion.com
+  client-fingerprint: firefox
+  network: tcp
+- name: 🇮🇹意大利1
+  type: vless
+  server: italy.marzxo.biz
+  port: 8093
+  uuid: 2d01afab-6ab0-b2c9-30ea-878969fe9359
+  encryption: none
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: Ro8OYB3Jq6hTWw95trCnKzQPvWaN2ShcbeLg7dTv8UU
+    short-id: 828348fc6d8e49cf
+  servername: refersion.com
+  client-fingerprint: firefox
+  network: tcp
+- name: 🇰🇷韩国1
+  type: vless
+  server: 158.179.175.153
+  port: 47018
+  uuid: 57580310-fb4f-4b6f-b1de-7137fb06b913
+  encryption: none
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: EgvsNiV4Ugwlj7GDq0XHXE63is_DJ5vhSiHgft-jRDs
+    short-id: 23c1eba6
+  servername: www.yahoo.com
+  client-fingerprint: firefox
+  network: tcp
+- name: 🇸🇬新加坡1
+  type: vless
+  server: 172.236.130.46
+  port: 20272
+  uuid: 59bf9d82-0f40-4f11-be5c-2f1bb7f5dd1b
+  encryption: none
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: gM4F9IA3kfOKKj10YFi76VMNswVHgS44wb8P8fZh0DU
+    short-id: ''
+  servername: www.cloudflare.com
+  client-fingerprint: firefox
+  network: tcp
+- name: 🇯🇵日本2
+  type: vless
+  server: 45.143.234.69
+  port: 8899
+  uuid: 923b469a-b109-46ac-ba49-7a146efd0af9
+  encryption: none
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+  flow: xtls-rprx-vision
+  tls: true
+  reality-opts:
+    public-key: IiuIighvDsor2v-vb5s3IJbNiqwLw568auiqoXxc7FM
+    short-id: ''
+  servername: www.alibaba.com
+  client-fingerprint: firefox
+  network: tcp
+- name: 🇩🇪德国7
+  type: vless
+  server: 185.146.173.39
+  port: 8080
+  uuid: Parsashonam-319
+  encryption: none
+  udp: true
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  network: httpupgrade
+- name: 🇫🇮芬兰1
+  type: vless
+  server: 104.17.147.22
+  port: 8080
+  uuid: Parsashonam-Bot-34
+  encryption: none
+  udp: true
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  network: ws
+  ws-opts:
+    path: /Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam-Parsashonam?ed=2056//telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN--MTMVPN---MTMVPN---MTMVPN---MTMVPN---MTMVPN
+    headers:
+      Host: Fi.Parsashonam.CfD.
+- name: 🇨🇿捷克1
+  type: vless
+  server: 194.182.79.240
+  port: 16717
+  uuid: b1ba24e8-84f7-4c87-9d9c-f8f7f38c4950
+  encryption: none
+  udp: true
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  network: grpc
+  grpc-opts:
+    grpc-service-name: ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    grpc-dial-options:
+      with-insecure-skip-verify: false
+- name: 🇺🇸美国1
+  type: vless
+  server: 38.102.235.136
+  port: 15614
+  uuid: b5544203-55e3-426e-92f1-0684c93f9829
+  encryption: none
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  sni: snippet.danfeng.site
+  servername: snippet.danfeng.site
+  client-fingerprint: random
+  network: ws
+  ws-opts:
+    path: /?ed=2560
+    headers:
+      Host: snippet.danfeng.site
+- name: 🇯🇵日本3
+  type: vless
+  server: 45.66.128.117
+  port: 10016
+  uuid: b5544203-55e3-426e-92f1-0684c93f9829
+  encryption: none
+  udp: true
+  skip-cert-verify: true
+  tfo: false
+  tls: true
+  sni: snippet.danfeng.site
+  servername: snippet.danfeng.site
+  client-fingerprint: random
+  network: ws
+  ws-opts:
+    path: /?ed=2560
+    headers:
+      Host: snippet.danfeng.site
+- name: 🇭🇰香港5
+  type: vmess
+  server: 95811783-t02f40-t4nxvc-1p1b.hk.p5pv.com
+  port: 80
+  uuid: 279b8588-616b-11ed-a8bf-f23c91cfbbc9
+  alterId: 2
+  cipher: auto
+  tls: false
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  aead: true
+  tfo: false
+  ws-opts:
+    path: /
+    headers:
+      Host: broadcastlv.chat.bilibili.com
+- name: 🇺🇸美国3
+  type: vmess
+  server: 154.17.18.48
+  port: 8448
+  uuid: de94cc0a-0592-4969-b1fc-97ea8f0ea0b3
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  aead: true
+  tfo: false
+  sni: us.nbee.pp.ua
+  ws-opts:
+    path: /aa
+    headers:
+      Host: us.nbee.pp.ua
+- name: 🇺🇸美国2
+  type: vmess
+  server: 154.17.230.67
+  port: 33995
+  uuid: de94cc0a-0592-4969-b1fc-97ea8f0ea0b3
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  aead: true
+  tfo: false
+  sni: us.nbee.pp.ua
+  ws-opts:
+    path: /aa
+    headers:
+      Host: us.nbee.pp.ua
+- name: 🇺🇸美国1_1
+  type: vmess
+  server: 154.38.116.8
+  port: 443
+  uuid: 4bf075f5-4d5e-4d39-f5ab-b32a86250f0e
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  aead: true
+  tfo: false
+  sni: hk.nbee.pp.ua
+  ws-opts:
+    path: /aa
+    headers:
+      Host: hk.nbee.pp.ua
+- name: 🇭🇰香港6
+  type: vmess
+  server: 219.76.13.166
+  port: 443
+  uuid: ffde381b-4a30-41d4-90eb-151f228b06ea
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  aead: true
+  tfo: false
+  sni: aa.nbee.pp.ua
+  ws-opts:
+    path: /qq
+    headers:
+      Host: aa.nbee.pp.ua
+- name: 🇯🇵日本1
+  type: vmess
+  server: xray.kk37005.tk
+  port: 55919
+  uuid: 2e7548bb-7c5b-4d97-d64d-1b2fe4050089
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: true
+  udp: true
+  network: tcp
+  aead: true
+  tfo: false
+- name: 🇺🇸美国23
+  type: vmess
+  server: a.jiongjiong.top
+  port: 443
+  uuid: 9f30de8a-6c1d-464b-f741-c8716f3531e8
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  aead: true
+  tfo: false
+  sni: a.jiongjiong.top
+  ws-opts:
+    path: /abc
+    headers:
+      Host: a.jiongjiong.top
+- name: 🇭🇰香港2
+  type: vmess
+  server: aliyun.another520.fun
+  port: 443
+  uuid: 6a05d16b-ff17-48e2-a405-9122869a6a5a
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  aead: true
+  tfo: false
+  sni: hk1.321524.xyz
+  ws-opts:
+    path: /
+    headers:
+      Host: hk1.321524.xyz
+- name: 🇭🇰香港1
+  type: vmess
+  server: cf.another520.fun
+  port: 443
+  uuid: 6a05d16b-ff17-48e2-a405-9122869a6a5a
+  alterId: 0
+  cipher: auto
+  tls: true
+  skip-cert-verify: true
+  udp: true
+  network: ws
+  aead: true
+  tfo: false
+  sni: hk01.kawaiiilove4545.shop
+  ws-opts:
+    path: /
+    headers:
+      Host: hk01.kawaiiilove4545.shop
+proxy-groups:
+- name: Haita Cloud
+  type: select
+  proxies:
+  - 自动选择
+  - 故障转移
+  - 🇺🇸美国11
+  - 🇺🇸美国17
+  - 🇺🇸美国8
+  - 🇺🇸美国5
+  - 🇺🇸美国13
+  - 🇺🇸美国4
+  - 🇺🇸美国19
+  - 🇨🇦加拿大1
+  - 🇺🇸美国16
+  - 🇰🇷韩国2
+  - 🇺🇸美国9
+  - 🇺🇸美国6
+  - 🇺🇸美国14
+  - 🇺🇸美国10
+  - 🇺🇸美国12
+  - 🇺🇸美国15
+  - 🇺🇸美国18
+  - 🇫🇷法国1
+  - 🇫🇷法国2
+  - 🇫🇷法国3
+  - 🇹🇷土耳其2
+  - 🇹🇷土耳其1
+  - 🇬🇧英国6
+  - 🇩🇪德国6
+  - 🇸🇬新加坡2
+  - 🇸🇪瑞典7
+  - 🇸🇪瑞典2
+  - 🇸🇪瑞典5
+  - 🇨🇦加拿大2
+  - 🇺🇸美国27
+  - 🇺🇸美国21
+  - 🇬🇧英国4
+  - 🇬🇧英国2
+  - 🇬🇧英国5
+  - 🇬🇧英国1
+  - 🇬🇧英国3
+  - 🇩🇪德国4
+  - 🇩🇪德国3
+  - 🇩🇪德国5
+  - 🇺🇸美国28
+  - 🇺🇸美国22
+  - 🇺🇸美国25
+  - 🇺🇸美国20
+  - 🇩🇪德国1
+  - 🇸🇪瑞典4
+  - 🇸🇪瑞典1
+  - 🇸🇪瑞典3
+  - 🇰🇷韩国3
+  - 🇭🇰香港3
+  - 🇭🇰香港7
+  - 🇭🇰香港4
+  - 🇺🇸美国24
+  - 🇺🇸美国26
+  - 🇺🇸美国7
+  - 🇨🇿捷克3
+  - 🇸🇪瑞典6
+  - 🇨🇿捷克2
+  - 🇩🇪德国2
+  - 🇮🇹意大利1
+  - 🇰🇷韩国1
+  - 🇸🇬新加坡1
+  - 🇯🇵日本2
+  - 🇩🇪德国7
+  - 🇫🇮芬兰1
+  - 🇨🇿捷克1
+  - 🇺🇸美国1
+  - 🇯🇵日本3
+  - 🇭🇰香港5
+  - 🇺🇸美国3
+  - 🇺🇸美国2
+  - 🇺🇸美国1_1
+  - 🇭🇰香港6
+  - 🇯🇵日本1
+  - 🇺🇸美国23
+  - 🇭🇰香港2
+  - 🇭🇰香港1
+- name: 自动选择
+  type: url-test
+  url: http://www.gstatic.com/generate_204
+  interval: 86400
+  proxies:
+  - 🇺🇸美国11
+  - 🇺🇸美国17
+  - 🇺🇸美国8
+  - 🇺🇸美国5
+  - 🇺🇸美国13
+  - 🇺🇸美国4
+  - 🇺🇸美国19
+  - 🇨🇦加拿大1
+  - 🇺🇸美国16
+  - 🇰🇷韩国2
+  - 🇺🇸美国9
+  - 🇺🇸美国6
+  - 🇺🇸美国14
+  - 🇺🇸美国10
+  - 🇺🇸美国12
+  - 🇺🇸美国15
+  - 🇺🇸美国18
+  - 🇫🇷法国1
+  - 🇫🇷法国2
+  - 🇫🇷法国3
+  - 🇹🇷土耳其2
+  - 🇹🇷土耳其1
+  - 🇬🇧英国6
+  - 🇩🇪德国6
+  - 🇸🇬新加坡2
+  - 🇸🇪瑞典7
+  - 🇸🇪瑞典2
+  - 🇸🇪瑞典5
+  - 🇨🇦加拿大2
+  - 🇺🇸美国27
+  - 🇺🇸美国21
+  - 🇬🇧英国4
+  - 🇬🇧英国2
+  - 🇬🇧英国5
+  - 🇬🇧英国1
+  - 🇬🇧英国3
+  - 🇩🇪德国4
+  - 🇩🇪德国3
+  - 🇩🇪德国5
+  - 🇺🇸美国28
+  - 🇺🇸美国22
+  - 🇺🇸美国25
+  - 🇺🇸美国20
+  - 🇩🇪德国1
+  - 🇸🇪瑞典4
+  - 🇸🇪瑞典1
+  - 🇸🇪瑞典3
+  - 🇰🇷韩国3
+  - 🇭🇰香港3
+  - 🇭🇰香港7
+  - 🇭🇰香港4
+  - 🇺🇸美国24
+  - 🇺🇸美国26
+  - 🇺🇸美国7
+  - 🇨🇿捷克3
+  - 🇸🇪瑞典6
+  - 🇨🇿捷克2
+  - 🇩🇪德国2
+  - 🇮🇹意大利1
+  - 🇰🇷韩国1
+  - 🇸🇬新加坡1
+  - 🇯🇵日本2
+  - 🇩🇪德国7
+  - 🇫🇮芬兰1
+  - 🇨🇿捷克1
+  - 🇺🇸美国1
+  - 🇯🇵日本3
+  - 🇭🇰香港5
+  - 🇺🇸美国3
+  - 🇺🇸美国2
+  - 🇺🇸美国1_1
+  - 🇭🇰香港6
+  - 🇯🇵日本1
+  - 🇺🇸美国23
+  - 🇭🇰香港2
+  - 🇭🇰香港1
+- name: 故障转移
+  type: fallback
+  url: http://www.gstatic.com/generate_204
+  interval: 7200
+  proxies:
+  - 🇺🇸美国11
+  - 🇺🇸美国17
+  - 🇺🇸美国8
+  - 🇺🇸美国5
+  - 🇺🇸美国13
+  - 🇺🇸美国4
+  - 🇺🇸美国19
+  - 🇨🇦加拿大1
+  - 🇺🇸美国16
+  - 🇰🇷韩国2
+  - 🇺🇸美国9
+  - 🇺🇸美国6
+  - 🇺🇸美国14
+  - 🇺🇸美国10
+  - 🇺🇸美国12
+  - 🇺🇸美国15
+  - 🇺🇸美国18
+  - 🇫🇷法国1
+  - 🇫🇷法国2
+  - 🇫🇷法国3
+  - 🇹🇷土耳其2
+  - 🇹🇷土耳其1
+  - 🇬🇧英国6
+  - 🇩🇪德国6
+  - 🇸🇬新加坡2
+  - 🇸🇪瑞典7
+  - 🇸🇪瑞典2
+  - 🇸🇪瑞典5
+  - 🇨🇦加拿大2
+  - 🇺🇸美国27
+  - 🇺🇸美国21
+  - 🇬🇧英国4
+  - 🇬🇧英国2
+  - 🇬🇧英国5
+  - 🇬🇧英国1
+  - 🇬🇧英国3
+  - 🇩🇪德国4
+  - 🇩🇪德国3
+  - 🇩🇪德国5
+  - 🇺🇸美国28
+  - 🇺🇸美国22
+  - 🇺🇸美国25
+  - 🇺🇸美国20
+  - 🇩🇪德国1
+  - 🇸🇪瑞典4
+  - 🇸🇪瑞典1
+  - 🇸🇪瑞典3
+  - 🇰🇷韩国3
+  - 🇭🇰香港3
+  - 🇭🇰香港7
+  - 🇭🇰香港4
+  - 🇺🇸美国24
+  - 🇺🇸美国26
+  - 🇺🇸美国7
+  - 🇨🇿捷克3
+  - 🇸🇪瑞典6
+  - 🇨🇿捷克2
+  - 🇩🇪德国2
+  - 🇮🇹意大利1
+  - 🇰🇷韩国1
+  - 🇸🇬新加坡1
+  - 🇯🇵日本2
+  - 🇩🇪德国7
+  - 🇫🇮芬兰1
+  - 🇨🇿捷克1
+  - 🇺🇸美国1
+  - 🇯🇵日本3
+  - 🇭🇰香港5
+  - 🇺🇸美国3
+  - 🇺🇸美国2
+  - 🇺🇸美国1_1
+  - 🇭🇰香港6
+  - 🇯🇵日本1
+  - 🇺🇸美国23
+  - 🇭🇰香港2
+  - 🇭🇰香港1
+rules:
+- DOMAIN,su.bestyuns.com,DIRECT
+- DOMAIN-SUFFIX,services.googleapis.cn,Haita Cloud
+- DOMAIN-SUFFIX,xn--ngstr-lra8j.com,Haita Cloud
+- DOMAIN,safebrowsing.urlsec.qq.com,DIRECT
+- DOMAIN,safebrowsing.googleapis.com,DIRECT
+- DOMAIN,developer.apple.com,Haita Cloud
+- DOMAIN-SUFFIX,digicert.com,Haita Cloud
+- DOMAIN,ocsp.apple.com,Haita Cloud
+- DOMAIN,ocsp.comodoca.com,Haita Cloud
+- DOMAIN,ocsp.usertrust.com,Haita Cloud
+- DOMAIN,ocsp.sectigo.com,Haita Cloud
+- DOMAIN,ocsp.verisign.net,Haita Cloud
+- DOMAIN-SUFFIX,apple-dns.net,Haita Cloud
+- DOMAIN,testflight.apple.com,Haita Cloud
+- DOMAIN,sandbox.itunes.apple.com,Haita Cloud
+- DOMAIN,itunes.apple.com,Haita Cloud
+- DOMAIN-SUFFIX,apps.apple.com,Haita Cloud
+- DOMAIN-SUFFIX,blobstore.apple.com,Haita Cloud
+- DOMAIN,cvws.icloud-content.com,Haita Cloud
+- DOMAIN-SUFFIX,mzstatic.com,DIRECT
+- DOMAIN-SUFFIX,itunes.apple.com,DIRECT
+- DOMAIN-SUFFIX,icloud.com,DIRECT
+- DOMAIN-SUFFIX,icloud-content.com,DIRECT
+- DOMAIN-SUFFIX,me.com,DIRECT
+- DOMAIN-SUFFIX,aaplimg.com,DIRECT
+- DOMAIN-SUFFIX,cdn20.com,DIRECT
+- DOMAIN-SUFFIX,cdn-apple.com,DIRECT
+- DOMAIN-SUFFIX,akadns.net,DIRECT
+- DOMAIN-SUFFIX,akamaiedge.net,DIRECT
+- DOMAIN-SUFFIX,edgekey.net,DIRECT
+- DOMAIN-SUFFIX,mwcloudcdn.com,DIRECT
+- DOMAIN-SUFFIX,mwcname.com,DIRECT
+- DOMAIN-SUFFIX,apple.com,DIRECT
+- DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT
+- DOMAIN-SUFFIX,apple-mapkit.com,DIRECT
+- DOMAIN-SUFFIX,126.com,DIRECT
+- DOMAIN-SUFFIX,126.net,DIRECT
+- DOMAIN-SUFFIX,127.net,DIRECT
+- DOMAIN-SUFFIX,163.com,DIRECT
+- DOMAIN-SUFFIX,360buyimg.com,DIRECT
+- DOMAIN-SUFFIX,36kr.com,DIRECT
+- DOMAIN-SUFFIX,acfun.tv,DIRECT
+- DOMAIN-SUFFIX,air-matters.com,DIRECT
+- DOMAIN-SUFFIX,aixifan.com,DIRECT
+- DOMAIN-KEYWORD,alicdn,DIRECT
+- DOMAIN-KEYWORD,alipay,DIRECT
+- DOMAIN-KEYWORD,taobao,DIRECT
+- DOMAIN-SUFFIX,amap.com,DIRECT
+- DOMAIN-SUFFIX,autonavi.com,DIRECT
+- DOMAIN-KEYWORD,baidu,DIRECT
+- DOMAIN-SUFFIX,bdimg.com,DIRECT
+- DOMAIN-SUFFIX,bdstatic.com,DIRECT
+- DOMAIN-SUFFIX,bilibili.com,DIRECT
+- DOMAIN-SUFFIX,bilivideo.com,DIRECT
+- DOMAIN-SUFFIX,caiyunapp.com,DIRECT
+- DOMAIN-SUFFIX,clouddn.com,DIRECT
+- DOMAIN-SUFFIX,cnbeta.com,DIRECT
+- DOMAIN-SUFFIX,cnbetacdn.com,DIRECT
+- DOMAIN-SUFFIX,cootekservice.com,DIRECT
+- DOMAIN-SUFFIX,csdn.net,DIRECT
+- DOMAIN-SUFFIX,ctrip.com,DIRECT
+- DOMAIN-SUFFIX,dgtle.com,DIRECT
+- DOMAIN-SUFFIX,dianping.com,DIRECT
+- DOMAIN-SUFFIX,douban.com,DIRECT
+- DOMAIN-SUFFIX,doubanio.com,DIRECT
+- DOMAIN-SUFFIX,duokan.com,DIRECT
+- DOMAIN-SUFFIX,easou.com,DIRECT
+- DOMAIN-SUFFIX,ele.me,DIRECT
+- DOMAIN-SUFFIX,feng.com,DIRECT
+- DOMAIN-SUFFIX,fir.im,DIRECT
+- DOMAIN-SUFFIX,frdic.com,DIRECT
+- DOMAIN-SUFFIX,g-cores.com,DIRECT
+- DOMAIN-SUFFIX,godic.net,DIRECT
+- DOMAIN-SUFFIX,gtimg.com,DIRECT
+- DOMAIN,cdn.hockeyapp.net,DIRECT
+- DOMAIN-SUFFIX,hongxiu.com,DIRECT
+- DOMAIN-SUFFIX,hxcdn.net,DIRECT
+- DOMAIN-SUFFIX,iciba.com,DIRECT
+- DOMAIN-SUFFIX,ifeng.com,DIRECT
+- DOMAIN-SUFFIX,ifengimg.com,DIRECT
+- DOMAIN-SUFFIX,ipip.net,DIRECT
+- DOMAIN-SUFFIX,iqiyi.com,DIRECT
+- DOMAIN-SUFFIX,jd.com,DIRECT
+- DOMAIN-SUFFIX,jianshu.com,DIRECT
+- DOMAIN-SUFFIX,knewone.com,DIRECT
+- DOMAIN-SUFFIX,le.com,DIRECT
+- DOMAIN-SUFFIX,lecloud.com,DIRECT
+- DOMAIN-SUFFIX,lemicp.com,DIRECT
+- DOMAIN-SUFFIX,licdn.com,DIRECT
+- DOMAIN-SUFFIX,luoo.net,DIRECT
+- DOMAIN-SUFFIX,meituan.com,DIRECT
+- DOMAIN-SUFFIX,meituan.net,DIRECT
+- DOMAIN-SUFFIX,mi.com,DIRECT
+- DOMAIN-SUFFIX,miaopai.com,DIRECT
+- DOMAIN-SUFFIX,microsoft.com,DIRECT
+- DOMAIN-SUFFIX,microsoftonline.com,DIRECT
+- DOMAIN-SUFFIX,miui.com,DIRECT
+- DOMAIN-SUFFIX,miwifi.com,DIRECT
+- DOMAIN-SUFFIX,mob.com,DIRECT
+- DOMAIN-SUFFIX,netease.com,DIRECT
+- DOMAIN-SUFFIX,office.com,DIRECT
+- DOMAIN-SUFFIX,office365.com,DIRECT
+- DOMAIN-KEYWORD,officecdn,DIRECT
+- DOMAIN-SUFFIX,oschina.net,DIRECT
+- DOMAIN-SUFFIX,ppsimg.com,DIRECT
+- DOMAIN-SUFFIX,pstatp.com,DIRECT
+- DOMAIN-SUFFIX,qcloud.com,DIRECT
+- DOMAIN-SUFFIX,qdaily.com,DIRECT
+- DOMAIN-SUFFIX,qdmm.com,DIRECT
+- DOMAIN-SUFFIX,qhimg.com,DIRECT
+- DOMAIN-SUFFIX,qhres.com,DIRECT
+- DOMAIN-SUFFIX,qidian.com,DIRECT
+- DOMAIN-SUFFIX,qihucdn.com,DIRECT
+- DOMAIN-SUFFIX,qiniu.com,DIRECT
+- DOMAIN-SUFFIX,qiniucdn.com,DIRECT
+- DOMAIN-SUFFIX,qiyipic.com,DIRECT
+- DOMAIN-SUFFIX,qq.com,DIRECT
+- DOMAIN-SUFFIX,qqurl.com,DIRECT
+- DOMAIN-SUFFIX,rarbg.to,DIRECT
+- DOMAIN-SUFFIX,ruguoapp.com,DIRECT
+- DOMAIN-SUFFIX,segmentfault.com,DIRECT
+- DOMAIN-SUFFIX,sinaapp.com,DIRECT
+- DOMAIN-SUFFIX,smzdm.com,DIRECT
+- DOMAIN-SUFFIX,snapdrop.net,DIRECT
+- DOMAIN-SUFFIX,sogou.com,DIRECT
+- DOMAIN-SUFFIX,sogoucdn.com,DIRECT
+- DOMAIN-SUFFIX,sohu.com,DIRECT
+- DOMAIN-SUFFIX,soku.com,DIRECT
+- DOMAIN-SUFFIX,speedtest.net,DIRECT
+- DOMAIN-SUFFIX,sspai.com,DIRECT
+- DOMAIN-SUFFIX,suning.com,DIRECT
+- DOMAIN-SUFFIX,taobao.com,DIRECT
+- DOMAIN-SUFFIX,tencent.com,DIRECT
+- DOMAIN-SUFFIX,tenpay.com,DIRECT
+- DOMAIN-SUFFIX,tianyancha.com,DIRECT
+- DOMAIN-SUFFIX,tmall.com,DIRECT
+- DOMAIN-SUFFIX,tudou.com,DIRECT
+- DOMAIN-SUFFIX,umetrip.com,DIRECT
+- DOMAIN-SUFFIX,upaiyun.com,DIRECT
+- DOMAIN-SUFFIX,upyun.com,DIRECT
+- DOMAIN-SUFFIX,veryzhun.com,DIRECT
+- DOMAIN-SUFFIX,weather.com,DIRECT
+- DOMAIN-SUFFIX,weibo.com,DIRECT
+- DOMAIN-SUFFIX,xiami.com,DIRECT
+- DOMAIN-SUFFIX,xiami.net,DIRECT
+- DOMAIN-SUFFIX,xiaomicp.com,DIRECT
+- DOMAIN-SUFFIX,ximalaya.com,DIRECT
+- DOMAIN-SUFFIX,xmcdn.com,DIRECT
+- DOMAIN-SUFFIX,xunlei.com,DIRECT
+- DOMAIN-SUFFIX,yhd.com,DIRECT
+- DOMAIN-SUFFIX,yihaodianimg.com,DIRECT
+- DOMAIN-SUFFIX,yinxiang.com,DIRECT
+- DOMAIN-SUFFIX,ykimg.com,DIRECT
+- DOMAIN-SUFFIX,youdao.com,DIRECT
+- DOMAIN-SUFFIX,youku.com,DIRECT
+- DOMAIN-SUFFIX,zealer.com,DIRECT
+- DOMAIN-SUFFIX,zhihu.com,DIRECT
+- DOMAIN-SUFFIX,zhimg.com,DIRECT
+- DOMAIN-SUFFIX,zimuzu.tv,DIRECT
+- DOMAIN-SUFFIX,zoho.com,DIRECT
+- DOMAIN-KEYWORD,amazon,Haita Cloud
+- DOMAIN-KEYWORD,google,Haita Cloud
+- DOMAIN-KEYWORD,gmail,Haita Cloud
+- DOMAIN-KEYWORD,youtube,Haita Cloud
+- DOMAIN-KEYWORD,facebook,Haita Cloud
+- DOMAIN-SUFFIX,fb.me,Haita Cloud
+- DOMAIN-SUFFIX,fbcdn.net,Haita Cloud
+- DOMAIN-KEYWORD,twitter,Haita Cloud
+- DOMAIN-KEYWORD,instagram,Haita Cloud
+- DOMAIN-KEYWORD,dropbox,Haita Cloud
+- DOMAIN-SUFFIX,twimg.com,Haita Cloud
+- DOMAIN-KEYWORD,blogspot,Haita Cloud
+- DOMAIN-SUFFIX,youtu.be,Haita Cloud
+- DOMAIN-KEYWORD,whatsapp,Haita Cloud
+- DOMAIN-KEYWORD,admarvel,REJECT
+- DOMAIN-KEYWORD,admaster,REJECT
+- DOMAIN-KEYWORD,adsage,REJECT
+- DOMAIN-KEYWORD,adsmogo,REJECT
+- DOMAIN-KEYWORD,adsrvmedia,REJECT
+- DOMAIN-KEYWORD,adwords,REJECT
+- DOMAIN-KEYWORD,adservice,REJECT
+- DOMAIN-SUFFIX,appsflyer.com,REJECT
+- DOMAIN-KEYWORD,domob,REJECT
+- DOMAIN-SUFFIX,doubleclick.net,REJECT
+- DOMAIN-KEYWORD,duomeng,REJECT
+- DOMAIN-KEYWORD,dwtrack,REJECT
+- DOMAIN-KEYWORD,guanggao,REJECT
+- DOMAIN-KEYWORD,lianmeng,REJECT
+- DOMAIN-SUFFIX,mmstat.com,REJECT
+- DOMAIN-KEYWORD,mopub,REJECT
+- DOMAIN-KEYWORD,omgmta,REJECT
+- DOMAIN-KEYWORD,openx,REJECT
+- DOMAIN-KEYWORD,partnerad,REJECT
+- DOMAIN-KEYWORD,pingfore,REJECT
+- DOMAIN-KEYWORD,supersonicads,REJECT
+- DOMAIN-KEYWORD,uedas,REJECT
+- DOMAIN-KEYWORD,umeng,REJECT
+- DOMAIN-KEYWORD,usage,REJECT
+- DOMAIN-SUFFIX,vungle.com,REJECT
+- DOMAIN-KEYWORD,wlmonitor,REJECT
+- DOMAIN-KEYWORD,zjtoolbar,REJECT
+- DOMAIN-SUFFIX,9to5mac.com,Haita Cloud
+- DOMAIN-SUFFIX,abpchina.org,Haita Cloud
+- DOMAIN-SUFFIX,adblockplus.org,Haita Cloud
+- DOMAIN-SUFFIX,adobe.com,Haita Cloud
+- DOMAIN-SUFFIX,akamaized.net,Haita Cloud
+- DOMAIN-SUFFIX,alfredapp.com,Haita Cloud
+- DOMAIN-SUFFIX,amplitude.com,Haita Cloud
+- DOMAIN-SUFFIX,ampproject.org,Haita Cloud
+- DOMAIN-SUFFIX,android.com,Haita Cloud
+- DOMAIN-SUFFIX,angularjs.org,Haita Cloud
+- DOMAIN-SUFFIX,aolcdn.com,Haita Cloud
+- DOMAIN-SUFFIX,apkpure.com,Haita Cloud
+- DOMAIN-SUFFIX,appledaily.com,Haita Cloud
+- DOMAIN-SUFFIX,appshopper.com,Haita Cloud
+- DOMAIN-SUFFIX,appspot.com,Haita Cloud
+- DOMAIN-SUFFIX,arcgis.com,Haita Cloud
+- DOMAIN-SUFFIX,archive.org,Haita Cloud
+- DOMAIN-SUFFIX,armorgames.com,Haita Cloud
+- DOMAIN-SUFFIX,aspnetcdn.com,Haita Cloud
+- DOMAIN-SUFFIX,att.com,Haita Cloud
+- DOMAIN-SUFFIX,awsstatic.com,Haita Cloud
+- DOMAIN-SUFFIX,azureedge.net,Haita Cloud
+- DOMAIN-SUFFIX,azurewebsites.net,Haita Cloud
+- DOMAIN-SUFFIX,bing.com,Haita Cloud
+- DOMAIN-SUFFIX,bintray.com,Haita Cloud
+- DOMAIN-SUFFIX,bit.com,Haita Cloud
+- DOMAIN-SUFFIX,bit.ly,Haita Cloud
+- DOMAIN-SUFFIX,bitbucket.org,Haita Cloud
+- DOMAIN-SUFFIX,bjango.com,Haita Cloud
+- DOMAIN-SUFFIX,bkrtx.com,Haita Cloud
+- DOMAIN-SUFFIX,blog.com,Haita Cloud
+- DOMAIN-SUFFIX,blogcdn.com,Haita Cloud
+- DOMAIN-SUFFIX,blogger.com,Haita Cloud
+- DOMAIN-SUFFIX,blogsmithmedia.com,Haita Cloud
+- DOMAIN-SUFFIX,blogspot.com,Haita Cloud
+- DOMAIN-SUFFIX,blogspot.hk,Haita Cloud
+- DOMAIN-SUFFIX,bloomberg.com,Haita Cloud
+- DOMAIN-SUFFIX,box.com,Haita Cloud
+- DOMAIN-SUFFIX,box.net,Haita Cloud
+- DOMAIN-SUFFIX,cachefly.net,Haita Cloud
+- DOMAIN-SUFFIX,chromium.org,Haita Cloud
+- DOMAIN-SUFFIX,cl.ly,Haita Cloud
+- DOMAIN-SUFFIX,cloudflare.com,Haita Cloud
+- DOMAIN-SUFFIX,cloudfront.net,Haita Cloud
+- DOMAIN-SUFFIX,cloudmagic.com,Haita Cloud
+- DOMAIN-SUFFIX,cmail19.com,Haita Cloud
+- DOMAIN-SUFFIX,cnet.com,Haita Cloud
+- DOMAIN-SUFFIX,cocoapods.org,Haita Cloud
+- DOMAIN-SUFFIX,comodoca.com,Haita Cloud
+- DOMAIN-SUFFIX,crashlytics.com,Haita Cloud
+- DOMAIN-SUFFIX,culturedcode.com,Haita Cloud
+- DOMAIN-SUFFIX,d.pr,Haita Cloud
+- DOMAIN-SUFFIX,danilo.to,Haita Cloud
+- DOMAIN-SUFFIX,dayone.me,Haita Cloud
+- DOMAIN-SUFFIX,db.tt,Haita Cloud
+- DOMAIN-SUFFIX,deskconnect.com,Haita Cloud
+- DOMAIN-SUFFIX,disq.us,Haita Cloud
+- DOMAIN-SUFFIX,disqus.com,Haita Cloud
+- DOMAIN-SUFFIX,disquscdn.com,Haita Cloud
+- DOMAIN-SUFFIX,dnsimple.com,Haita Cloud
+- DOMAIN-SUFFIX,docker.com,Haita Cloud
+- DOMAIN-SUFFIX,dribbble.com,Haita Cloud
+- DOMAIN-SUFFIX,droplr.com,Haita Cloud
+- DOMAIN-SUFFIX,duckduckgo.com,Haita Cloud
+- DOMAIN-SUFFIX,dueapp.com,Haita Cloud
+- DOMAIN-SUFFIX,dytt8.net,Haita Cloud
+- DOMAIN-SUFFIX,edgecastcdn.net,Haita Cloud
+- DOMAIN-SUFFIX,edgekey.net,Haita Cloud
+- DOMAIN-SUFFIX,edgesuite.net,Haita Cloud
+- DOMAIN-SUFFIX,engadget.com,Haita Cloud
+- DOMAIN-SUFFIX,entrust.net,Haita Cloud
+- DOMAIN-SUFFIX,eurekavpt.com,Haita Cloud
+- DOMAIN-SUFFIX,evernote.com,Haita Cloud
+- DOMAIN-SUFFIX,fabric.io,Haita Cloud
+- DOMAIN-SUFFIX,fast.com,Haita Cloud
+- DOMAIN-SUFFIX,fastly.net,Haita Cloud
+- DOMAIN-SUFFIX,fc2.com,Haita Cloud
+- DOMAIN-SUFFIX,feedburner.com,Haita Cloud
+- DOMAIN-SUFFIX,feedly.com,Haita Cloud
+- DOMAIN-SUFFIX,feedsportal.com,Haita Cloud
+- DOMAIN-SUFFIX,fiftythree.com,Haita Cloud
+- DOMAIN-SUFFIX,firebaseio.com,Haita Cloud
+- DOMAIN-SUFFIX,flexibits.com,Haita Cloud
+- DOMAIN-SUFFIX,flickr.com,Haita Cloud
+- DOMAIN-SUFFIX,flipboard.com,Haita Cloud
+- DOMAIN-SUFFIX,g.co,Haita Cloud
+- DOMAIN-SUFFIX,gabia.net,Haita Cloud
+- DOMAIN-SUFFIX,geni.us,Haita Cloud
+- DOMAIN-SUFFIX,gfx.ms,Haita Cloud
+- DOMAIN-SUFFIX,ggpht.com,Haita Cloud
+- DOMAIN-SUFFIX,ghostnoteapp.com,Haita Cloud
+- DOMAIN-SUFFIX,git.io,Haita Cloud
+- DOMAIN-KEYWORD,github,Haita Cloud
+- DOMAIN-SUFFIX,globalsign.com,Haita Cloud
+- DOMAIN-SUFFIX,gmodules.com,Haita Cloud
+- DOMAIN-SUFFIX,godaddy.com,Haita Cloud
+- DOMAIN-SUFFIX,golang.org,Haita Cloud
+- DOMAIN-SUFFIX,gongm.in,Haita Cloud
+- DOMAIN-SUFFIX,goo.gl,Haita Cloud
+- DOMAIN-SUFFIX,goodreaders.com,Haita Cloud
+- DOMAIN-SUFFIX,goodreads.com,Haita Cloud
+- DOMAIN-SUFFIX,gravatar.com,Haita Cloud
+- DOMAIN-SUFFIX,gstatic.com,Haita Cloud
+- DOMAIN-SUFFIX,gvt0.com,Haita Cloud
+- DOMAIN-SUFFIX,hockeyapp.net,Haita Cloud
+- DOMAIN-SUFFIX,hotmail.com,Haita Cloud
+- DOMAIN-SUFFIX,icons8.com,Haita Cloud
+- DOMAIN-SUFFIX,ifixit.com,Haita Cloud
+- DOMAIN-SUFFIX,ift.tt,Haita Cloud
+- DOMAIN-SUFFIX,ifttt.com,Haita Cloud
+- DOMAIN-SUFFIX,iherb.com,Haita Cloud
+- DOMAIN-SUFFIX,imageshack.us,Haita Cloud
+- DOMAIN-SUFFIX,img.ly,Haita Cloud
+- DOMAIN-SUFFIX,imgur.com,Haita Cloud
+- DOMAIN-SUFFIX,imore.com,Haita Cloud
+- DOMAIN-SUFFIX,instapaper.com,Haita Cloud
+- DOMAIN-SUFFIX,ipn.li,Haita Cloud
+- DOMAIN-SUFFIX,is.gd,Haita Cloud
+- DOMAIN-SUFFIX,issuu.com,Haita Cloud
+- DOMAIN-SUFFIX,itgonglun.com,Haita Cloud
+- DOMAIN-SUFFIX,itun.es,Haita Cloud
+- DOMAIN-SUFFIX,ixquick.com,Haita Cloud
+- DOMAIN-SUFFIX,j.mp,Haita Cloud
+- DOMAIN-SUFFIX,js.revsci.net,Haita Cloud
+- DOMAIN-SUFFIX,jshint.com,Haita Cloud
+- DOMAIN-SUFFIX,jtvnw.net,Haita Cloud
+- DOMAIN-SUFFIX,justgetflux.com,Haita Cloud
+- DOMAIN-SUFFIX,kat.cr,Haita Cloud
+- DOMAIN-SUFFIX,klip.me,Haita Cloud
+- DOMAIN-SUFFIX,libsyn.com,Haita Cloud
+- DOMAIN-SUFFIX,linkedin.com,Haita Cloud
+- DOMAIN-SUFFIX,line-apps.com,Haita Cloud
+- DOMAIN-SUFFIX,linode.com,Haita Cloud
+- DOMAIN-SUFFIX,lithium.com,Haita Cloud
+- DOMAIN-SUFFIX,littlehj.com,Haita Cloud
+- DOMAIN-SUFFIX,live.com,Haita Cloud
+- DOMAIN-SUFFIX,live.net,Haita Cloud
+- DOMAIN-SUFFIX,livefilestore.com,Haita Cloud
+- DOMAIN-SUFFIX,llnwd.net,Haita Cloud
+- DOMAIN-SUFFIX,macid.co,Haita Cloud
+- DOMAIN-SUFFIX,macromedia.com,Haita Cloud
+- DOMAIN-SUFFIX,macrumors.com,Haita Cloud
+- DOMAIN-SUFFIX,mashable.com,Haita Cloud
+- DOMAIN-SUFFIX,mathjax.org,Haita Cloud
+- DOMAIN-SUFFIX,medium.com,Haita Cloud
+- DOMAIN-SUFFIX,mega.co.nz,Haita Cloud
+- DOMAIN-SUFFIX,mega.nz,Haita Cloud
+- DOMAIN-SUFFIX,megaupload.com,Haita Cloud
+- DOMAIN-SUFFIX,microsofttranslator.com,Haita Cloud
+- DOMAIN-SUFFIX,mindnode.com,Haita Cloud
+- DOMAIN-SUFFIX,mobile01.com,Haita Cloud
+- DOMAIN-SUFFIX,modmyi.com,Haita Cloud
+- DOMAIN-SUFFIX,msedge.net,Haita Cloud
+- DOMAIN-SUFFIX,myfontastic.com,Haita Cloud
+- DOMAIN-SUFFIX,name.com,Haita Cloud
+- DOMAIN-SUFFIX,nextmedia.com,Haita Cloud
+- DOMAIN-SUFFIX,nsstatic.net,Haita Cloud
+- DOMAIN-SUFFIX,nssurge.com,Haita Cloud
+- DOMAIN-SUFFIX,nyt.com,Haita Cloud
+- DOMAIN-SUFFIX,nytimes.com,Haita Cloud
+- DOMAIN-SUFFIX,omnigroup.com,Haita Cloud
+- DOMAIN-SUFFIX,onedrive.com,Haita Cloud
+- DOMAIN-SUFFIX,onenote.com,Haita Cloud
+- DOMAIN-SUFFIX,ooyala.com,Haita Cloud
+- DOMAIN-SUFFIX,openvpn.net,Haita Cloud
+- DOMAIN-SUFFIX,openwrt.org,Haita Cloud
+- DOMAIN-SUFFIX,orkut.com,Haita Cloud
+- DOMAIN-SUFFIX,osxdaily.com,Haita Cloud
+- DOMAIN-SUFFIX,outlook.com,Haita Cloud
+- DOMAIN-SUFFIX,ow.ly,Haita Cloud
+- DOMAIN-SUFFIX,paddleapi.com,Haita Cloud
+- DOMAIN-SUFFIX,parallels.com,Haita Cloud
+- DOMAIN-SUFFIX,parse.com,Haita Cloud
+- DOMAIN-SUFFIX,pdfexpert.com,Haita Cloud
+- DOMAIN-SUFFIX,periscope.tv,Haita Cloud
+- DOMAIN-SUFFIX,pinboard.in,Haita Cloud
+- DOMAIN-SUFFIX,pinterest.com,Haita Cloud
+- DOMAIN-SUFFIX,pixelmator.com,Haita Cloud
+- DOMAIN-SUFFIX,pixiv.net,Haita Cloud
+- DOMAIN-SUFFIX,playpcesor.com,Haita Cloud
+- DOMAIN-SUFFIX,playstation.com,Haita Cloud
+- DOMAIN-SUFFIX,playstation.com.hk,Haita Cloud
+- DOMAIN-SUFFIX,playstation.net,Haita Cloud
+- DOMAIN-SUFFIX,playstationnetwork.com,Haita Cloud
+- DOMAIN-SUFFIX,pushwoosh.com,Haita Cloud
+- DOMAIN-SUFFIX,rime.im,Haita Cloud
+- DOMAIN-SUFFIX,servebom.com,Haita Cloud
+- DOMAIN-SUFFIX,sfx.ms,Haita Cloud
+- DOMAIN-SUFFIX,shadowsocks.org,Haita Cloud
+- DOMAIN-SUFFIX,sharethis.com,Haita Cloud
+- DOMAIN-SUFFIX,shazam.com,Haita Cloud
+- DOMAIN-SUFFIX,skype.com,Haita Cloud
+- DOMAIN-SUFFIX,smartdnsHaita Cloud.com,Haita Cloud
+- DOMAIN-SUFFIX,smartmailcloud.com,Haita Cloud
+- DOMAIN-SUFFIX,sndcdn.com,Haita Cloud
+- DOMAIN-SUFFIX,sony.com,Haita Cloud
+- DOMAIN-SUFFIX,soundcloud.com,Haita Cloud
+- DOMAIN-SUFFIX,sourceforge.net,Haita Cloud
+- DOMAIN-SUFFIX,spotify.com,Haita Cloud
+- DOMAIN-SUFFIX,squarespace.com,Haita Cloud
+- DOMAIN-SUFFIX,sstatic.net,Haita Cloud
+- DOMAIN-SUFFIX,st.luluku.pw,Haita Cloud
+- DOMAIN-SUFFIX,stackoverflow.com,Haita Cloud
+- DOMAIN-SUFFIX,startpage.com,Haita Cloud
+- DOMAIN-SUFFIX,staticflickr.com,Haita Cloud
+- DOMAIN-SUFFIX,steamcommunity.com,Haita Cloud
+- DOMAIN-SUFFIX,symauth.com,Haita Cloud
+- DOMAIN-SUFFIX,symcb.com,Haita Cloud
+- DOMAIN-SUFFIX,symcd.com,Haita Cloud
+- DOMAIN-SUFFIX,tapbots.com,Haita Cloud
+- DOMAIN-SUFFIX,tapbots.net,Haita Cloud
+- DOMAIN-SUFFIX,tdesktop.com,Haita Cloud
+- DOMAIN-SUFFIX,techcrunch.com,Haita Cloud
+- DOMAIN-SUFFIX,techsmith.com,Haita Cloud
+- DOMAIN-SUFFIX,thepiratebay.org,Haita Cloud
+- DOMAIN-SUFFIX,theverge.com,Haita Cloud
+- DOMAIN-SUFFIX,time.com,Haita Cloud
+- DOMAIN-SUFFIX,timeinc.net,Haita Cloud
+- DOMAIN-SUFFIX,tiny.cc,Haita Cloud
+- DOMAIN-SUFFIX,tinypic.com,Haita Cloud
+- DOMAIN-SUFFIX,tmblr.co,Haita Cloud
+- DOMAIN-SUFFIX,todoist.com,Haita Cloud
+- DOMAIN-SUFFIX,trello.com,Haita Cloud
+- DOMAIN-SUFFIX,trustasiassl.com,Haita Cloud
+- DOMAIN-SUFFIX,tumblr.co,Haita Cloud
+- DOMAIN-SUFFIX,tumblr.com,Haita Cloud
+- DOMAIN-SUFFIX,tweetdeck.com,Haita Cloud
+- DOMAIN-SUFFIX,tweetmarker.net,Haita Cloud
+- DOMAIN-SUFFIX,twitch.tv,Haita Cloud
+- DOMAIN-SUFFIX,txmblr.com,Haita Cloud
+- DOMAIN-SUFFIX,typekit.net,Haita Cloud
+- DOMAIN-SUFFIX,ubertags.com,Haita Cloud
+- DOMAIN-SUFFIX,ublock.org,Haita Cloud
+- DOMAIN-SUFFIX,ubnt.com,Haita Cloud
+- DOMAIN-SUFFIX,ulyssesapp.com,Haita Cloud
+- DOMAIN-SUFFIX,urchin.com,Haita Cloud
+- DOMAIN-SUFFIX,usertrust.com,Haita Cloud
+- DOMAIN-SUFFIX,v.gd,Haita Cloud
+- DOMAIN-SUFFIX,v2ex.com,Haita Cloud
+- DOMAIN-SUFFIX,vimeo.com,Haita Cloud
+- DOMAIN-SUFFIX,vimeocdn.com,Haita Cloud
+- DOMAIN-SUFFIX,vine.co,Haita Cloud
+- DOMAIN-SUFFIX,vivaldi.com,Haita Cloud
+- DOMAIN-SUFFIX,vox-cdn.com,Haita Cloud
+- DOMAIN-SUFFIX,vsco.co,Haita Cloud
+- DOMAIN-SUFFIX,vultr.com,Haita Cloud
+- DOMAIN-SUFFIX,w.org,Haita Cloud
+- DOMAIN-SUFFIX,w3schools.com,Haita Cloud
+- DOMAIN-SUFFIX,webtype.com,Haita Cloud
+- DOMAIN-SUFFIX,wikiwand.com,Haita Cloud
+- DOMAIN-SUFFIX,wikileaks.org,Haita Cloud
+- DOMAIN-SUFFIX,wikimedia.org,Haita Cloud
+- DOMAIN-SUFFIX,wikipedia.com,Haita Cloud
+- DOMAIN-SUFFIX,wikipedia.org,Haita Cloud
+- DOMAIN-SUFFIX,windows.com,Haita Cloud
+- DOMAIN-SUFFIX,windows.net,Haita Cloud
+- DOMAIN-SUFFIX,wire.com,Haita Cloud
+- DOMAIN-SUFFIX,wordpress.com,Haita Cloud
+- DOMAIN-SUFFIX,workflowy.com,Haita Cloud
+- DOMAIN-SUFFIX,wp.com,Haita Cloud
+- DOMAIN-SUFFIX,wsj.com,Haita Cloud
+- DOMAIN-SUFFIX,wsj.net,Haita Cloud
+- DOMAIN-SUFFIX,xda-developers.com,Haita Cloud
+- DOMAIN-SUFFIX,xeeno.com,Haita Cloud
+- DOMAIN-SUFFIX,xiti.com,Haita Cloud
+- DOMAIN-SUFFIX,yahoo.com,Haita Cloud
+- DOMAIN-SUFFIX,yimg.com,Haita Cloud
+- DOMAIN-SUFFIX,ying.com,Haita Cloud
+- DOMAIN-SUFFIX,yoyo.org,Haita Cloud
+- DOMAIN-SUFFIX,ytimg.com,Haita Cloud
+- DOMAIN-SUFFIX,telegra.ph,Haita Cloud
+- DOMAIN-SUFFIX,telegram.org,Haita Cloud
+- IP-CIDR,91.108.4.0/22,Haita Cloud,no-resolve
+- IP-CIDR,91.108.8.0/21,Haita Cloud,no-resolve
+- IP-CIDR,91.108.16.0/22,Haita Cloud,no-resolve
+- IP-CIDR,91.108.56.0/22,Haita Cloud,no-resolve
+- IP-CIDR,149.154.160.0/20,Haita Cloud,no-resolve
+- IP-CIDR6,2001:67c:4e8::/48,Haita Cloud,no-resolve
+- IP-CIDR6,2001:b28:f23d::/48,Haita Cloud,no-resolve
+- IP-CIDR6,2001:b28:f23f::/48,Haita Cloud,no-resolve
+- IP-CIDR,120.232.181.162/32,Haita Cloud,no-resolve
+- IP-CIDR,120.241.147.226/32,Haita Cloud,no-resolve
+- IP-CIDR,120.253.253.226/32,Haita Cloud,no-resolve
+- IP-CIDR,120.253.255.162/32,Haita Cloud,no-resolve
+- IP-CIDR,120.253.255.34/32,Haita Cloud,no-resolve
+- IP-CIDR,120.253.255.98/32,Haita Cloud,no-resolve
+- IP-CIDR,180.163.150.162/32,Haita Cloud,no-resolve
+- IP-CIDR,180.163.150.34/32,Haita Cloud,no-resolve
+- IP-CIDR,180.163.151.162/32,Haita Cloud,no-resolve
+- IP-CIDR,180.163.151.34/32,Haita Cloud,no-resolve
+- IP-CIDR,203.208.39.0/24,Haita Cloud,no-resolve
+- IP-CIDR,203.208.40.0/24,Haita Cloud,no-resolve
+- IP-CIDR,203.208.41.0/24,Haita Cloud,no-resolve
+- IP-CIDR,203.208.43.0/24,Haita Cloud,no-resolve
+- IP-CIDR,203.208.50.0/24,Haita Cloud,no-resolve
+- IP-CIDR,220.181.174.162/32,Haita Cloud,no-resolve
+- IP-CIDR,220.181.174.226/32,Haita Cloud,no-resolve
+- IP-CIDR,220.181.174.34/32,Haita Cloud,no-resolve
+- DOMAIN,injections.adguard.org,DIRECT
+- DOMAIN,local.adguard.org,DIRECT
+- DOMAIN-SUFFIX,local,DIRECT
+- IP-CIDR,127.0.0.0/8,DIRECT
+- IP-CIDR,172.16.0.0/12,DIRECT
+- IP-CIDR,192.168.0.0/16,DIRECT
+- IP-CIDR,10.0.0.0/8,DIRECT
+- IP-CIDR,17.0.0.0/8,DIRECT
+- IP-CIDR,100.64.0.0/10,DIRECT
+- IP-CIDR,224.0.0.0/4,DIRECT
+- IP-CIDR6,fe80::/10,DIRECT
+- DOMAIN-SUFFIX,cn,DIRECT
+- DOMAIN-KEYWORD,-cn,DIRECT
+- GEOIP,CN,DIRECT
+- MATCH,Haita Cloud
