@@ -1,324 +1,224 @@
 #EXTM3U
 #EXTINF:-1, CMusic
 https://t.freetv.fun/live/4music.m3u8
-#EXTINF:-1, CMusic[geo-blocked]
-https://t.freetv.fun/live/cmusic-tv.m3u8
-#EXTINF:-1, Lifetime(TW)
-https://t.freetv.fun/live/lifetime.m3u8
-#EXTINF:-1, Lifetime(TW)
+#EXTINF:-1, Lifetime(TW)[geo-blocked]
 https://t.freetv.fun/live/lifetime-1.m3u8
-#EXTINF:-1, 金光布袋戲[geo-blocked]
-https://t.freetv.fun/live/jin-guang-bu-dai-xi-1.m3u8
 #EXTINF:-1, 金光布袋戲
-https://t.freetv.fun/live/jin-guang-bu-dai-xi.m3u8
-#EXTINF:-1, ELLE TV
-https://t.freetv.fun/live/tele8-tv.m3u8
+https://t.freetv.fun/live/jin-guang-bu-dai-xi-1.m3u8
 #EXTINF:-1, Rollor TV
 https://t.freetv.fun/live/folklore-tv.m3u8
+#EXTINF:-1, TVBS HD[geo-blocked]
+https://t.freetv.fun/live/tvbs.m3u8
 #EXTINF:-1, UDN TV
 https://t.freetv.fun/live/tudn.m3u8
-#EXTINF:-1, 民視
-https://t.freetv.fun/live/min-shi-1.ts
-#EXTINF:-1, 民視HD
-https://t.freetv.fun/live/min-shi-3.m3u8
 #EXTINF:-1, 民視HD
 https://t.freetv.fun/live/min-shi-28.m3u8
-#EXTINF:-1, 華視HD
-https://t.freetv.fun/live/hua-shi-2.ts
-#EXTINF:-1, CN卡通頻道
+#EXTINF:-1, 民視HD
+https://t.freetv.fun/live/min-shi-3.m3u8
+#EXTINF:-1, CN卡通頻道[geo-blocked]
 https://t.freetv.fun/live/cnqia-tong.m3u8
-#EXTINF:-1, DreamWorks(TW)[geo-blocked]
-https://t.freetv.fun/live/dreamworks.m3u8
-#EXTINF:-1, 精選動漫臺[geo-blocked]
-https://t.freetv.fun/live/jing-xuan-dong-man.m3u8
-#EXTINF:-1, 龍華卡通[geo-blocked]
-https://t.freetv.fun/live/long-hua-qia-tong.m3u8
-#EXTINF:-1, 龍華卡通[geo-blocked]
-https://t.freetv.fun/live/long-hua-qia-tong-tv.m3u8
+#EXTINF:-1, BBC Earth(tw)
+https://t.freetv.fun/live/bbc-earth.m3u8
 #EXTINF:-1, BBC Earth(tw)
 https://t.freetv.fun/live/bbc-earth-1.m3u8
 #EXTINF:-1, BBC Earth(tw)
-https://t.freetv.fun/live/bbc-earth-2.m3u8
-#EXTINF:-1, BBC Earth(tw)
 https://t.freetv.fun/live/bbc-earth-3.m3u8
 #EXTINF:-1, Discovery(TW)
-https://t.freetv.fun/live/discovery.m3u8
-#EXTINF:-1, Discovery(TW)
-https://t.freetv.fun/live/discovery-1.m3u8
-#EXTINF:-1, HGTV(TW)[geo-blocked]
-https://t.freetv.fun/live/hgtv.m3u8
+https://t.freetv.fun/live/discovery-2.m3u8
 #EXTINF:-1, HGTV(TW)
+https://t.freetv.fun/live/hgtv.m3u8
+#EXTINF:-1, HGTV(TW)[geo-blocked]
 https://t.freetv.fun/live/hgtv-1.m3u8
-#EXTINF:-1, Love Nature
-https://t.freetv.fun/live/love-nature.m3u8
+#EXTINF:-1, Love Nature[geo-blocked]
+https://t.freetv.fun/live/love-nature-2.m3u8
+#EXTINF:-1, Love Nature[geo-blocked]
+https://t.freetv.fun/live/love-nature-ca.m3u8
 #EXTINF:-1, Love Nature
 https://t.freetv.fun/live/love-nature-3.m3u8
 #EXTINF:-1, Love Nature
 https://t.freetv.fun/live/love-nature-5.m3u8
-#EXTINF:-1, Love Nature[geo-blocked]
-https://t.freetv.fun/live/love-nature-2.m3u8
+#EXTINF:-1, Love Nature
+https://t.freetv.fun/live/love-nature-6.m3u8
 #EXTINF:-1, Smithsonian Channel[geo-blocked]
 https://t.freetv.fun/live/smithsonian-channel-selects.m3u8
 #EXTINF:-1, Smithsonian Channel
 https://t.freetv.fun/live/smithsonian-channel.m3u8
-#EXTINF:-1, AMC電影[geo-blocked]
-https://t.freetv.fun/live/amcdian-ying-1.m3u8
-#EXTINF:-1, AMC電影[geo-blocked]
-https://t.freetv.fun/live/amcdian-ying-tai-tv.m3u8
 #EXTINF:-1, FOX Movies HD(TW)
 https://t.freetv.fun/live/hbo-movies.m3u8
-#EXTINF:-1, Hollywood
-https://t.freetv.fun/live/hollywood.m3u8
 #EXTINF:-1, Hollywood[geo-blocked]
 https://t.freetv.fun/live/young-hollywood.m3u8
+#EXTINF:-1, Hollywood[geo-blocked]
+https://t.freetv.fun/live/hollywood.m3u8
 #EXTINF:-1, Star Movies Gold
 https://t.freetv.fun/live/gold-star.m3u8
-#EXTINF:-1, 公視戲劇[geo-blocked]
-https://t.freetv.fun/live/gong-shi-xi-ju-tv.m3u8
-#EXTINF:-1, 公視戲劇[geo-blocked]
-https://t.freetv.fun/live/gong-shi-xi-ju-1.m3u8
-#EXTINF:-1, 好萊塢電影
-https://t.freetv.fun/live/hao-lai-wu-dian-ying.m3u8
-#EXTINF:-1, 影迷數位電影臺[geo-blocked]
-https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.m3u8
-#EXTINF:-1, 東森電影
-https://t.freetv.fun/live/dong-sen-dian-ying.m3u8
-#EXTINF:-1, 民視影劇臺[geo-blocked]
-https://t.freetv.fun/live/min-shi-ying-ju-1.m3u8
-#EXTINF:-1, 民視影劇臺[geo-blocked]
-https://t.freetv.fun/live/min-shi-ying-ju-tv.m3u8
+#EXTINF:-1, 東森戲劇
+https://t.freetv.fun/live/dong-sen-xi-ju.m3u8
+#EXTINF:-1, 東森洋片
+https://t.freetv.fun/live/dong-sen-yang-pian.m3u8
+#EXTINF:-1, 經典電影臺
+https://t.freetv.fun/live/jing-dian-dian-ying-1.m3u8
 #EXTINF:-1, 經典電影臺
 https://t.freetv.fun/live/jing-dian-dian-ying.m3u8
 #EXTINF:-1, 經典電影臺
-https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying.m3u8
+https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying-1.m3u8
 #EXTINF:-1, 經典電影臺[geo-blocked]
-https://t.freetv.fun/live/jing-dian-dian-ying-1.m3u8
-#EXTINF:-1, 采昌影劇[geo-blocked]
-https://t.freetv.fun/live/cai-chang-ying-ju.m3u8
-#EXTINF:-1, 采昌影劇[geo-blocked]
-https://t.freetv.fun/live/cai-chang-ying-ju-tv.m3u8
-#EXTINF:-1, 靖天戲劇[geo-blocked]
-https://t.freetv.fun/live/jing-tian-xi-ju-1.m3u8
-#EXTINF:-1, 靖天戲劇[geo-blocked]
-https://t.freetv.fun/live/jing-tian-xi-ju-tv.m3u8
-#EXTINF:-1, 靖天映畫[geo-blocked]
-https://t.freetv.fun/live/jing-tian-ying-hua.m3u8
-#EXTINF:-1, 靖天映畫[geo-blocked]
-https://t.freetv.fun/live/jing-tian-ying-hua-tv.m3u8
-#EXTINF:-1, 靖天電影[geo-blocked]
-https://t.freetv.fun/live/jing-tian-dian-ying.m3u8
-#EXTINF:-1, 靖天電影[geo-blocked]
-https://t.freetv.fun/live/jing-tian-dian-ying-tv.m3u8
-#EXTINF:-1, 靖洋戲劇[geo-blocked]
-https://t.freetv.fun/live/jing-yang-xi-ju-tv.m3u8
-#EXTINF:-1, 靖洋戲劇[geo-blocked]
-https://t.freetv.fun/live/jing-yang-xi-ju-1.m3u8
-#EXTINF:-1, 龍華偶像[geo-blocked]
-https://t.freetv.fun/live/long-hua-ou-xiang.m3u8
-#EXTINF:-1, 龍華偶像[geo-blocked]
-https://t.freetv.fun/live/long-hua-ou-xiang-tv.m3u8
-#EXTINF:-1, 龍華戲劇[geo-blocked]
-https://t.freetv.fun/live/long-hua-xi-ju.m3u8
-#EXTINF:-1, 龍華戲劇[geo-blocked]
-https://t.freetv.fun/live/long-hua-xi-ju-tv.m3u8
-#EXTINF:-1, 龍華日韓[geo-blocked]
-https://t.freetv.fun/live/long-hua-ri-han.m3u8
-#EXTINF:-1, 龍華日韓[geo-blocked]
-https://t.freetv.fun/live/long-hua-ri-han-tv.m3u8
-#EXTINF:-1, 龍華洋片[geo-blocked]
-https://t.freetv.fun/live/long-hua-yang-pian-tv.m3u8
-#EXTINF:-1, 龍華洋片[geo-blocked]
-https://t.freetv.fun/live/long-hua-yang-pian.m3u8
-#EXTINF:-1, 龍華經典[geo-blocked]
-https://t.freetv.fun/live/long-hua-jing-dian.m3u8
-#EXTINF:-1, 龍華經典[geo-blocked]
-https://t.freetv.fun/live/long-hua-jing-dian-tv.m3u8
-#EXTINF:-1, 龍華電影[geo-blocked]
-https://t.freetv.fun/live/long-hua-dian-ying.m3u8
-#EXTINF:-1, 龍華電影[geo-blocked]
-https://t.freetv.fun/live/long-hua-dian-ying-tv.m3u8
+https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying-2.php
+#EXTINF:-1, 緯來電影[geo-blocked]
+https://t.freetv.fun/live/wei-lai-dian-ying.m3u8
+#EXTINF:-1, 美亞電影台[TW][geo-blocked]
+https://t.freetv.fun/live/mei-ya-dian-ying.m3u8
 #EXTINF:-1, CHANNEL [V]
 https://t.freetv.fun/live/test-channel-3.m3u8
 #EXTINF:-1, CHANNEL [V]
-https://t.freetv.fun/live/tennis-channel.m3u8
+https://t.freetv.fun/live/magna-channel.m3u8
 #EXTINF:-1, CHANNEL [V]
-https://t.freetv.fun/live/light-channel-1.m3u8
+https://t.freetv.fun/live/channel-11.m3u8
 #EXTINF:-1, CHANNEL [V][geo-blocked]
-https://t.freetv.fun/live/nascar-channel.m3u8
+https://t.freetv.fun/live/channel-y.m3u8
 #EXTINF:-1, CHANNEL [V][geo-blocked]
-https://t.freetv.fun/live/motogp-channel.m3u8
+https://t.freetv.fun/live/light-channel.m3u8
 #EXTINF:-1, CHANNEL [V][geo-blocked]
-https://t.freetv.fun/live/nascar-channel-1.m3u8
-#EXTINF:-1, Taiwan Plus
-https://t.freetv.fun/live/taiwan-plus.m3u8
+https://t.freetv.fun/live/neco-channel.m3u8
+#EXTINF:-1, MEZZO LIVE(TW)
+https://t.freetv.fun/live/mezzo.m3u8
+#EXTINF:-1, TVBS新聞HD
+https://t.freetv.fun/live/tvbsxin-wen-1.m3u8
+#EXTINF:-1, 中天新聞FHD
+https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 #EXTINF:-1, 中天新聞FHD
 https://t.freetv.fun/live/zhong-tian-xin-wen-3.m3u8
 #EXTINF:-1, 中天新聞FHD
-https://t.freetv.fun/live/zhong-tian-xin-wen-1-1.m3u8
-#EXTINF:-1, 中天新聞FHD
-https://t.freetv.fun/live/zhong-tian-xin-wen-1.php
+https://t.freetv.fun/live/zhong-tian-xin-wen.php
 #EXTINF:-1, 寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen.php
 #EXTINF:-1, 寰宇新聞FHD
 https://t.freetv.fun/live/huan-yu-xin-wen-1.m3u8
 #EXTINF:-1, 寰宇新聞FHD
-https://t.freetv.fun/live/huan-yu-xin-wen-2.m3u8
-#EXTINF:-1, 寰宇新聞FHD
 https://t.freetv.fun/live/huan-yu-xin-wen-1-1.m3u8
+#EXTINF:-1, 寰宇新聞FHD
+https://t.freetv.fun/live/huan-yu-xin-wen-2.m3u8
 #EXTINF:-1, 民視新聞HD
 https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
-#EXTINF:-1, 臺視HD
-https://t.freetv.fun/live/tai-shi-1.m3u8
-#EXTINF:-1, 臺視新聞臺
+#EXTINF:-1, 臺視新聞臺[geo-blocked]
 https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
 #EXTINF:-1, 鏡新聞
 https://t.freetv.fun/live/jing-xin-wen.m3u8
-#EXTINF:-1, Food Network(TW)
-https://t.freetv.fun/live/food-network.m3u8
-#EXTINF:-1, Food Network(TW)
-https://t.freetv.fun/live/food-network-1.m3u8
-#EXTINF:-1, Food Network(TW)
+#EXTINF:-1, Food Network(TW)[geo-blocked]
 https://t.freetv.fun/live/food-network-2.m3u8
 #EXTINF:-1, Food Network(TW)[geo-blocked]
+https://t.freetv.fun/live/food-network.m3u8
+#EXTINF:-1, Food Network(TW)
 https://t.freetv.fun/live/food-network-3.m3u8
+#EXTINF:-1, Food Network(TW)
+https://t.freetv.fun/live/food-network-1.m3u8
 #EXTINF:-1, NICE TV
-https://t.freetv.fun/live/unife-tv.m3u8
+https://t.freetv.fun/live/unica-tv.m3u8
 #EXTINF:-1, PET CLUB TV
 https://t.freetv.fun/live/pet-club-tv.m3u8
 #EXTINF:-1, PET CLUB TV
 https://t.freetv.fun/live/pet-club-tv-1.m3u8
-#EXTINF:-1, PET CLUB TV
-https://t.freetv.fun/live/club-tv.m3u8
-#EXTINF:-1, 人間衛視
+#EXTINF:-1, 人間衛視[geo-blocked]
 https://t.freetv.fun/live/ren-jian-wei-shi-1.m3u8
-#EXTINF:-1, 唯心電視
+#EXTINF:-1, 唯心電視[geo-blocked]
 https://t.freetv.fun/live/wei-xin-dian-shi-1.m3u8
-#EXTINF:-1, 唯心電視
+#EXTINF:-1, 唯心電視[geo-blocked]
 https://t.freetv.fun/live/wei-xin-dian-shi.m3u8
 #EXTINF:-1, DAZN 1(TW)
 https://t.freetv.fun/live/dazn-ringside.m3u8
-#EXTINF:-1, DAZN 1(TW)
-https://t.freetv.fun/live/dazn.m3u8
 #EXTINF:-1, DAZN 1(TW)[geo-blocked]
 https://t.freetv.fun/live/dazn-1-de.m3u8
 #EXTINF:-1, DAZN 1(TW)[geo-blocked]
 https://t.freetv.fun/live/dazn-1-pt.m3u8
-#EXTINF:-1, DAZN 2(TW)
-https://t.freetv.fun/live/dazn-ppv.m3u8
-#EXTINF:-1, DAZN 2(TW)
-https://t.freetv.fun/live/dazn-zona-italy.m3u8
 #EXTINF:-1, DAZN 2(TW)[geo-blocked]
-https://t.freetv.fun/live/dazn-2-de.m3u8
+https://t.freetv.fun/live/dazn-4-50fps.m3u8
 #EXTINF:-1, DAZN 2(TW)[geo-blocked]
-https://t.freetv.fun/live/dazn-2-pt.m3u8
+https://t.freetv.fun/live/dazn-3-50fps.m3u8
 #EXTINF:-1, DAZN 2(TW)[geo-blocked]
-https://t.freetv.fun/live/dazn-3-pt.m3u8
-#EXTINF:-1, Eleven sports
+https://t.freetv.fun/live/dazn-5-pt.m3u8
+#EXTINF:-1, Eleven sports[geo-blocked]
 https://t.freetv.fun/live/eleven-sports-2.m3u8
-#EXTINF:-1, Eleven sports
+#EXTINF:-1, Eleven sports[geo-blocked]
 https://t.freetv.fun/live/eleven-sports-1.m3u8
-#EXTINF:-1, ELTA體育2(備用)[geo-blocked]
+#EXTINF:-1, 緯來體育[geo-blocked]
+https://t.freetv.fun/live/wei-lai-ti-yu.m3u8
+#EXTINF:-1, ELTA體育2(備用)
 https://t.freetv.fun/live/cctv4mei-zhou.m3u8
-#EXTINF:-1, ELTA體育4(備用)
-https://t.freetv.fun/live/delta-tv-1.m3u8
+#EXTINF:-1, ELTA體育4(備用)[geo-blocked]
+https://t.freetv.fun/live/delta-tv.m3u8
 #EXTINF:-1, ELTA體育4(備用)
 https://t.freetv.fun/live/delta-tv-2.m3u8
-#EXTINF:-1, ELTA體育4(備用)
-https://t.freetv.fun/live/delta-tv.m3u8
 #EXTINF:-1, C+頻道
 https://t.freetv.fun/live/xiang-gang-c-plus.m3u8
-#EXTINF:-1, C+頻道
+#EXTINF:-1, C+頻道[geo-blocked]
 https://t.freetv.fun/live/la-nacion-plus.m3u8
 #EXTINF:-1, C+頻道[geo-blocked]
 https://t.freetv.fun/live/fifa-plus-his.m3u8
 #EXTINF:-1, RTHK31
 https://t.freetv.fun/live/rthk31.m3u8
-#EXTINF:-1, TVB Plus
-https://t.freetv.fun/live/atv-plus-1.m3u8
-#EXTINF:-1, TVB Plus
-https://t.freetv.fun/live/etv-plus.m3u8
-#EXTINF:-1, TVB Plus
+#EXTINF:-1, TVB Plus[geo-blocked]
+https://t.freetv.fun/live/atv-plus.m3u8
+#EXTINF:-1, TVB Plus[geo-blocked]
 https://t.freetv.fun/live/tvb-plus-1.m3u8
-#EXTINF:-1, ViuTV HD
+#EXTINF:-1, TVB Plus[geo-blocked]
+https://t.freetv.fun/live/tvb-plus.m3u8
+#EXTINF:-1, TVB Plus
+https://t.freetv.fun/live/tvb-plus-2.m3u8
+#EXTINF:-1, TVB Plus
+https://t.freetv.fun/live/tvb-plus-3.m3u8
+#EXTINF:-1, ViuTV HD[geo-blocked]
 https://t.freetv.fun/live/viutv-1.m3u8
-#EXTINF:-1, ViuTV HD
-https://t.freetv.fun/live/viutv-2.m3u8
 #EXTINF:-1, ViuTVsix
 https://t.freetv.fun/live/viutvsix-1.m3u8
-#EXTINF:-1, ViuTVsix
-https://t.freetv.fun/live/viutvsix-2.m3u8
 #EXTINF:-1, 星空衛視
 https://t.freetv.fun/live/xing-kong-wei-shi-2.m3u8
-#EXTINF:-1, 有線綜合娛樂臺
-https://t.freetv.fun/live/you-xian-zong-he-1.m3u8
-#EXTINF:-1, TVB J1
-https://t.freetv.fun/live/tvbj1.m3u8
-#EXTINF:-1, TVB1(US)
-https://t.freetv.fun/live/tvb1.m3u8
 #EXTINF:-1, 翡翠台
-https://t.freetv.fun/live/fei-cui-3.m3u8
+https://t.freetv.fun/live/fei-cui-6.m3u8
 #EXTINF:-1, 翡翠台
-https://t.freetv.fun/live/fei-cui-4.m3u8
+https://t.freetv.fun/live/fei-cui-tai.m3u8
 #EXTINF:-1, 翡翠台
-https://t.freetv.fun/live/fei-cui-2.m3u8
+https://t.freetv.fun/live/fei-cui.m3u8
 #EXTINF:-1, 翡翠台[geo-blocked]
 https://t.freetv.fun/live/fei-cui-1.m3u8
-#EXTINF:-1, 鳳凰衛視中文
-https://t.freetv.fun/live/feng-huang-zhong-wen.m3u8
-#EXTINF:-1, 鳳凰衛視中文
-https://t.freetv.fun/live/feng-huang-zhong-wen-2.m3u8
-#EXTINF:-1, 鳳凰衛視中文
-https://t.freetv.fun/live/feng-huang-zhong-wen-1.m3u8
+#EXTINF:-1, 翡翠台[geo-blocked]
+https://t.freetv.fun/live/fei-cui-2.m3u8
 #EXTINF:-1, 鳳凰衛視中文[geo-blocked]
 https://t.freetv.fun/live/feng-huang-wei-shi-zhong-wen.m3u8
-#EXTINF:-1, 鳳凰香港
-https://t.freetv.fun/live/feng-huang-xiang-gang.m3u8
-#EXTINF:-1, 鳳凰香港
-https://t.freetv.fun/live/feng-huang-xiang-gang-1.m3u8
+#EXTINF:-1, 鳳凰衛視中文
+https://t.freetv.fun/live/feng-huang-wei-shi-zhong-wen-1.m3u8
+#EXTINF:-1, 鳳凰衛視中文
+https://t.freetv.fun/live/feng-huang-wei-shi-zhong-wen-1-1.m3u8
 #EXTINF:-1, 鳳凰香港[geo-blocked]
 https://t.freetv.fun/live/feng-huang-wei-shi-xiang-gang.m3u8
+#EXTINF:-1, 鳳凰香港[geo-blocked]
+https://t.freetv.fun/live/feng-huang-xiang-gang.php
 #EXTINF:-1, Animax(HK)
 https://t.freetv.fun/live/cctv-8dian-shi-ju.m3u8
 #EXTINF:-1, Animax(HK)
-https://t.freetv.fun/live/cctv-12she-hui-yu-fa.m3u8
+https://t.freetv.fun/live/cctv-5ti-yu.m3u8
 #EXTINF:-1, Animax(HK)
-https://t.freetv.fun/live/cctv-9ji-lu.m3u8
-#EXTINF:-1, Animax(HK)[geo-blocked]
 https://t.freetv.fun/live/cctv-1zong-he-1.m3u8
 #EXTINF:-1, Discovery Kids[geo-blocked]
 https://t.freetv.fun/live/discovery-kids.m3u8
-#EXTINF:-1, AXN(HK)
-https://t.freetv.fun/live/axn-cee.m3u8
 #EXTINF:-1, MOVIE MOVIE
 https://t.freetv.fun/live/tvs-drive-in-movie.m3u8
 #EXTINF:-1, MOVIE MOVIE
-https://t.freetv.fun/live/tvs-drive-in-movie-360p.m3u8
-#EXTINF:-1, MOVIE MOVIE
 https://t.freetv.fun/live/mytime-movie-network-2.m3u8
+#EXTINF:-1, MOVIE MOVIE
+https://t.freetv.fun/live/tvs-drive-in-movie-360p.m3u8
 #EXTINF:-1, MOVIE MOVIE[geo-blocked]
-https://t.freetv.fun/live/xuan-yi-movie.m3u8
+https://t.freetv.fun/live/movies.m3u8
 #EXTINF:-1, TVB 亞洲武俠
 https://t.freetv.fun/live/asian.m3u8
-#EXTINF:-1, TVB 亞洲武俠
-https://t.freetv.fun/live/tvbya-zhou-wu-xia.m3u8
 #EXTINF:-1, TVB亞洲劇
 https://t.freetv.fun/live/tvbsya-zhou.m3u8
-#EXTINF:-1, TVB功夫台
-https://t.freetv.fun/live/tvbgong-fu.m3u8
 #EXTINF:-1, TVB星河(粵)
 https://t.freetv.fun/live/tvbxing-he.m3u8
-#EXTINF:-1, TVB星河(粵)
-https://t.freetv.fun/live/tvbxing-he-2.m3u8
-#EXTINF:-1, TVB星河(粵)
+#EXTINF:-1, TVB星河(粵)[geo-blocked]
 https://t.freetv.fun/live/tvbxing-he-1.m3u8
-#EXTINF:-1, 明珠
-https://t.freetv.fun/live/98-1-pearl-fm.m3u8
-#EXTINF:-1, 明珠
-https://t.freetv.fun/live/ming-zhu-4.m3u8
-#EXTINF:-1, 明珠臺(備)
-https://t.freetv.fun/live/ming-zhu-3.m3u8
 #EXTINF:-1, 明珠臺(備)
 https://t.freetv.fun/live/ming-zhu.m3u8
+#EXTINF:-1, 明珠臺(備)
+https://t.freetv.fun/live/ming-zhu-3.m3u8
 #EXTINF:-1, 明珠臺(備)
 https://t.freetv.fun/live/ming-zhu-2.m3u8
 #EXTINF:-1, 明珠臺(備)[geo-blocked]
@@ -332,157 +232,101 @@ https://t.freetv.fun/live/cctv1-3.m3u8
 #EXTINF:-1, CCTV1(RTHK33)
 https://t.freetv.fun/live/cctv-1.m3u8
 #EXTINF:-1, CCTV1(RTHK33)
-https://t.freetv.fun/live/cctv1-4.m3u8
-#EXTINF:-1, CCTV1(RTHK33)[geo-blocked]
-https://t.freetv.fun/live/cctv1-11.m3u8
+https://t.freetv.fun/live/cctv1-10.m3u8
 #EXTINF:-1, CCTV1(RTHK33)[geo-blocked]
 https://t.freetv.fun/live/cctv-1-2.m3u8
 #EXTINF:-1, CCTV1(RTHK33)[geo-blocked]
-https://t.freetv.fun/live/cctv1hd.m3u8
-#EXTINF:-1, HOY TV
-https://t.freetv.fun/live/hoytv.m3u8
-#EXTINF:-1, HOY TV
-https://t.freetv.fun/live/hoy-tv.m3u8
-#EXTINF:-1, HOY TV
-https://t.freetv.fun/live/hoy-tv-1.m3u8
-#EXTINF:-1, HOY資訊台
-https://t.freetv.fun/live/hoyzi-xun.m3u8
-#EXTINF:-1, HOY資訊台
-https://t.freetv.fun/live/hoyzi-xun-1.m3u8
-#EXTINF:-1, HOY資訊台
-https://t.freetv.fun/live/hoyzi-xun-2.m3u8
-#EXTINF:-1, NOW 新聞臺
-https://t.freetv.fun/live/nowxin-wen-3.m3u8
+https://t.freetv.fun/live/cctv-4kchao-gao-qing-6.m3u8
+#EXTINF:-1, CCTV1(RTHK33)[geo-blocked]
+https://t.freetv.fun/live/cctv1hd-5.m3u8
 #EXTINF:-1, NOW 新聞臺
 https://t.freetv.fun/live/nowxin-wen-1.m3u8
 #EXTINF:-1, NOW 新聞臺
-https://t.freetv.fun/live/nowxin-wen-2.m3u8
-#EXTINF:-1, RTHK32
-https://t.freetv.fun/live/rthk32-1.m3u8
-#EXTINF:-1, RTHK32
-https://t.freetv.fun/live/rthk32.m3u8
-#EXTINF:-1, RTHK32
-https://t.freetv.fun/live/rthk33.m3u8
+https://t.freetv.fun/live/nowxin-wen.php
 #EXTINF:-1, now 財經臺
 https://t.freetv.fun/live/nowcai-jing.m3u8
 #EXTINF:-1, now直播台
 https://t.freetv.fun/live/nowzhi-bo.m3u8
 #EXTINF:-1, 無線新聞台
 https://t.freetv.fun/live/wu-xian-xin-wen.m3u8
-#EXTINF:-1, 無線新聞台
-https://t.freetv.fun/live/wu-xian-xin-wen-2.m3u8
-#EXTINF:-1, 無線新聞台
-https://t.freetv.fun/live/wu-xian-xin-wen-3.m3u8
 #EXTINF:-1, 鳳凰資訊HD
-https://t.freetv.fun/live/feng-huang-wei-shi-zi-xun-2.m3u8
-#EXTINF:-1, 鳳凰資訊HD
-https://t.freetv.fun/live/feng-huang-zi-xun-1.m3u8
-#EXTINF:-1, 鳳凰資訊HD
-https://t.freetv.fun/live/feng-huang-zi-xun-2.m3u8
-#EXTINF:-1, 鳳凰資訊HD[geo-blocked]
-https://t.freetv.fun/live/feng-huang-wei-shi-zi-xun.m3u8
+https://t.freetv.fun/live/feng-huang-zi-xun-6.php
 #EXTINF:-1, Sports Plus 1
 https://t.freetv.fun/live/cowboy-plus-sports.m3u8
 #EXTINF:-1, now Sports HD
 https://t.freetv.fun/live/nbc-sports-now.m3u8
-#EXTINF:-1, now Sports HD
-https://t.freetv.fun/live/now-sports.m3u8
-#EXTINF:-1, Now Sports 618
+#EXTINF:-1, Now Sports 618[geo-blocked]
 https://t.freetv.fun/live/now-618hd.php
-#EXTINF:-1, [BD]amc電影
-https://t.freetv.fun/live/amcdian-ying-1.m3u8
-#EXTINF:-1, [BD]amc电影台 *tv
-https://t.freetv.fun/live/amcdian-ying-tai-tv.m3u8
 #EXTINF:-1, [BD]bbc earth
-https://t.freetv.fun/live/bbc-earth-2.m3u8
+https://t.freetv.fun/live/bbc-earth.m3u8
 #EXTINF:-1, [BD]bbc earth
 https://t.freetv.fun/live/bbc-earth-1.m3u8
+#EXTINF:-1, [BD]bbc earth
+https://t.freetv.fun/live/bbc-earth-2.m3u8
 #EXTINF:-1, [SD]bbc earth
 https://t.freetv.fun/live/bbc-earth-3.m3u8
 #EXTINF:-1, [BD]test channel 3
 https://t.freetv.fun/live/test-channel-3.m3u8
 #EXTINF:-1, [BD]tennis channel
 https://t.freetv.fun/live/tennis-channel.m3u8
-#EXTINF:-1, [BD]tennis channel
-https://t.freetv.fun/live/tennis-channel-1.m3u8
 #EXTINF:-1, [SD]light channel
 https://t.freetv.fun/live/light-channel.m3u8
 #EXTINF:-1, [VGA]light channel
 https://t.freetv.fun/live/light-channel-1.m3u8
-#EXTINF:-1, [VGA]light channel
-https://t.freetv.fun/live/light-channel-2.m3u8
-#EXTINF:-1, [BD]chile channel
-https://t.freetv.fun/live/chile-channel.m3u8
+#EXTINF:-1, [BD]magna channel
+https://t.freetv.fun/live/magna-channel.m3u8
 #EXTINF:-1, [BD]channel y
 https://t.freetv.fun/live/channel-y.m3u8
-#EXTINF:-1, [HD]mo channel
-https://t.freetv.fun/live/mo-channel.m3u8
 #EXTINF:-1, [HD]channel 11
 https://t.freetv.fun/live/channel-11.m3u8
 #EXTINF:-1, [HD]xplore channel
 https://t.freetv.fun/live/xplore-channel.m3u8
-#EXTINF:-1, [BD]gs channel
-https://t.freetv.fun/live/gs-channel.m3u8
-#EXTINF:-1, [HD]bom channel
-https://t.freetv.fun/live/bom-channel.m3u8
 #EXTINF:-1, [HD]kurd channel
 https://t.freetv.fun/live/kurd-channel.m3u8
+#EXTINF:-1, [HD]neco channel
+https://t.freetv.fun/live/neco-channel.m3u8
 #EXTINF:-1, [SD]chile channel (720p)
 https://t.freetv.fun/live/chile-channel-720p.m3u8
-#EXTINF:-1, [BD]nascar channel
-https://t.freetv.fun/live/nascar-channel-1.m3u8
 #EXTINF:-1, [BD]nascar channel
 https://t.freetv.fun/live/nascar-channel.m3u8
 #EXTINF:-1, [BD]motogp channel
 https://t.freetv.fun/live/motogp-channel.m3u8
-#EXTINF:-1, [BD]motogp channel
-https://t.freetv.fun/live/motogp-channel-1.m3u8
-#EXTINF:-1, [BD]the lego channel
-https://t.freetv.fun/live/the-lego-channel.m3u8
 #EXTINF:-1, [BD]the lego channel
 https://t.freetv.fun/live/the-lego-channel-1.m3u8
-#EXTINF:-1, [BD]impact channel
-https://t.freetv.fun/live/impact-channel.m3u8
+#EXTINF:-1, [VGA]channel 18 gac
+https://t.freetv.fun/live/channel-18-gac.m3u8
+#EXTINF:-1, [BD]shogi channel
+https://t.freetv.fun/live/shogi-channel.m3u8
+#EXTINF:-1, [BD]tetsudo channel
+https://t.freetv.fun/live/tetsudo-channel.m3u8
+#EXTINF:-1, [BD]mystery channel
+https://t.freetv.fun/live/mystery-channel.m3u8
 #EXTINF:-1, [HD]4music
 https://t.freetv.fun/live/4music.m3u8
-#EXTINF:-1, [BD]CMUSIC *tv
-https://t.freetv.fun/live/cmusic-tv.m3u8
 #EXTINF:-1, [BD]cn卡通
 https://t.freetv.fun/live/cnqia-tong.m3u8
 #EXTINF:-1, [BD]dazn ringside
 https://t.freetv.fun/live/dazn-ringside.m3u8
-#EXTINF:-1, [BD]dazn 1 de
+#EXTINF:-1, [HD]dazn 1 de
 https://t.freetv.fun/live/dazn-1-de.m3u8
-#EXTINF:-1, [BD]dazn
-https://t.freetv.fun/live/dazn.m3u8
 #EXTINF:-1, [HD]dazn 1 pt
 https://t.freetv.fun/live/dazn-1-pt.m3u8
-#EXTINF:-1, [HD]dazn ppv
-https://t.freetv.fun/live/dazn-ppv.m3u8
+#EXTINF:-1, [BD]dazn 4 50fps
+https://t.freetv.fun/live/dazn-4-50fps.m3u8
+#EXTINF:-1, [BD]dazn 3 50fps
+https://t.freetv.fun/live/dazn-3-50fps.m3u8
 #EXTINF:-1, [HD]dazn 5 pt
 https://t.freetv.fun/live/dazn-5-pt.m3u8
-#EXTINF:-1, [BD]dazn 2 de
-https://t.freetv.fun/live/dazn-2-de.m3u8
 #EXTINF:-1, [HD]dazn 2 pt
 https://t.freetv.fun/live/dazn-2-pt.m3u8
 #EXTINF:-1, [VGA]dazn 3 pt
 https://t.freetv.fun/live/dazn-3-pt.m3u8
-#EXTINF:-1, [HD]dazn zona italy
-https://t.freetv.fun/live/dazn-zona-italy.m3u8
-#EXTINF:-1, [SD]discovery
-https://t.freetv.fun/live/discovery.m3u8
 #EXTINF:-1, [BD]discovery
-https://t.freetv.fun/live/discovery-1.m3u8
-#EXTINF:-1, [BD]dreamworks
-https://t.freetv.fun/live/dreamworks.m3u8
-#EXTINF:-1, [VGA]tele8 tv
-https://t.freetv.fun/live/tele8-tv.m3u8
-#EXTINF:-1, [HD]cctv4美洲
+https://t.freetv.fun/live/discovery-2.m3u8
+#EXTINF:-1, [BD]cctv4美洲
 https://t.freetv.fun/live/cctv4mei-zhou.m3u8
 #EXTINF:-1, [BD]delta tv
 https://t.freetv.fun/live/delta-tv.m3u8
-#EXTINF:-1, [VGA]delta tv
-https://t.freetv.fun/live/delta-tv-1.m3u8
 #EXTINF:-1, [VGA]delta tv
 https://t.freetv.fun/live/delta-tv-2.m3u8
 #EXTINF:-1, [BD]eleven sports 2
@@ -507,29 +351,27 @@ https://t.freetv.fun/live/hgtv-1.m3u8
 https://t.freetv.fun/live/hollywood.m3u8
 #EXTINF:-1, [BD]young hollywood
 https://t.freetv.fun/live/young-hollywood.m3u8
-#EXTINF:-1, [VGA]lifetime
-https://t.freetv.fun/live/lifetime.m3u8
 #EXTINF:-1, [BD]lifetime
 https://t.freetv.fun/live/lifetime-1.m3u8
-#EXTINF:-1, [BD]love nature
-https://t.freetv.fun/live/love-nature.m3u8
+#EXTINF:-1, [HD]love nature
+https://t.freetv.fun/live/love-nature-2.m3u8
 #EXTINF:-1, [BD]love nature
 https://t.freetv.fun/live/love-nature-3.m3u8
 #EXTINF:-1, [BD]love nature
+https://t.freetv.fun/live/love-nature-6.m3u8
+#EXTINF:-1, [BD]love nature
 https://t.freetv.fun/live/love-nature-5.m3u8
-#EXTINF:-1, [HD]love nature
-https://t.freetv.fun/live/love-nature-2.m3u8
 #EXTINF:-1, [BD]love nature ca
 https://t.freetv.fun/live/love-nature-ca.m3u8
-#EXTINF:-1, [BD]unife tv
-https://t.freetv.fun/live/unife-tv.m3u8
+#EXTINF:-1, [BD]mezzo
+https://t.freetv.fun/live/mezzo.m3u8
+#EXTINF:-1, [BD]unica tv
+https://t.freetv.fun/live/unica-tv.m3u8
 #EXTINF:-1, [BD]pet club tv
 https://t.freetv.fun/live/pet-club-tv.m3u8
 #EXTINF:-1, [BD]pet club tv
 https://t.freetv.fun/live/pet-club-tv-1.m3u8
-#EXTINF:-1, [HD]club tv
-https://t.freetv.fun/live/club-tv.m3u8
-#EXTINF:-1, [HD]folklore tv
+#EXTINF:-1, [BD]folklore tv
 https://t.freetv.fun/live/folklore-tv.m3u8
 #EXTINF:-1, [SD]smithsonian channel selects
 https://t.freetv.fun/live/smithsonian-channel-selects.m3u8
@@ -537,407 +379,61 @@ https://t.freetv.fun/live/smithsonian-channel-selects.m3u8
 https://t.freetv.fun/live/smithsonian-channel.m3u8
 #EXTINF:-1, [HD]gold star
 https://t.freetv.fun/live/gold-star.m3u8
-#EXTINF:-1, [BD]taiwan plus
-https://t.freetv.fun/live/taiwan-plus.m3u8
+#EXTINF:-1, [HD]tvbs
+https://t.freetv.fun/live/tvbs.m3u8
+#EXTINF:-1, [VGA]tvbs新闻
+https://t.freetv.fun/live/tvbsxin-wen-1.m3u8
 #EXTINF:-1, [BD]tudn
 https://t.freetv.fun/live/tudn.m3u8
 #EXTINF:-1, [BD]中天新聞
-https://t.freetv.fun/live/zhong-tian-xin-wen-1.php
+https://t.freetv.fun/live/zhong-tian-xin-wen.php
 #EXTINF:-1, [VGA]中天新闻
-https://t.freetv.fun/live/zhong-tian-xin-wen-1-1.m3u8
+https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
 #EXTINF:-1, [BD]中天新闻
 https://t.freetv.fun/live/zhong-tian-xin-wen-3.m3u8
 #EXTINF:-1, [HD]人间卫视
 https://t.freetv.fun/live/ren-jian-wei-shi-1.m3u8
-#EXTINF:-1, [BD]公視戲劇
-https://t.freetv.fun/live/gong-shi-xi-ju-1.m3u8
-#EXTINF:-1, [BD]公视戏剧 *tv
-https://t.freetv.fun/live/gong-shi-xi-ju-tv.m3u8
 #EXTINF:-1, [VGA]唯心电视
 https://t.freetv.fun/live/wei-xin-dian-shi.m3u8
 #EXTINF:-1, [VGA]唯心电视
 https://t.freetv.fun/live/wei-xin-dian-shi-1.m3u8
-#EXTINF:-1, [BD]好萊塢電影
-https://t.freetv.fun/live/hao-lai-wu-dian-ying.m3u8
 #EXTINF:-1, [BD]寰宇新聞
 https://t.freetv.fun/live/huan-yu-xin-wen.php
 #EXTINF:-1, [VGA]寰宇新闻
 https://t.freetv.fun/live/huan-yu-xin-wen-1.m3u8
 #EXTINF:-1, [VGA]寰宇新闻
 https://t.freetv.fun/live/huan-yu-xin-wen-1-1.m3u8
-#EXTINF:-1, [VGA]寰宇新闻
+#EXTINF:-1, [BD]寰宇新闻
 https://t.freetv.fun/live/huan-yu-xin-wen-2.m3u8
-#EXTINF:-1, [BD]影迷數位電影
-https://t.freetv.fun/live/ying-mi-shu-wei-dian-ying.m3u8
-#EXTINF:-1, [BD]东森电影
-https://t.freetv.fun/live/dong-sen-dian-ying.m3u8
-#EXTINF:-1, [BD]民視
-https://t.freetv.fun/live/min-shi-1.ts
+#EXTINF:-1, [BD]东森戏剧
+https://t.freetv.fun/live/dong-sen-xi-ju.m3u8
+#EXTINF:-1, [HD]东森洋片
+https://t.freetv.fun/live/dong-sen-yang-pian.m3u8
 #EXTINF:-1, [BD]民视
 https://t.freetv.fun/live/min-shi-3.m3u8
 #EXTINF:-1, [BD]民视 *28
 https://t.freetv.fun/live/min-shi-28.m3u8
-#EXTINF:-1, [BD]民視影劇
-https://t.freetv.fun/live/min-shi-ying-ju-1.m3u8
-#EXTINF:-1, [BD]民视影剧 *tv
-https://t.freetv.fun/live/min-shi-ying-ju-tv.m3u8
 #EXTINF:-1, [BD]民视新闻
 https://t.freetv.fun/live/min-shi-xin-wen-1.m3u8
-#EXTINF:-1, [BD]精選動漫
-https://t.freetv.fun/live/jing-xuan-dong-man.m3u8
 #EXTINF:-1, [HD]经典电影
 https://t.freetv.fun/live/jing-dian-dian-ying.m3u8
+#EXTINF:-1, [SD]经典电影
+https://t.freetv.fun/live/jing-dian-dian-ying-1.m3u8
+#EXTINF:-1, [HD]经典香港电影
+https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying-1.m3u8
 #EXTINF:-1, [HD]经典香港电影
 https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying.m3u8
-#EXTINF:-1, [BD]經典電影
-https://t.freetv.fun/live/jing-dian-dian-ying-1.m3u8
-#EXTINF:-1, [BD]台視
-https://t.freetv.fun/live/tai-shi-1.m3u8
+#EXTINF:-1, [HD]经典香港电影
+https://t.freetv.fun/live/jing-dian-xiang-gang-dian-ying-2.php
+#EXTINF:-1, [BD]纬来电影
+https://t.freetv.fun/live/wei-lai-dian-ying.m3u8
+#EXTINF:-1, [BD]纬来体育
+https://t.freetv.fun/live/wei-lai-ti-yu.m3u8
+#EXTINF:-1, [HD]美亚电影
+https://t.freetv.fun/live/mei-ya-dian-ying.m3u8
 #EXTINF:-1, [BD]台視新聞
 https://t.freetv.fun/live/tai-shi-xin-wen.m3u8
-#EXTINF:-1, [BD]華視
-https://t.freetv.fun/live/hua-shi-2.ts
-#EXTINF:-1, [BD]采昌影劇
-https://t.freetv.fun/live/cai-chang-ying-ju.m3u8
-#EXTINF:-1, [BD]采昌影剧 *tv
-https://t.freetv.fun/live/cai-chang-ying-ju-tv.m3u8
-#EXTINF:-1, [BD]金光布袋戲
-https://t.freetv.fun/live/jin-guang-bu-dai-xi-1.m3u8
 #EXTINF:-1, [BD]金光布袋戏
-https://t.freetv.fun/live/jin-guang-bu-dai-xi.m3u8
+https://t.freetv.fun/live/jin-guang-bu-dai-xi-1.m3u8
 #EXTINF:-1, [VGA]镜新闻
 https://t.freetv.fun/live/jing-xin-wen.m3u8
-#EXTINF:-1, [BD]靖天戲劇
-https://t.freetv.fun/live/jing-tian-xi-ju-1.m3u8
-#EXTINF:-1, [BD]靖天戏剧 *tv
-https://t.freetv.fun/live/jing-tian-xi-ju-tv.m3u8
-#EXTINF:-1, [BD]靖天映畫
-https://t.freetv.fun/live/jing-tian-ying-hua.m3u8
-#EXTINF:-1, [BD]靖天映画 *tv
-https://t.freetv.fun/live/jing-tian-ying-hua-tv.m3u8
-#EXTINF:-1, [BD]靖天電影
-https://t.freetv.fun/live/jing-tian-dian-ying.m3u8
-#EXTINF:-1, [BD]靖天电影 *tv
-https://t.freetv.fun/live/jing-tian-dian-ying-tv.m3u8
-#EXTINF:-1, [BD]靖洋戲劇
-https://t.freetv.fun/live/jing-yang-xi-ju-1.m3u8
-#EXTINF:-1, [BD]靖洋戏剧 *tv
-https://t.freetv.fun/live/jing-yang-xi-ju-tv.m3u8
-#EXTINF:-1, [BD]龍華偶像
-https://t.freetv.fun/live/long-hua-ou-xiang.m3u8
-#EXTINF:-1, [BD]龙华偶像 *tv
-https://t.freetv.fun/live/long-hua-ou-xiang-tv.m3u8
-#EXTINF:-1, [HD]龍華卡通
-https://t.freetv.fun/live/long-hua-qia-tong.m3u8
-#EXTINF:-1, [HD]龙华卡通 *tv
-https://t.freetv.fun/live/long-hua-qia-tong-tv.m3u8
-#EXTINF:-1, [BD]龍華戲劇
-https://t.freetv.fun/live/long-hua-xi-ju.m3u8
-#EXTINF:-1, [BD]龙华戏剧 *tv
-https://t.freetv.fun/live/long-hua-xi-ju-tv.m3u8
-#EXTINF:-1, [BD]龍華日韓
-https://t.freetv.fun/live/long-hua-ri-han.m3u8
-#EXTINF:-1, [BD]龙华日韩 *tv
-https://t.freetv.fun/live/long-hua-ri-han-tv.m3u8
-#EXTINF:-1, [BD]龍華洋片
-https://t.freetv.fun/live/long-hua-yang-pian.m3u8
-#EXTINF:-1, [BD]龙华洋片 *tv
-https://t.freetv.fun/live/long-hua-yang-pian-tv.m3u8
-#EXTINF:-1, [BD]龍華經典
-https://t.freetv.fun/live/long-hua-jing-dian.m3u8
-#EXTINF:-1, [BD]龙华经典 *tv
-https://t.freetv.fun/live/long-hua-jing-dian-tv.m3u8
-#EXTINF:-1, [BD]龍華電影
-https://t.freetv.fun/live/long-hua-dian-ying.m3u8
-#EXTINF:-1, [BD]龙华电影 *tv
-https://t.freetv.fun/live/long-hua-dian-ying-tv.m3u8
-#EXTM3U
-#EXTINF:-1,Potplayer,Tivimate,OTT navigator可用，其它软件自行测试
-https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
-#EXTINF:-1,CNN BRASIL
-https://kong.pp.ua/iptv/live1.php?channel=63b0ca7fb9e602304be0c0704ddaa3ec&expiry=1782275464&token=6bf2ade143e9d9debc63419b1d55ad3c
-#EXTINF:-1,CNN BRASIL HDR
-https://kong.pp.ua/iptv/live1.php?channel=d80e2472921abac7d095b00a1070bb54&expiry=1782275464&token=81bfe2bb7b6ff0b329989c75d6546b99
-#EXTINF:-1,CNN ESPANHOL
-https://kong.pp.ua/iptv/live1.php?channel=ce166a2ee35c2199de01d2878469d7e1&expiry=1782275464&token=b5ecb1416d6d2a7dec493f1912ea6184
-#EXTINF:-1,CNN INTERNACIONAL
-https://kong.pp.ua/iptv/live1.php?channel=7a09a24be22b6a3ff2b23f682b56cf63&expiry=1782275464&token=ea54debb6c9a08d8773504d93b3b4361
-#EXTINF:-1,CNN
-https://kong.pp.ua/iptv/live1.php?channel=c2612c5469958783e8c002153fcb325f&expiry=1782275464&token=c11333cbf8892e2f2412c1701175b3de
-#EXTINF:-1,CNN
-https://kong.pp.ua/iptv/live1.php?channel=f96ce48479045667d5d52eefdf8c6162&expiry=1782275464&token=de31f81fa2c5d9d9d24287a703bc302b
-#EXTINF:-1,CNN
-https://kong.pp.ua/iptv/live1.php?channel=6179cf561b46b87792162b718715d1a4&expiry=1782275464&token=702afa78784ab56ec3f05982b706f887
-#EXTINF:-1,Sky Sports Action
-https://kong.pp.ua/iptv/live1.php?channel=ee0465b90756e4f14e15fdbb8e7de544&expiry=1782275464&token=285f3efe668c567ce5bd5c85e4efd1d0
-#EXTINF:-1,Sky Sports Arena
-https://kong.pp.ua/iptv/live1.php?channel=657f6b5ebf6e43ab1720bf84cd79732e&expiry=1782275464&token=4dc06975fe566567e46f85e3b6c931bc
-#EXTINF:-1,Sky Sports F1 FHD
-https://kong.pp.ua/iptv/live1.php?channel=c4db05b45446f6bc58c6ad19f5aa6896&expiry=1782275464&token=6e1ed5a1131a4596c349e7241e02f79b
-#EXTINF:-1,Sky Sports Golf FHD
-https://kong.pp.ua/iptv/live1.php?channel=95b57164b14b4a412c4eb2f1e90976b5&expiry=1782275464&token=7984efcbbeecbac5e781498b7c457069
-#EXTINF:-1,Sky Sports Main Event
-https://kong.pp.ua/iptv/live1.php?channel=f1a0cf4b71828fdf9747c0e08fe73cab&expiry=1782275464&token=d76dacad06a21853fa914041ae4f7f74
-#EXTINF:-1,Sky Sports Mix FHD
-https://kong.pp.ua/iptv/live1.php?channel=3bc0e0ea3c31e249da4cd5a256d39133&expiry=1782275464&token=7527b4f9bc5a5bed95028de09de0c3dc
-#EXTINF:-1,Sky Sports News
-https://kong.pp.ua/iptv/live1.php?channel=f49a2aa8306ae93d025ad1dd85cec89a&expiry=1782275464&token=3454301a55ca847dfea08ba7028fc581
-#EXTINF:-1,Sky Sports Cricket FHD
-https://kong.pp.ua/iptv/live1.php?channel=81e2bfd28a665802070d948f28218b8b&expiry=1782275464&token=e9d1f88e534be19e03c7d88ae346b532
-#EXTINF:-1,Sky Sports F1 FHD
-https://kong.pp.ua/iptv/live1.php?channel=7b8f5a72b16e29bc3dfe159c86b5fecb&expiry=1782275464&token=e1970999fe1916cdbe50e12b05c17c0a
-#EXTINF:-1,CNN
-https://kong.pp.ua/iptv/live1.php?channel=cd2c9406a8124733ceaf85f41dfcd53a&expiry=1782275464&token=694443f03d36e94a1441216d5e6e8696
-#EXTINF:-1,CNN
-https://kong.pp.ua/iptv/live1.php?channel=8a22d21464a4753376ddbf27f1482e55&expiry=1782275464&token=910e0e13f7ce926b31761795b4f1333e
-#EXTINF:-1,SKY SPORTS ARENA FHD
-https://kong.pp.ua/iptv/live1.php?channel=ecd97fad9a91dae622c95429879b2c83&expiry=1782275464&token=b88d75138c19ed85f62fe33ffb8dff8a
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-https://kong.pp.ua/iptv/live1.php?channel=19e621e91d0b6331df0419739cd5da95&expiry=1782275464&token=9475d8f05780bb039a3e24f376c6fd47
-#EXTINF:-1,CNN BRASIL
-https://kong.pp.ua/iptv/live1.php?channel=411d38bc193a63761be3c1421a0794b6&expiry=1782275464&token=352e29dd37638f1dafc51a9bc8b6de5e
-#EXTINF:-1,CNN BRASIL HDR
-https://kong.pp.ua/iptv/live1.php?channel=502dd1a4becfced8fef144b859d515e6&expiry=1782275464&token=d6dfdf23a56dd80423070f5b28675534
-#EXTINF:-1,CNN ESPANHOL
-https://kong.pp.ua/iptv/live1.php?channel=860bd1bfb7d96b4aa86d998f61535cff&expiry=1782275464&token=c90962bfa8d7033e23b3a2c8e80b4a48
-#EXTINF:-1,CNN INTERNACIONAL
-https://kong.pp.ua/iptv/live1.php?channel=49edf351b05a9649f90e966a0a56ae7c&expiry=1782275464&token=f77f4475e6af75da289e28ba49b8014e
-#EXTINF:-1,CNN BRASIL
-https://kong.pp.ua/iptv/live1.php?channel=da153c007c5320555c5ccf98149ca898&expiry=1782275464&token=c240052171b968227565234fd1eee1fd
-#EXTINF:-1,CNN BRASIL HDR
-https://kong.pp.ua/iptv/live1.php?channel=83ed186584e9c9da0667fdf720fe7cc4&expiry=1782275464&token=27bcb93a8a240fca9132a4cc3b8a380b
-#EXTINF:-1,CNN ESPANHOL
-https://kong.pp.ua/iptv/live1.php?channel=017106b624d98d8228306b0b1efe764a&expiry=1782275464&token=dafa6bd62ec95e3b0ec94debeec91933
-#EXTINF:-1,CNN INTERNACIONAL 4K
-https://kong.pp.ua/iptv/live1.php?channel=619e8548bfae6fda8ed3ddb8abb59da1&expiry=1782275464&token=cd915476cd35222a612295f38c713fc1
-#EXTINF:-1,Sky Sports Action
-https://kong.pp.ua/iptv/live1.php?channel=0d5efd89f060cdf91ffbeb5b95c6c636&expiry=1782275464&token=14a127de9f8cf6ed1b6b3eb6b153dd4b
-#EXTINF:-1,Sky Sports Arena
-https://kong.pp.ua/iptv/live1.php?channel=f86221c992449ccd564d45375b8baf4f&expiry=1782275464&token=b60ebc6027ca3fafe3b3700529925ad8
-#EXTINF:-1,Sky Sports F1 FHD
-https://kong.pp.ua/iptv/live1.php?channel=4bc8b05b7d3cfb2acb7b6748e9bd9e8f&expiry=1782275464&token=16ec3828eb5695e66d6869b7fa58487c
-#EXTINF:-1,Sky Sports Golf FHD
-https://kong.pp.ua/iptv/live1.php?channel=a3ebbcd35f5ebc300b8f4fcb9586ca28&expiry=1782275464&token=1fdcb1eb214d0e946201cf8ec1e2317c
-#EXTINF:-1,Sky Sports Main Event
-https://kong.pp.ua/iptv/live1.php?channel=777aed5a74d3f11d40fbfbca8a432b7a&expiry=1782275464&token=36e5b426f4b3b7e1ba5b3d38bd2ad6fa
-#EXTINF:-1,Sky Sports Mix FHD
-https://kong.pp.ua/iptv/live1.php?channel=3c864ac1d90bd414153889aa2fe3539f&expiry=1782275464&token=2af8044e0b201fcf0fe92f1857d6b966
-#EXTINF:-1,Sky Sports News
-https://kong.pp.ua/iptv/live1.php?channel=75fdad715352a9666b7683aa994e2a62&expiry=1782275464&token=a96a20a244b972794d11d91dfd387bac
-#EXTINF:-1,Sky Sports Cricket FHD
-https://kong.pp.ua/iptv/live1.php?channel=1402990db67fa797ab3492ccdfc8ba66&expiry=1782275464&token=91f5dbb0470fffc52d6303b6b0feef88
-#EXTINF:-1,Sky Sports F FHD
-https://kong.pp.ua/iptv/live1.php?channel=6447a00537a808a1630b70fa42cdedec&expiry=1782275464&token=ee139828b5d700d78597d120c5cbe734
-#EXTINF:-1,SKY SPORTS ARENA FHD
-https://kong.pp.ua/iptv/live1.php?channel=47a8b2d99763f7fa2f5b7ca8d9cfc12a&expiry=1782275464&token=6b6e4ab510124703527ec5c02f4b6c3f
-#EXTINF:-1,SKY SPORTS MAIN EVENT HD
-https://kong.pp.ua/iptv/live1.php?channel=05dcd932b4c4644818061dd2663832c7&expiry=1782275464&token=ff2167514e9e7410cecf6787dfdd14f2
-#EXTINF:-1,Sky Sports Golf FHD
-https://kong.pp.ua/iptv/live1.php?channel=ed90190a7476fc71b53fb6901b037098&expiry=1782275464&token=0173ba5817e9ac2432a23d551fe66d97
-#EXTINF:-1,Sky Sports Main Event
-https://kong.pp.ua/iptv/live1.php?channel=bcbe8f73eaa7151ad42f146aa993b406&expiry=1782275464&token=a9795f16e11894346e8f0686c634f14b
-#EXTINF:-1,UK  Sky Sports News
-https://kong.pp.ua/iptv/live1.php?channel=409fbf40e410b49f19d6d1e6d9d90fcf&expiry=1782275464&token=d972506dc091087ad368cd6792f6f927
-#EXTINF:-1,Sky Sports Cricket FHD
-https://kong.pp.ua/iptv/live1.php?channel=7fe10ef8d7bc3680f9b6c3856fedfbd3&expiry=1782275464&token=35414d04c0eccbbbe1321f8067513a3a
-#EXTM3U
-#EXTINF:-1,Potplayer,Tivimate,OTT navigator可用，其它软件自行测试
-https://raw.githubusercontent.com/mavin521/syiptv/main/123/1.m3u8
-#EXTINF:-1,CA TVA SPORTS
-https://kong.pp.ua/iptv/live.php?channel=eff268e6666685b0c016a4fd7ed2b26a&expiry=1782275402&token=9d48f4f2af8a439bbaf63db76977e816
-#EXTINF:-1,CA Sportsnet East
-https://kong.pp.ua/iptv/live.php?channel=2278dfadb8c8fa9afa7884812f4bab74&expiry=1782275402&token=304d1fc9202860991d21082f875b857b
-#EXTINF:-1,CA Sportsnet One
-https://kong.pp.ua/iptv/live.php?channel=8311de3244086e1566686a65d4d6c159&expiry=1782275402&token=54c29a40cac793ee6fdc66ce382e01d1
-#EXTINF:-1,CA Ginx esports TV
-https://kong.pp.ua/iptv/live.php?channel=660bcbe9cb89ad56404ee3e45fd59b7f&expiry=1782275402&token=352b88d697689638105d98eaec3d2e36
-#EXTINF:-1,CA Sportsnet  HD
-https://kong.pp.ua/iptv/live.php?channel=59da56dad417a4185c8a4f1973883f63&expiry=1782275402&token=5f5ceff8774e569154b598152dca59d5
-#EXTINF:-1,CA Sportsnet  HD
-https://kong.pp.ua/iptv/live.php?channel=e153f210a1a275abff2fd2db6976a5c5&expiry=1782275402&token=8baa27b53fe0c8498311d5312a7543b2
-#EXTINF:-1,CA Sportsnet East HD F
-https://kong.pp.ua/iptv/live.php?channel=668edfcb1ec322a7a2a85e47b27445ae&expiry=1782275402&token=424abc0c107a1f6022d5a51dafed00b4
-#EXTINF:-1,CA Sportsnet One FHD
-https://kong.pp.ua/iptv/live.php?channel=ee7aa846775cf1e25f4aba1fb156734d&expiry=1782275402&token=5daa33690f3efc2fe042045f2c729022
-#EXTINF:-1,CA Sportsnet One HD
-https://kong.pp.ua/iptv/live.php?channel=dea3cf23f8dda760e3692aa04de686e3&expiry=1782275402&token=2476ef01f32c707f7ed30b8bf1199bbd
-#EXTINF:-1,CA Sportsnet Ontario
-https://kong.pp.ua/iptv/live.php?channel=a1d71fa2c29c4dd9536f16aded8abfc1&expiry=1782275402&token=57626f1985310c2e4d6e96936b9afd92
-#EXTINF:-1,CA Sportsnet Ontario HD
-https://kong.pp.ua/iptv/live.php?channel=b56bf7861abfd59ef3af0aacbb807dc4&expiry=1782275402&token=374ddb5341f70bedd5c86c8883505f64
-#EXTINF:-1,CA Sportsnet Ontario FHD
-https://kong.pp.ua/iptv/live.php?channel=994af90d443789ff7e6c88292fba0270&expiry=1782275402&token=04d6eb8adf082ed0cfde6d491b62c553
-#EXTINF:-1,CA Sportsnet Pacific FHD
-https://kong.pp.ua/iptv/live.php?channel=e22c18653a213848dc23ff32d9b848cc&expiry=1782275402&token=2b44d6216b9f15f4be53c42899ef25b3
-#EXTINF:-1,CA Sportsnet Pacific HD
-https://kong.pp.ua/iptv/live.php?channel=18124e29acc6b44724953ce24549dc60&expiry=1782275402&token=ae64e5af3fec3b7a6ba0bf54506192fd
-#EXTINF:-1,CA Sportsnet West FHD
-https://kong.pp.ua/iptv/live.php?channel=3062a90ac2712331bbe291e2143252d3&expiry=1782275402&token=b2ff5e272eb8a07259bfeb2b05f7ada9
-#EXTINF:-1,CA SPORTSNET WEST
-https://kong.pp.ua/iptv/live.php?channel=7b0a3869799e6feb19021c137f39f43d&expiry=1782275402&token=2dd5fbc98773afba29d12973c3b75f70
-#EXTINF:-1,CA Sportsnet World HD
-https://kong.pp.ua/iptv/live.php?channel=9e86cfb61e198678cd852a49bbdd69c8&expiry=1782275402&token=f48dad5b6f6a7e2aa1f219f26602ad40
-#EXTINF:-1,CA FR TVA Sports
-https://kong.pp.ua/iptv/live.php?channel=b7c24d8fc5520e7b24eff7f7f0a3a655&expiry=1782275402&token=a9cebca3599a97e890173e2a5e1488ff
-#EXTINF:-1,US FOX Sports
-https://kong.pp.ua/iptv/live.php?channel=a22abebdf798ba8fa868dbadf0229b91&expiry=1782275402&token=830ef3a804cec470fbca626ee6bc5345
-#EXTINF:-1,UK EuroSport
-https://kong.pp.ua/iptv/live.php?channel=2ff12a14f091275043ed51cffb8e5219&expiry=1782275402&token=49013d825a7346fe37f9f56039269abe
-#EXTINF:-1,US CBS Sports Network HD
-https://kong.pp.ua/iptv/live.php?channel=736ceb517bf37a432b85e203b545c1b0&expiry=1782275402&token=0ed80bf2ba648f9c6a801d5847307a0a
-#EXTINF:-1,US ESPNU College Sports
-https://kong.pp.ua/iptv/live.php?channel=e1cfa6345c8640c07a1b8aeaad1effa5&expiry=1782275402&token=c22e49ca8f6abe893c68cd49fb29e9cc
-#EXTINF:-1,US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=6a5c2c6e28eaf679064c222a552f53ff&expiry=1782275402&token=5addf3e32a3b45889f36007ac50ae813
-#EXTINF:-1,US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=631730cec0bb3be3402c249c8bee076b&expiry=1782275402&token=1e23854b80a90cc6a18934454fdda12e
-#EXTINF:-1,CAR SPORTSMAX
-https://kong.pp.ua/iptv/live.php?channel=617db37779f923b597c3bf649d97996e&expiry=1782275402&token=f8fc6f40b8210b81143ba4d2dc695ee3
-#EXTINF:-1,Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=51958793cfe6e5a7a2dc6e8dbe299921&expiry=1782275402&token=a5d8943a034f1bd721337cc6a211ab4c
-#EXTINF:-1,Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=7d1a0cbd574f2e33545091b836d60df6&expiry=1782275402&token=502431d7c4244e0f3c22ba9cd7f2d9e4
-#EXTINF:-1,PT SPORT TV  FHD
-https://kong.pp.ua/iptv/live.php?channel=bb9ad40ade0da255ec72cc880a376f8b&expiry=1782275402&token=9cfd16f83dee82689863446977180a0c
-#EXTINF:-1,PT SPORT TV  HD
-https://kong.pp.ua/iptv/live.php?channel=9558894011acb1da1f633944bc5d4645&expiry=1782275402&token=b1cb09a66cf3ee7734a1d5572e8ec8b2
-#EXTINF:-1,PT SPORT TV  HD
-https://kong.pp.ua/iptv/live.php?channel=68dfeabe3cffd7813cf546208051e2f2&expiry=1782275402&token=5efbb3a7e54d6f9a4d6a32630fca4bd4
-#EXTINF:-1,PT SPORT TV  FHD
-https://kong.pp.ua/iptv/live.php?channel=d29eeae29d22fc3362f0917f05855ce8&expiry=1782275402&token=409725244906e0e1f8974c4c7487c7ec
-#EXTINF:-1,PT ELEVEN SPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=260ae3d9837b0d4a8ca38b7d0c9a32d3&expiry=1782275402&token=dfe4596195da5a895658c443c6c2105e
-#EXTINF:-1,PT ELEVEN SPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=b889301f0db737fd4433af692002a573&expiry=1782275402&token=863ef68d597d43c1b1c437bf32a2f785
-#EXTINF:-1,PT ELEVEN SPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=df5b1470ba6abc00d5c2774c628afde4&expiry=1782275402&token=8c417b81b27eef2ba9354400421269e0
-#EXTINF:-1,US FOX Sports
-https://kong.pp.ua/iptv/live.php?channel=9eaac0310263d0d3c20f8b1c84903563&expiry=1782275402&token=3c3b5e9d05a879d668358b4a250f4b03
-#EXTINF:-1,US Bally Sports Florida
-https://kong.pp.ua/iptv/live.php?channel=7ce0279e1be7db704f70e5a1b823e338&expiry=1782275402&token=017aca5da2b6063d5b33daa8a3702c57
-#EXTINF:-1,Sportsnet
-https://kong.pp.ua/iptv/live.php?channel=de713332f99c89968d1b46d844eebf91&expiry=1782275402&token=096191aa61c43480fbc95fbf0358c745
-#EXTINF:-1,UK EuroSport
-https://kong.pp.ua/iptv/live.php?channel=ccfd810388bab833496e2bbd84d2e4c1&expiry=1782275402&token=0f854b988f6a558dfe62e464e48424b6
-#EXTINF:-1,UK Sky Sports Action
-https://kong.pp.ua/iptv/live.php?channel=0d5efd89f060cdf91ffbeb5b95c6c636&expiry=1782275402&token=4d20b708f35b6888cad24108cf50ddd8
-#EXTINF:-1,UK Sky Sports Arena
-https://kong.pp.ua/iptv/live.php?channel=f86221c992449ccd564d45375b8baf4f&expiry=1782275402&token=5bdd05c2bb978440277fb4947d38a86b
-#EXTINF:-1,UK Sky Sports F1 FHD
-https://kong.pp.ua/iptv/live.php?channel=4bc8b05b7d3cfb2acb7b6748e9bd9e8f&expiry=1782275402&token=72b1a1bf797426cc2395f96f7b23ed35
-#EXTINF:-1,UK Sky Sports Golf FHD
-https://kong.pp.ua/iptv/live.php?channel=a3ebbcd35f5ebc300b8f4fcb9586ca28&expiry=1782275402&token=fd9f1146324104769aab419f5d8e59aa
-#EXTINF:-1,UK Sky Sports Main Event
-https://kong.pp.ua/iptv/live.php?channel=777aed5a74d3f11d40fbfbca8a432b7a&expiry=1782275402&token=75f8e9cccc97dccd700d5e694b48a1f8
-#EXTINF:-1,UK Sky Sports Mix FHD
-https://kong.pp.ua/iptv/live.php?channel=3c864ac1d90bd414153889aa2fe3539f&expiry=1782275402&token=8f27ab45fa92eab1c43e7b660ebf858c
-#EXTINF:-1,UK Sky Sports News
-https://kong.pp.ua/iptv/live.php?channel=75fdad715352a9666b7683aa994e2a62&expiry=1782275402&token=a9251e74690797103a8bb079aaa4c38f
-#EXTINF:-1,UK Sky Sports Cricket FHD
-https://kong.pp.ua/iptv/live.php?channel=1402990db67fa797ab3492ccdfc8ba66&expiry=1782275402&token=717a8d8f881a5c47a5024e4d3ed656c1
-#EXTINF:-1,UK Sky Sports F1
-https://kong.pp.ua/iptv/live.php?channel=6447a00537a808a1630b70fa42cdedec&expiry=1782275402&token=278f23c8f5a36d82534518359bbf4ac5
-#EXTINF:-1,US Bally Sports Southeast
-https://kong.pp.ua/iptv/live.php?channel=806d9ecb5b7a1f5fb00131686fc798c8&expiry=1782275402&token=4b5b03d9c418ace728c6719805ff2d23
-#EXTINF:-1,US NBC Sports Network
-https://kong.pp.ua/iptv/live.php?channel=ed0d62ceb1ccb8fa46c010f91ef7df01&expiry=1782275402&token=11e4e6a2456280c0b38b6694193fabae
-#EXTINF:-1,US Bally Sports Detroit
-https://kong.pp.ua/iptv/live.php?channel=34df14f367c4d86e90a40481b5a9744d&expiry=1782275402&token=8694eab9437bc57d5cd3f8ba123844fa
-#EXTINF:-1,US Bally Sports Midwest
-https://kong.pp.ua/iptv/live.php?channel=121ee1307fa786da6cec1d57f4a0931c&expiry=1782275402&token=9b99cbb15b2fcb49656f86c141015b37
-#EXTINF:-1,US Bally Sports Oklahoma
-https://kong.pp.ua/iptv/live.php?channel=31090f72b3b75bf0dadbdba8940d6a9f&expiry=1782275402&token=d1748f310ac55ae4e538cd90825c3ccb
-#EXTINF:-1,US Bally Sports Southeast
-https://kong.pp.ua/iptv/live.php?channel=26055d052c5e670bd7d81597d5d3be95&expiry=1782275402&token=373bf9bf8dc131e7eb6db004989a099a
-#EXTINF:-1,US Bally Sports Southwest
-https://kong.pp.ua/iptv/live.php?channel=90605d900466c89dec6b241225890be5&expiry=1782275402&token=0459890a1197794e5a248726f915330f
-#EXTINF:-1,US Bally Sports West
-https://kong.pp.ua/iptv/live.php?channel=0db22cda8673561485ee8401ae33a797&expiry=1782275402&token=7769144d9e27b80c59b168205d15e04e
-#EXTINF:-1,US FanDuel Sports Wisconsin
-https://kong.pp.ua/iptv/live.php?channel=dab1aceccdf37ff0fc4fa11123e5245b&expiry=1782275402&token=47f83a2593af474ed4a961a4b4310194
-#EXTINF:-1,PT Eleven Sports  FHD
-https://kong.pp.ua/iptv/live.php?channel=0bd1ee1dcd22bbdbdda5980b061725b1&expiry=1782275402&token=026a054cd058c087c119bc418358b663
-#EXTINF:-1,US Bally Sports North
-https://kong.pp.ua/iptv/live.php?channel=60be623155d0f796c9fb9b03b8995d21&expiry=1782275402&token=3b02120b9f4050d3d4a665857a27548e
-#EXTINF:-1,US Bally Sports
-https://kong.pp.ua/iptv/live.php?channel=f4e14092d890b79ac046002c68a72e79&expiry=1782275402&token=4e18d0585110ea39d32c4a6da7edd7da
-#EXTINF:-1,US Bally Sports Ohio
-https://kong.pp.ua/iptv/live.php?channel=a0c0da11430903b7eec3479cd4fae214&expiry=1782275402&token=2e070a0aa4ee6688450cb2d28a838634
-#EXTINF:-1,US NBC Sports Bay Area
-https://kong.pp.ua/iptv/live.php?channel=fb14bd7406041d0bfeab74f66c62026e&expiry=1782275402&token=f263a811a2e0275aa88ad7b40abb1e19
-#EXTINF:-1,US NBC Sports Boston
-https://kong.pp.ua/iptv/live.php?channel=8d26f72ccd51fdc6e243bc8d9581b859&expiry=1782275402&token=3821ad227e6c1bb4bab1ddee3d5e2a27
-#EXTINF:-1,US NBC Sports California
-https://kong.pp.ua/iptv/live.php?channel=972a29fc8933643c6be8449e38b7a85d&expiry=1782275402&token=7bc20b43122e357965a3e82434b4a109
-#EXTINF:-1,US NBC Sports Chicago
-https://kong.pp.ua/iptv/live.php?channel=ea933353832aa453da52cb41571acd8c&expiry=1782275402&token=8f6b4dd99a57dbc2903ee1290fa68d3c
-#EXTINF:-1,US NBC Sports Network FHD
-https://kong.pp.ua/iptv/live.php?channel=fc777c1b8b0b036faa124c22d3bc7731&expiry=1782275402&token=22084f6c99922bd89d28103d98ac2a26
-#EXTINF:-1,US NBC Sports Philly
-https://kong.pp.ua/iptv/live.php?channel=b445e40e7a4ac3009d30a464b165acbf&expiry=1782275402&token=a192f5bde6af1214b9ebfbd8bbdf89af
-#EXTINF:-1,US NBC Sports Washington F
-https://kong.pp.ua/iptv/live.php?channel=9528187deb2b6cd35ad8f962052555a5&expiry=1782275402&token=358836d3c88c1248e52d63cff5f8668c
-#EXTINF:-1,US Spectrum SportsNet LA Dodgers HD
-https://kong.pp.ua/iptv/live.php?channel=dd3a70e909c12b7c49c23c920940899b&expiry=1782275402&token=477a66f270f8db89cfce1a81b2566eb8
-#EXTINF:-1,US Spectrum SportsNet Lakers FHD
-https://kong.pp.ua/iptv/live.php?channel=a98a5614c6a9b5f24d21d2ee0b0f27db&expiry=1782275402&token=2d20bfb6377fb28c9356bf6671a663f0
-#EXTINF:-1,US Spectrum SportsNet Lakers FHD
-https://kong.pp.ua/iptv/live.php?channel=1edca2e074266a068a4599a9610451d8&expiry=1782275402&token=ffb0e862144b192106a4a4f87d9d12bc
-#EXTINF:-1,US Altitude Sports HD
-https://kong.pp.ua/iptv/live.php?channel=d704eaad4b4188373cdc7c37288ebb61&expiry=1782275402&token=21370aba248d679a7c993abe30448a6f
-#EXTINF:-1,US CBS Sports Network HD
-https://kong.pp.ua/iptv/live.php?channel=196aa194d2bf2149e84005eea5d808b7&expiry=1782275402&token=cfc750a3b3646c9ad097d78c49a3dc08
-#EXTINF:-1,US ESPNU College Sports
-https://kong.pp.ua/iptv/live.php?channel=9c60348bb7c48fb8f33af3ac1168eb7d&expiry=1782275402&token=1c8774388c2fdc64219a4fe7fcbfbc85
-#EXTINF:-1,US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=f5f8616e105c2de614fe703b3155179a&expiry=1782275402&token=34744ea7f3cb52ba0ce0dcbadf5fed19
-#EXTINF:-1,US Fox Sports
-https://kong.pp.ua/iptv/live.php?channel=678dc13a40bc92a89aec29ac9449a3f9&expiry=1782275402&token=739c1fb105bb8a6ff92c60f4b4e09b56
-#EXTINF:-1,US Bally Sports North A
-https://kong.pp.ua/iptv/live.php?channel=84827e2abb983da746d91596e4827ea0&expiry=1782275402&token=dc527462864a8a953a74b569672c2b61
-#EXTINF:-1,US Bally Sports Carolinas
-https://kong.pp.ua/iptv/live.php?channel=8b0f08f7caa1891a369a2ca77e735cd3&expiry=1782275402&token=28e8313b0477c166a4ffdb52820d4f67
-#EXTINF:-1,US Bally Sports South
-https://kong.pp.ua/iptv/live.php?channel=490c53dba7ef5d680328d6d399f30fb1&expiry=1782275402&token=10ee28fcf51f71374e6d99bcaf2fa161
-#EXTINF:-1,US Bally Sports South
-https://kong.pp.ua/iptv/live.php?channel=f80c55751290655726f88ddd31987fdf&expiry=1782275402&token=ee7b89964b11a76d4ac33aa03b4bfadb
-#EXTINF:-1,US Marquee Sports Network HD
-https://kong.pp.ua/iptv/live.php?channel=cd7cc83b6a033661fb7370577d6f5538&expiry=1782275402&token=a0fe4e5ab844eac7ba32869c84576871
-#EXTINF:-1,US Sportsnet New York SNY
-https://kong.pp.ua/iptv/live.php?channel=d7e46a22db988cba519d5fa29a106e38&expiry=1782275402&token=c75830684622cf53a4fbd0cd62462ae4
-#EXTINF:-1,US Sportsman Channel
-https://kong.pp.ua/iptv/live.php?channel=53faedc755edd2e38c6a9d653cf7f995&expiry=1782275402&token=211775115516cfe50d60dbfca9083313
-#EXTINF:-1,US Bally Sports Sun
-https://kong.pp.ua/iptv/live.php?channel=b225c7981819ae7c7e7f7bfba1e4b78e&expiry=1782275402&token=37d9ddf287cc32e32835aef8d298d523
-#EXTINF:-1,CAR SPORTSMAX
-https://kong.pp.ua/iptv/live.php?channel=d649f9c2502fcdd32b85ac0671b9bbc0&expiry=1782275402&token=bf3053bc64fd99b9ab72eb4b9503dee3
-#EXTINF:-1,Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=ccb54c4e87ba9dde14a3f744853eff55&expiry=1782275402&token=8cd21f67ab4827468314ed2cfb477349
-#EXTINF:-1,Star TV Sports
-https://kong.pp.ua/iptv/live.php?channel=08533d571d7642677d6dca892d747a59&expiry=1782275402&token=df2f94b49268d8b1d71c226629ffce08
-#EXTINF:-1,UK SKY SPORTS ARENA FHD
-https://kong.pp.ua/iptv/live.php?channel=47a8b2d99763f7fa2f5b7ca8d9cfc12a&expiry=1782275402&token=aa2a3ceb1f65452d502a3f8393d0e94f
-#EXTINF:-1,UK SKY SPORTS MAIN EVENT HD
-https://kong.pp.ua/iptv/live.php?channel=05dcd932b4c4644818061dd2663832c7&expiry=1782275402&token=26bf173be983b91a3b02b332af2f6e3f
-#EXTINF:-1,NSPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=8e6cad389ae41eb6a50f1374ad35bb63&expiry=1782275402&token=48be7eb889a84d19f7006289d98a7db0
-#EXTINF:-1,NSPORTS  HD
-https://kong.pp.ua/iptv/live.php?channel=77a224911cdaf6e9effae6267226bb40&expiry=1782275402&token=5afa72ae315172e63a1e7443a08a7b84
-#EXTINF:-1,PAY PER VIEW ESPORTES
-https://kong.pp.ua/iptv/live.php?channel=642a4a430010d987d550b15520292fa6&expiry=1782275402&token=a316c3756e3db1e572819247adb3d43f
-#EXTINF:-1,SPORTV
-https://kong.pp.ua/iptv/live.php?channel=2eb68d0255f16c9b792d489b9a1843c2&expiry=1782275402&token=58fbe76c966692fd091efd64894a0686
-#EXTINF:-1,SPORTV  HDR
-https://kong.pp.ua/iptv/live.php?channel=204ddac9a235be06eb5fb81c25500602&expiry=1782275402&token=e95d930a0e4751d020a3c81993291265
-#EXTINF:-1,SPORTV  HDR
-https://kong.pp.ua/iptv/live.php?channel=6d098dc9cd5329bc56d2a27fc8ad9fe4&expiry=1782275402&token=cd4dd0e1fbfe8389553de3e1cb64b82a
-#EXTINF:-1,SPORTV
-https://kong.pp.ua/iptv/live.php?channel=fd8c033fec0a053d93e6f471ebf7307e&expiry=1782275402&token=665f4eae977451745c1a681638112b64
-#EXTINF:-1,SPORTV  HDR
-https://kong.pp.ua/iptv/live.php?channel=af02aa8daf0802722f983071b939dd22&expiry=1782275402&token=07d92002c42af3cc79450003bdd98fc3
-#EXTINF:-1,SPORTV
-https://kong.pp.ua/iptv/live.php?channel=355330742543ad3aa64c48f16743819b&expiry=1782275402&token=59cdf1202b2209fee1138b11d9628640
-#EXTINF:-1,PREMIERE SPORTS
-https://kong.pp.ua/iptv/live.php?channel=f1a9d34ef67edf5388c04f0dba30909d&expiry=1782275402&token=662a82b6c817e82664ebd4c68b97272f
-#EXTINF:-1,FOX SPORTS
-https://kong.pp.ua/iptv/live.php?channel=a40e5be2a0393e3629cb17b5cd8c2a42&expiry=1782275402&token=b6d68dbe78546a3479e89d90463fbe7c
